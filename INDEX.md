@@ -1,6 +1,6 @@
 # JOSHUA — the register, by name
 
-One folder per item in the IP register (`WGU/MBA, IT Management/30_Copyright/V1.0 IP REGISTER.md`). Each folder holds a README and copies of the files; the vault keeps the originals. The five Armored drill books, their covers and the C213 drill live together in `Armored drills, a Travelor's guide through.../`. The steering file is `STEERING_PORT.md` here at the root.
+One folder per item in the IP register (`WGU/MBA, IT Management/30_Copyright/V1.0 IP REGISTER.md`). Each folder holds a README and copies of the files; the vault keeps the originals. The e-books and published outputs (the five Armored drill books, the Traveler's Guide public edition, their covers, the KDP listing sheet, the Joshua Says Armored series set and the C213 drill) live together in `Armored drills, a Travelor's guide through.../`. The steering file is `STEERING_PORT.md` here at the root.
 
 | Item | Folder | Files |
 |---|---|---|
@@ -18,21 +18,21 @@ One folder per item in the IP register (`WGU/MBA, IT Management/30_Copyright/V1.
 | Armored ServiceNow: Now Assist Skill Kit (book, V1) | `Armored drills, a Travelor's guide through.../Armored ServiceNow - Now Assist Skill Kit (book, V1)/` | 2 |
 | Armored Genesys Cloud CX (book, V1) | `Armored drills, a Travelor's guide through.../Armored Genesys Cloud CX (book, V1)/` | 2 |
 | Armored Integration: Whisper, Warm, Hot (book, V1) | `Armored drills, a Travelor's guide through.../Armored Integration - Whisper, Warm, Hot (book, V1)/` | 2 |
-| The Traveler's Guide: Nursing State and Owner's County (public edition, V1) | `The Traveler's Guide - Nursing State and Owner's County (public edition, V1)/` | 2 |
+| The Traveler's Guide: Nursing State and Owner's County (public edition, V1) | `Armored drills, a Travelor's guide through.../The Traveler's Guide - Nursing State and Owner's County (public edition, V1)/` | 2 |
 | The Last Ten Yards — post 1 and the twelve-episode plan | `The Last Ten Yards — post 1 and the twelve-episode plan/` | 4 |
 | Cover — ITSM | `Armored drills, a Travelor's guide through.../Cover — ITSM/` | 1 |
 | Cover — Customer Service Management | `Armored drills, a Travelor's guide through.../Cover — Customer Service Management/` | 1 |
 | Cover — Now Assist Skill Kit | `Armored drills, a Travelor's guide through.../Cover — Now Assist Skill Kit/` | 1 |
 | Cover — Genesys Cloud CX | `Armored drills, a Travelor's guide through.../Cover — Genesys Cloud CX/` | 1 |
 | Cover — Integration: Whisper, Warm, Hot | `Armored drills, a Travelor's guide through.../Cover — Integration - Whisper, Warm, Hot/` | 1 |
-| Cover — Traveler's Guide | `Cover — Traveler's Guide/` | 1 |
+| Cover — Traveler's Guide | `Armored drills, a Travelor's guide through.../Cover — Traveler's Guide/` | 1 |
 | RIBBON — Master PRD Set (Rev F) | `RIBBON — Master PRD Set (Rev F)/` | 2 |
 | RIBBON — Design Addendum (Rev C) | `RIBBON — Design Addendum (Rev C)/` | 2 |
 | RIBBON — Shape Options Addendum (Rev D) | `RIBBON — Shape Options Addendum (Rev D)/` | 2 |
 | RIBBON — Scale-Up Roadmap | `RIBBON — Scale-Up Roadmap/` | 2 |
 | RIBBON — Business Plan | `RIBBON — Business Plan/` | 1 |
 | RIBBON — Complete Build | `RIBBON — Complete Build/` | 1 |
-| KDP listing sheet + JSON | `KDP listing sheet + JSON/` | 3 |
+| KDP listing sheet + JSON | `Armored drills, a Travelor's guide through.../KDP listing sheet + JSON/` | 3 |
 | DEPOT_METRICS ledger | `DEPOT_METRICS ledger/` | 2 |
 | Depot brief (7045 S 300 E) | `Depot brief (7045 S 300 E)/` | 2 |
 | Plan — FOREST | `Plan — FOREST/` | 4 |
@@ -63,7 +63,7 @@ One folder per item in the IP register (`WGU/MBA, IT Management/30_Copyright/V1.
 | Trademark — JOSHUA HOLDINGS | `Trademark — JOSHUA HOLDINGS/` | 0 |
 | Trademark — LAST TEN YARDS | `Trademark — LAST TEN YARDS/` | 3 |
 | Trademark — RIDE AT CLOSING | `Trademark — RIDE AT CLOSING/` | 0 |
-| Trademark — JOSHUA SAYS | `Trademark — JOSHUA SAYS/` | 1 |
+| Trademark — JOSHUA SAYS | `Trademark — JOSHUA SAYS/` | 0 (the Armored series set moved to the drills folder) |
 | Trademark — ARMORED | `Trademark — ARMORED/` | 0 |
 | Trademark — PHARMADASH | `Trademark — PHARMADASH/` | 0 |
 | Trademark — ROBOLIFE | `Trademark — ROBOLIFE/` | 0 |
@@ -89,3 +89,4 @@ One folder per item in the IP register (`WGU/MBA, IT Management/30_Copyright/V1.
 | Patent claim C5 · Ring and Hex geometries | `Patent claim C5 · Ring and Hex geometries/` | 2 |
 | Patent claim C6 · The Knot — the service hub (PRD-03) | `Patent claim C6 · The Knot — the service hub (PRD-03)/` | 2 |
 | C213 Armored Drill (study drill, copy) | `Armored drills, a Travelor's guide through.../C213 Armored Drill/` | 1 |
+| Joshua Says Armored Series (2026-09-15) | `Armored drills, a Travelor's guide through.../Joshua Says Armored Series (2026-09-15)/` | 11 |
