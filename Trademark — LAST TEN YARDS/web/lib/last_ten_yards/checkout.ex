@@ -25,7 +25,7 @@ defmodule LastTenYards.Checkout do
       "line_items[0][price]" => product["stripe_price"],
       "line_items[0][quantity]" => "1",
       "metadata[product_id]" => product["id"],
-      "success_url" => base_url <> "/store/thanks?session={CHECKOUT_SESSION_ID}",
+      "success_url" => base_url <> "/store/thanks?session_id={CHECKOUT_SESSION_ID}",
       "cancel_url" => base_url <> "/store"
     }
   end

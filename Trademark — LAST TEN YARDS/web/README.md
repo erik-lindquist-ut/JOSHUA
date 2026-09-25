@@ -12,7 +12,7 @@ Mobile-first. `/` shows the 15 posts. `/store` is the store; **Buy** sends the b
 | Stripe checkout logic | `lib/last_ten_yards/checkout.ex` |
 | Heroku | `Procfile` (release phase runs `mix ecto.migrate`), `elixir_buildpack.config`, `config/runtime.exs` (reads `DATABASE_URL`) |
 
-**Specs:** 162 post specs (node, all pass) · **70 core specs** — checkout, store rules, lines file, webhook signature, schema-in-step (`elixir test/run_core.exs`, all pass) · **20 database checks in real Postgres 16**, plus all 24 lines loaded into it (`priv/repo/structure.sql` + `test/sql/schema_check.sql`, all pass) · **`mix test`: 94 specs, 0 failures** on the real stack (Phoenix 1.7.14, Ecto 3.12, Postgres 16), 2026-09-25. The server boots and serves every page: `/`, `/lines`, `/l/<slug>`, `/store`, `/store/thanks`; unknown line → 404.
+**Specs:** 162 post specs (node, all pass) · **70 core specs** — checkout, store rules, lines file, webhook signature, schema-in-step (`elixir test/run_core.exs`, all pass) · **20 database checks in real Postgres 16**, plus all 63 lines loaded into it (`priv/repo/structure.sql` + `test/sql/schema_check.sql`, all pass) · **`mix test`: 94 specs, 0 failures** on the real stack (Phoenix 1.7.14, Ecto 3.12, Postgres 16), 2026-09-25. The server boots and serves every page: `/`, `/lines`, `/l/<slug>`, `/store`, `/store/thanks`; unknown line → 404.
 
 **Heroku config vars it reads:** `DATABASE_URL` (set by the Heroku Postgres add-on), `SECRET_KEY_BASE`, `PHX_HOST`, `STRIPE_SECRET_KEY`, `STRIPE_WEBHOOK_SECRET`. Nothing secret lives in the code.
 

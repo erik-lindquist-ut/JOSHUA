@@ -13,7 +13,7 @@ defmodule LastTenYards.CheckoutTest do
 
   test "params send the buyer back to our own success and cancel pages" do
     f = Checkout.params(@p, "https://lty.example")
-    assert f["success_url"] == "https://lty.example/store/thanks?session={CHECKOUT_SESSION_ID}"
+    assert f["success_url"] == "https://lty.example/store/thanks?session_id={CHECKOUT_SESSION_ID}"
     assert f["cancel_url"] == "https://lty.example/store"
   end
 

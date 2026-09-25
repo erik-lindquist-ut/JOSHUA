@@ -3,7 +3,8 @@
   <head>
     <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Thank you · Last Ten Yards</title>
+    <link rel="icon" href="/favicon.ico" sizes="any" />
     <link rel="stylesheet" href="/assets/styles.css" /><link rel="stylesheet" href="/assets/store.css" />
   </head>
-  <body><header><div class="brand">Last Ten Yards</div><h1>Thank you.</h1><p>Your order is in. <a href="/">Back to the posts</a></p></header></body>
+  <body><header><div class="brand">Last Ten Yards</div><h1>Thank you.</h1><%= if @order? do %><p>Your order is in. <a href="/">Back to the posts</a></p><% else %><p>No order found. <a href="/">Back to the posts</a></p><% end %></header></body>
 </html>

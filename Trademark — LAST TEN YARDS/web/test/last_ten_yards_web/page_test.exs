@@ -22,4 +22,18 @@ defmodule LastTenYardsWeb.PageTest do
   test "the posts file carries #LastTenYards", %{conn: conn} do
     assert conn |> get("/assets/posts.js") |> response(200) =~ "#LastTenYards"
   end
+
+  test "favicon.ico is served", %{conn: conn} do
+    conn = get(conn, "/favicon.ico")
+    assert conn.status == 200
+    assert byte_size(conn.resp_body) > 0
+  end
+
+  for path <- ~w(/ /lines /l/last-ten-yards /store /store/thanks) do
+    @path path
+    test "#{path} links the favicon", %{conn: conn} do
+      LastTenYards.Store.upsert_line(%{"slug" => "last-ten-yards", "name" => "Last Ten Yards"})
+      assert conn |> get(@path) |> response(200) =~ ~s(<link rel="icon" href="/favicon.ico")
+    end
+  end
 end

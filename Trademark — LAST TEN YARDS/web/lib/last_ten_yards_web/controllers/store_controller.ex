@@ -41,5 +41,13 @@ defmodule LastTenYardsWeb.StoreController do
     end
   end
 
-  def thanks(conn, _), do: conn |> put_root_layout(false) |> render(:thanks)
+  @doc """
+  Stripe sends the buyer here with ?session_id={CHECKOUT_SESSION_ID} (see Checkout.params/2).
+  Only a request carrying a Stripe checkout session id ("cs_...") says the order is in; the id is
+  never shown. The order itself is recorded only by the signed webhook, not by this page.
+  """
+  def thanks(conn, params), do: conn |> put_root_layout(false) |> render(:thanks, order?: checkout_session?(params["session_id"]))
+
+  defp checkout_session?(id) when is_binary(id), do: Regex.match?(~r/\Acs_[A-Za-z0-9_]{1,255}\z/, id)
+  defp checkout_session?(_), do: false
 end
