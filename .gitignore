@@ -3,7 +3,7 @@
 # Python caches
 __pycache__/
 *.pyc
-# Elixir / Node build output (source _build folders like Project 48/_build are kept)
+# Elixir / Node build output (source _build folders like Code — Joshua Says book builders/_build are kept)
 **/web/_build/
 **/web/deps/
 **/JOSHUA_repo/_build/

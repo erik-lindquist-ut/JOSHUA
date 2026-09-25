@@ -1,6 +1,6 @@
 # Last Ten Yards — fixes, 2026-09-25
 
-Made and tested on a box copy of `Project 58/web` (Elixir 1.18.3 / OTP 27, PostgreSQL 17.11, Phoenix 1.7.24).
+Made and tested on a box copy of `Trademark — LAST TEN YARDS/web` (Elixir 1.18.3 / OTP 27, PostgreSQL 17.11, Phoenix 1.7.24).
 Nothing on the Mac was changed. The patch has **not** been applied anywhere on the Mac.
 
 ## Files here
