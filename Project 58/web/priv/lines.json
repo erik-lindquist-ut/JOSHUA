@@ -1,0 +1,443 @@
+[
+ {
+  "slug": "resume-writing",
+  "name": "Resume Writing",
+  "tagline": "Opened 09-09 as one of eight side-hustle lines.",
+  "source": "50_Ribbon/01_Resume_Writing",
+  "position": 0
+ },
+ {
+  "slug": "curriculum-design",
+  "name": "Curriculum Design",
+  "tagline": "Opened 09-09. The biggest built asset lives here in spirit.",
+  "source": "50_Ribbon/02_Curriculum_Design",
+  "position": 1
+ },
+ {
+  "slug": "tesla-rideshare",
+  "name": "Tesla Rideshare",
+  "tagline": "Robotaxi at every bar at closing.",
+  "source": "50_Ribbon/03_Tesla_Rideshare",
+  "position": 2
+ },
+ {
+  "slug": "tesla-semi",
+  "name": "Tesla Semi",
+  "tagline": "Medicine to branch pharmacies, freight, and the fire and heavy-rescue chassis.",
+  "source": "50_Ribbon/04_Tesla_Semi",
+  "position": 3
+ },
+ {
+  "slug": "pharmacology",
+  "name": "Pharmacology",
+  "tagline": "Pharmadash: medicine is the load that pays for the network.",
+  "source": "50_Ribbon/05_Pharmacology",
+  "position": 4
+ },
+ {
+  "slug": "nursing",
+  "name": "Nursing",
+  "tagline": "The medicine layer at the bedside.",
+  "source": "50_Ribbon/06_Nursing",
+  "position": 5
+ },
+ {
+  "slug": "landlord",
+  "name": "Landlord",
+  "tagline": "The depot is the building the fleet lives in.",
+  "source": "50_Ribbon/07_Landlord",
+  "position": 6
+ },
+ {
+  "slug": "medical-detox",
+  "name": "Medical Detox",
+  "tagline": "Detox as the depot’s first tenant.",
+  "source": "50_Ribbon/08_Medical_Detox",
+  "position": 7
+ },
+ {
+  "slug": "robotics-elderly-care",
+  "name": "Robotics & Elderly Care",
+  "tagline": "RIBBON is the chassis. This line is who buys it and why.",
+  "source": "50_Ribbon/09_Robotics_Elderly_Care",
+  "position": 8
+ },
+ {
+  "slug": "armored-training",
+  "name": "Armored Training",
+  "tagline": "ServiceNow and Genesys drills, sold as $0.99 books.",
+  "source": "50_Ribbon/10_Armored_Training",
+  "position": 9
+ },
+ {
+  "slug": "last-ten-yards",
+  "name": "Last Ten Yards",
+  "tagline": "Curb to door, in every state. Midvale first.",
+  "source": "50_Ribbon/11_Last_Ten_Yards",
+  "position": 10
+ },
+ {
+  "slug": "breadcrumb-trail",
+  "name": "The Breadcrumb Trail",
+  "tagline": "One step at a time. The choice named. Its effect on the next step.",
+  "source": "50_Ribbon/12_Breadcrumb_Trail",
+  "position": 11
+ },
+ {
+  "slug": "ribbon",
+  "name": "RIBBON",
+  "tagline": "Chair-free work surface. A walking robot is the spine; the desk or floor tile takes the load.",
+  "source": "50_Ribbon/RIBBON_documents",
+  "position": 12
+ },
+ {
+  "slug": "ride-at-closing",
+  "name": "Ride at Closing",
+  "tagline": "The first product: a robotaxi at every bar at closing.",
+  "source": "30_Copyright/V1.0 IP REGISTER.md#B1",
+  "position": 13
+ },
+ {
+  "slug": "joshua-says",
+  "name": "Joshua Says",
+  "tagline": "The imprint and series.",
+  "source": "30_Copyright/V1.0 IP REGISTER.md#B1",
+  "position": 14
+ },
+ {
+  "slug": "pharmadash",
+  "name": "Pharmadash",
+  "tagline": "The medicine-anchored delivery network.",
+  "source": "30_Copyright/V1.0 IP REGISTER.md#B1",
+  "position": 15
+ },
+ {
+  "slug": "robolife",
+  "name": "Robolife",
+  "tagline": "The air-ambulance line.",
+  "source": "30_Copyright/V1.0 IP REGISTER.md#B1",
+  "position": 16
+ },
+ {
+  "slug": "kingfisher",
+  "name": "Kingfisher",
+  "tagline": "The fishing backpack model.",
+  "source": "30_Copyright/V1.0 IP REGISTER.md#B1",
+  "position": 17
+ },
+ {
+  "slug": "nursing-state",
+  "name": "Nursing State",
+  "tagline": "The guide’s first territory.",
+  "source": "30_Copyright/V1.0 IP REGISTER.md#B1",
+  "position": 18
+ },
+ {
+  "slug": "owners-county",
+  "name": "Owner’s County",
+  "tagline": "The guide’s second territory.",
+  "source": "30_Copyright/V1.0 IP REGISTER.md#B1",
+  "position": 19
+ },
+ {
+  "slug": "guided-mastery",
+  "name": "Guided Mastery",
+  "tagline": "The method: from stuck to real, transferable mastery.",
+  "source": "30_Copyright/V1.0 IP REGISTER.md#B1",
+  "position": 20
+ },
+ {
+  "slug": "course-mastery-coach",
+  "name": "Course Mastery Coach",
+  "tagline": "Exam results turned into a study system.",
+  "source": "30_Copyright/V1.0 IP REGISTER.md#B1",
+  "position": 21
+ },
+ {
+  "slug": "the-survey",
+  "name": "The Survey",
+  "tagline": "A method, sold as a skill.",
+  "source": "30_Copyright/V1.0 IP REGISTER.md#B1",
+  "position": 22
+ },
+ {
+  "slug": "context-port",
+  "name": "Context Port",
+  "tagline": "A method, sold as a skill.",
+  "source": "30_Copyright/V1.0 IP REGISTER.md#B1",
+  "position": 23
+ },
+ {
+  "slug": "western-states-satellite",
+  "name": "Western States Satellite",
+  "tagline": "One satellite over ten western states: the sky layer for the fleet.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#1",
+  "position": 24
+ },
+ {
+  "slug": "robotaxi",
+  "name": "Robotaxi",
+  "tagline": "A car at the door when there was none: bars at closing, clinics by day.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#2",
+  "position": 25
+ },
+ {
+  "slug": "robovan",
+  "name": "Robovan",
+  "tagline": "The wheelchair and the group from the care home.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#3",
+  "position": 26
+ },
+ {
+  "slug": "humanoid-robot",
+  "name": "Humanoid Robot",
+  "tagline": "The robot for the bedside, when it is ready.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#4",
+  "position": 27
+ },
+ {
+  "slug": "civilian-vtol",
+  "name": "Civilian VTOL",
+  "tagline": "A vertical-lift aircraft built for civilians, not the military.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#6",
+  "position": 28
+ },
+ {
+  "slug": "vtol-commuter",
+  "name": "VTOL Commuter on a Wire",
+  "tagline": "Summoned by app, flies itself home to work and back. A ride, priced like a ride.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#7, #27",
+  "position": 29
+ },
+ {
+  "slug": "pharma-distribution-node",
+  "name": "Pharmaceutical Distribution Node",
+  "tagline": "Where medicine is staged for the last mile.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#9",
+  "position": 30
+ },
+ {
+  "slug": "last-mile",
+  "name": "Last Mile",
+  "tagline": "The van leg: depot to the curb.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#10",
+  "position": 31
+ },
+ {
+  "slug": "palliative-care",
+  "name": "Palliative Care",
+  "tagline": "Rides and medicine for comfort care at home.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#12",
+  "position": 32
+ },
+ {
+  "slug": "hospice",
+  "name": "Hospice",
+  "tagline": "The last ten yards for the last days.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#12",
+  "position": 33
+ },
+ {
+  "slug": "occupational-therapy",
+  "name": "Occupational Therapy",
+  "tagline": "Getting people to therapy, and therapy to people.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#12",
+  "position": 34
+ },
+ {
+  "slug": "hospital-administration",
+  "name": "Hospital Administration",
+  "tagline": "The fleet and the load, run for the hospital.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#14",
+  "position": 35
+ },
+ {
+  "slug": "rural-pharmacy",
+  "name": "Rural Pharmacy",
+  "tagline": "A branch pharmacy in a small town, stocked from a full one elsewhere.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#16",
+  "position": 36
+ },
+ {
+  "slug": "seat-arbitrage",
+  "name": "Seat Arbitrage",
+  "tagline": "Ride apps sell seats and own nothing. Own the fleet, the load and the destination.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#19; 00_MIND/plans/V3.6.2 FOREST.md#8",
+  "position": 37
+ },
+ {
+  "slug": "ribbon-schools",
+  "name": "Ribbon Schools",
+  "tagline": "Desks with no chairs, floors with no carpet, halls as protection, a marked path out.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#20-23",
+  "position": 38
+ },
+ {
+  "slug": "ride-instead-of-interlock",
+  "name": "Ride Instead of Interlock",
+  "tagline": "Buy the ride instead of the interlock, the fees, the fines and the jail time.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#25",
+  "position": 39
+ },
+ {
+  "slug": "non-emergency-medical-transport",
+  "name": "Non-Emergency Medical Transport",
+  "tagline": "The van run to dialysis and appointments; the licensed ambulance when the law allows.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#26",
+  "position": 40
+ },
+ {
+  "slug": "same-day-delivery",
+  "name": "Same-Day Delivery",
+  "tagline": "The same-day parcel, on the van.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#26",
+  "position": 41
+ },
+ {
+  "slug": "mail-delivery",
+  "name": "Mail Delivery",
+  "tagline": "The mail, on the van.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#26",
+  "position": 42
+ },
+ {
+  "slug": "food-truck",
+  "name": "Food Truck",
+  "tagline": "The van that parks where lunch is.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#26",
+  "position": 43
+ },
+ {
+  "slug": "door-window-finish-delivery",
+  "name": "Door, Window and Finish Delivery",
+  "tagline": "Doors, windows and finish carpentry to the job.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#26",
+  "position": 44
+ },
+ {
+  "slug": "lumber-delivery",
+  "name": "Lumber Delivery",
+  "tagline": "Lumber to the job site.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#26",
+  "position": 45
+ },
+ {
+  "slug": "backpack-commuter",
+  "name": "Backpack Commuter",
+  "tagline": "One person, summoned, flown: a two-hour commute in ten minutes.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#28",
+  "position": 46
+ },
+ {
+  "slug": "fire-apparatus",
+  "name": "Fire Apparatus",
+  "tagline": "Fire and heavy rescue on the Semi chassis.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#29",
+  "position": 47
+ },
+ {
+  "slug": "police-patrol",
+  "name": "Police Patrol",
+  "tagline": "Patrol on the SUV chassis.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#29",
+  "position": 48
+ },
+ {
+  "slug": "tactical-vehicles",
+  "name": "Tactical Vehicles",
+  "tagline": "The armored class, electric.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#29",
+  "position": 49
+ },
+ {
+  "slug": "elder-mobility-carts",
+  "name": "Elder Mobility Carts",
+  "tagline": "A shared, summoned golf cart instead of a scooter each person buys.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#30",
+  "position": 50
+ },
+ {
+  "slug": "mountain-vtol-lift",
+  "name": "Mountain VTOL Lift",
+  "tagline": "A lift with no cable for skiers and snowboarders.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#31",
+  "position": 51
+ },
+ {
+  "slug": "scuba-instruction",
+  "name": "Scuba Instruction",
+  "tagline": "The instructor flies to the dive.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#32",
+  "position": 52
+ },
+ {
+  "slug": "underwater-welding",
+  "name": "Underwater Welding",
+  "tagline": "The backpack as a suit: to depth, less punishment.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#32",
+  "position": 53
+ },
+ {
+  "slug": "high-altitude-welding",
+  "name": "High-Altitude Welding",
+  "tagline": "The backpack as a suit: to height, less punishment.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#32",
+  "position": 54
+ },
+ {
+  "slug": "hyperloop-north-south",
+  "name": "Hyperloop North-South",
+  "tagline": "Logan to Saratoga Springs: the Wasatch Front in one line.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#40",
+  "position": 55
+ },
+ {
+  "slug": "hyperloop-east-west",
+  "name": "Hyperloop East-West",
+  "tagline": "Tooele County to Wasatch County across the city.",
+  "source": "00_MIND/plans/V1.7 PINBOARD.md#40",
+  "position": 56
+ },
+ {
+  "slug": "day-shift-medical-rides",
+  "name": "Day-Shift Medical Rides",
+  "tagline": "The bar car at 1 a.m. is the dialysis car at 8 a.m.",
+  "source": "00_MIND/plans/V3.6.2 FOREST.md#2",
+  "position": 57
+ },
+ {
+  "slug": "self-powered-depot",
+  "name": "Self-Powered Depot",
+  "tagline": "Solar roof and batteries: the cars come home to their own power.",
+  "source": "00_MIND/plans/V3.6.2 FOREST.md#3",
+  "position": 58
+ },
+ {
+  "slug": "rider-satellite-add-on",
+  "name": "Rider Satellite Add-On",
+  "tagline": "A small add-on so a phone can summon a car where there is no tower.",
+  "source": "00_MIND/plans/V3.6.2 FOREST.md#10; 00_MIND/next_steps/2026-09-21_Sky_Layer",
+  "position": 59
+ },
+ {
+  "slug": "depot-radio",
+  "name": "Depot Radio",
+  "tagline": "The depot’s own radio in the shared band.",
+  "source": "00_MIND/plans/V3.6.2 FOREST.md#10; 00_MIND/next_steps/2026-09-21_Sky_Layer",
+  "position": 60
+ },
+ {
+  "slug": "dead-miles-map",
+  "name": "Dead-Miles Map",
+  "tagline": "Every mile the signal dies, logged from the cars: the map each new state needs.",
+  "source": "00_MIND/plans/V3.6.2 FOREST.md#6; 00_MIND/next_steps/2026-09-21_Sky_Layer",
+  "position": 61
+ },
+ {
+  "slug": "nonprofit",
+  "name": "Nonprofit",
+  "tagline": "The nonprofit arm.",
+  "source": "00_MIND/next_steps/2026-09-20/09_Set_up_the_nonprofit",
+  "position": 62
+ }
+]

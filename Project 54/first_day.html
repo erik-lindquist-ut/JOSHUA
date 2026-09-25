@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Your First Day</title>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0e0d0b;--fg:#f4efe6;--gold:#d8b77a;--mute:#a79f90}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.6 Inter,system-ui,sans-serif}
+.hero{position:relative;min-height:92vh;display:flex;align-items:flex-end;background:#000 url("https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Tesla_Cybercab_-_San_Francisco_-_June_2026.jpg/1920px-Tesla_Cybercab_-_San_Francisco_-_June_2026.jpg") center/cover}
+.hero:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,0) 35%,rgba(14,13,11,.92) 88%)}
+.in{position:relative;z-index:1;max-width:760px;margin:0 auto;padding:0 20px 56px;width:100%}
+.eyebrow{letter-spacing:.22em;text-transform:uppercase;font-size:12px;color:var(--gold)}
+h1{font:600 clamp(44px,9vw,84px)/1.02 "Cormorant Garamond",serif;margin:10px 0 14px}
+.lead{font-size:20px;color:#e9e2d4;max-width:560px}
+section{max-width:760px;margin:0 auto;padding:56px 20px}
+.row{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:28px;margin-top:8px}
+.row h3{font:600 26px/1.2 "Cormorant Garamond",serif;color:var(--gold);margin:0 0 6px}
+.row p{margin:0;color:var(--mute)}
+.close{border-top:1px solid #2a2721;text-align:center}
+.close h2{font:600 clamp(32px,6vw,48px)/1.1 "Cormorant Garamond",serif;margin:0 0 10px}
+.credit{font-size:12px;color:#6f685c;text-align:center;padding:0 20px 28px}
+.credit a{color:inherit}
+</style></head><body>
+<div class="hero"><div class="in">
+  <div class="eyebrow">Employee #1</div>
+  <h1>Kristin,<br>your ride is here.</h1>
+  <p class="lead">Your first day at stylist training starts with the door opening on its own. No keys. No driver. Your fleet, taking you where you're going.</p>
+</div></div>
+<section>
+  <div class="row">
+    <div><h3>Your first day</h3><p>You head to stylist training. The car handles the road. You handle the future.</p></div>
+    <div><h3>Your fleet</h3><p>You run the cars that carry people to work, school, and home. You're the one they trust.</p></div>
+    <div><h3>Your people</h3><p>Every ride you run changes someone's day. That's a lot of lives made better.</p></div>
+  </div>
+</section>
+<section class="close">
+  <h2>The first seat is yours.</h2>
+  <p class="lead" style="margin:0 auto">If you want it, we start together.</p>
+</section>
+<p class="credit">Photo: “Tesla Cybercab – San Francisco – June 2026” by 9yz, <a href="https://commons.wikimedia.org/wiki/File:Tesla_Cybercab_-_San_Francisco_-_June_2026.jpg">Wikimedia Commons</a>, CC BY 4.0.</p>
+</body></html>

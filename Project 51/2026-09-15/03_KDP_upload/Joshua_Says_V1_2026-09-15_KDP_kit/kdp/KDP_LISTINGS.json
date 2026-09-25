@@ -1,0 +1,182 @@
+[
+ {
+  "title": "Armored ServiceNow: ITSM",
+  "subtitle": "For people who already know the easy version.",
+  "author": "Joshua",
+  "series": "Joshua Says",
+  "edition": "V1",
+  "manuscript": "editions/Armored_ServiceNow_ITSM.docx",
+  "cover": "kdp/Armored_ServiceNow_ITSM_cover.jpg",
+  "description": "26 disguised items across incident, problem, change, request, knowledge, SLA and CMDB \u2014 every distractor labelled with the error it encodes. Not a summary of the documentation: practice at the difficulty the platform actually uses. Strategy strip under every item, a STOP page, a key that strikes the camouflage, and a triage grid that tells you what to study next. Unofficial and independent; built from ServiceNow's public documentation; no exam question reproduced.",
+  "keywords": [
+   "ServiceNow ITSM practice",
+   "ServiceNow administrator",
+   "CIS-ITSM study",
+   "incident change problem management",
+   "ServiceNow exam preparation",
+   "IT service management questions",
+   "ITIL ServiceNow"
+  ],
+  "categories": [
+   "Business & Money \u203a Skills",
+   "Computers & Technology \u203a Certification Guides"
+  ],
+  "price_usd": 0.99,
+  "royalty": "35% (the $0.99 floor requires the 35% plan)",
+  "drm": "No",
+  "kdp_select": "Your call \u2014 Select requires digital exclusivity for 90 days",
+  "rights": "Worldwide; I own the copyright",
+  "aiContent": "Disclose per KDP policy: AI-assisted drafting under the author's direction; selection, arrangement and method are the author's",
+  "cover_palette": "red: #8C4A4A / ink #F3E3E0"
+ },
+ {
+  "title": "Armored ServiceNow: Customer Service Management",
+  "subtitle": "For people who already know the easy version.",
+  "author": "Joshua",
+  "series": "Joshua Says",
+  "edition": "V1",
+  "manuscript": "editions/Armored_ServiceNow_Customer_Service_Management.docx",
+  "cover": "kdp/Armored_ServiceNow_Customer_Service_Management_cover.jpg",
+  "description": "20 disguised items across cases, accounts and contacts, entitlements, Advanced Work Assignment, Agent Workspace, playbooks, major issue management and the customer portal. Every wrong answer is a real platform construct; the test is role-matching, not recognition. Unofficial and independent; built from public documentation.",
+  "keywords": [
+   "ServiceNow CSM",
+   "customer service management practice",
+   "CIS-CSM study",
+   "ServiceNow case management",
+   "Advanced Work Assignment",
+   "Agent Workspace",
+   "ServiceNow CRM"
+  ],
+  "categories": [
+   "Business & Money \u203a Skills",
+   "Computers & Technology \u203a Certification Guides"
+  ],
+  "price_usd": 0.99,
+  "royalty": "35% (the $0.99 floor requires the 35% plan)",
+  "drm": "No",
+  "kdp_select": "Your call \u2014 Select requires digital exclusivity for 90 days",
+  "rights": "Worldwide; I own the copyright",
+  "aiContent": "Disclose per KDP policy: AI-assisted drafting under the author's direction; selection, arrangement and method are the author's",
+  "cover_palette": "blue: #4A5F8C / ink #E3E8F3"
+ },
+ {
+  "title": "Armored ServiceNow: Now Assist Skill Kit",
+  "subtitle": "For people who already know the easy version.",
+  "author": "Joshua",
+  "series": "Joshua Says",
+  "edition": "V1",
+  "manuscript": "editions/Armored_ServiceNow_Now_Assist_Skill_Kit.docx",
+  "cover": "kdp/Armored_ServiceNow_Now_Assist_Skill_Kit_cover.jpg",
+  "description": "16 disguised items on what a skill is, grounding, tools, the Generative AI Controller, testing, publishing and deployment, scope and delegated development, sensitive data, and the line between a skill and an agent. For the people building generative-AI capability on the platform without waiting for a vendor. Unofficial and independent.",
+  "keywords": [
+   "Now Assist Skill Kit",
+   "ServiceNow generative AI",
+   "ServiceNow skill builder",
+   "App Engine Studio",
+   "Generative AI Controller",
+   "ServiceNow custom apps",
+   "citizen developer ServiceNow"
+  ],
+  "categories": [
+   "Business & Money \u203a Skills",
+   "Computers & Technology \u203a Certification Guides"
+  ],
+  "price_usd": 0.99,
+  "royalty": "35% (the $0.99 floor requires the 35% plan)",
+  "drm": "No",
+  "kdp_select": "Your call \u2014 Select requires digital exclusivity for 90 days",
+  "rights": "Worldwide; I own the copyright",
+  "aiContent": "Disclose per KDP policy: AI-assisted drafting under the author's direction; selection, arrangement and method are the author's",
+  "cover_palette": "yellow: #C9B35A / ink #3D3410"
+ },
+ {
+  "title": "Armored Genesys Cloud CX",
+  "subtitle": "For people who already know the easy version.",
+  "author": "Joshua",
+  "series": "Joshua Says",
+  "edition": "V1",
+  "manuscript": "editions/Armored_Genesys_Cloud_CX.docx",
+  "cover": "kdp/Armored_Genesys_Cloud_CX_cover.jpg",
+  "description": "25 disguised items across queues, skills and divisions, routing methods, Architect flows, data actions, presence and utilization, quality management, speech and text analytics, workforce management, telephony and integrations. Framed by what any contact-centre platform has to do; written from Genesys's public documentation. Unofficial and independent.",
+  "keywords": [
+   "Genesys Cloud CX",
+   "contact center administrator",
+   "Genesys Architect flows",
+   "call routing queues skills",
+   "quality management evaluation",
+   "speech and text analytics",
+   "workforce management"
+  ],
+  "categories": [
+   "Business & Money \u203a Skills",
+   "Computers & Technology \u203a Certification Guides"
+  ],
+  "price_usd": 0.99,
+  "royalty": "35% (the $0.99 floor requires the 35% plan)",
+  "drm": "No",
+  "kdp_select": "Your call \u2014 Select requires digital exclusivity for 90 days",
+  "rights": "Worldwide; I own the copyright",
+  "aiContent": "Disclose per KDP policy: AI-assisted drafting under the author's direction; selection, arrangement and method are the author's",
+  "cover_palette": "red: #8C4A4A / ink #F3E3E0"
+ },
+ {
+  "title": "Armored Integration: Whisper, Warm, Hot",
+  "subtitle": "For people who already know the easy version.",
+  "author": "Joshua",
+  "series": "Joshua Says",
+  "edition": "V1",
+  "manuscript": "editions/Armored_Integration_Whisper_Warm_Hot.docx",
+  "cover": "kdp/Armored_Integration_Whisper_Warm_Hot_cover.jpg",
+  "description": "A blueprint and 19 items. Real-time whisper coaching, warm transfer to coaches, hot transfer to leadership, and deflection at the top of the funnel by an IVR that already knows the answer \u2014 across Genesys Cloud CX and ServiceNow on their public APIs, with a detailed in-house path using the Now Assist Skill Kit and no new platform configuration. Scores sequence; humans decide.",
+  "keywords": [
+   "contact center integration",
+   "whisper coaching",
+   "warm transfer hot transfer",
+   "intelligent IVR call deflection",
+   "Genesys ServiceNow integration",
+   "Now Assist Skill Kit",
+   "contact center AI design"
+  ],
+  "categories": [
+   "Business & Money \u203a Skills",
+   "Computers & Technology \u203a Certification Guides"
+  ],
+  "price_usd": 0.99,
+  "royalty": "35% (the $0.99 floor requires the 35% plan)",
+  "drm": "No",
+  "kdp_select": "Your call \u2014 Select requires digital exclusivity for 90 days",
+  "rights": "Worldwide; I own the copyright",
+  "aiContent": "Disclose per KDP policy: AI-assisted drafting under the author's direction; selection, arrangement and method are the author's",
+  "cover_palette": "blue: #4A5F8C / ink #E3E8F3"
+ },
+ {
+  "title": "The Traveler's Guide: Nursing State and Owner's County",
+  "subtitle": "A framework you build yourself.",
+  "author": "Joshua",
+  "series": "Joshua Says",
+  "edition": "V1",
+  "manuscript": "editions/The_Traveler_s_Guide_Nursing_State_and_Owner_s_County.docx",
+  "cover": "kdp/The_Traveler_s_Guide_Nursing_State_and_Owner_s_County_cover.jpg",
+  "description": "Not a plan to follow \u2014 a way to build your own. Financial literacy as a ladder, not a bet, with the arithmetic printed. Your own salon by your house, and what to bank before you spend a dollar. Getting around without owning the car. The marked road into nursing, one rung at a time, with this week's three phone calls. And five questions that survive the month the plan breaks. Information, not advice.",
+  "keywords": [
+   "nursing career change",
+   "financial literacy for working parents",
+   "open your own salon",
+   "hairstylist to nurse",
+   "community college nursing",
+   "personal framework",
+   "one small step"
+  ],
+  "categories": [
+   "Business & Money \u203a Skills",
+   "Self-Help \u203a Personal Transformation"
+  ],
+  "price_usd": 0.99,
+  "royalty": "35% (the $0.99 floor requires the 35% plan)",
+  "drm": "No",
+  "kdp_select": "Your call \u2014 Select requires digital exclusivity for 90 days",
+  "rights": "Worldwide; I own the copyright",
+  "aiContent": "Disclose per KDP policy: AI-assisted drafting under the author's direction; selection, arrangement and method are the author's",
+  "cover_palette": "yellow: #C9B35A / ink #3D3410"
+ }
+]

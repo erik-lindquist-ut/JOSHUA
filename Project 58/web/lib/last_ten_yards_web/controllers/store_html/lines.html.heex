@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#08080a" />
+    <title>Lines · Last Ten Yards</title>
+    <link rel="stylesheet" href="/assets/styles.css" />
+    <link rel="stylesheet" href="/assets/store.css" />
+  </head>
+  <body>
+    <header><div class="brand">Last Ten Yards</div><h1>Lines</h1><p><a href="/">← The posts</a> · <a href="/store">All products</a></p></header>
+    <main class="store">
+      <%= if @lines == [] do %>
+        <p class="empty" id="empty">Coming soon.</p>
+      <% else %>
+        <p class="count" id="count"><%= length(@lines) %> lines</p>
+        <%= for l <- @lines do %>
+          <a class="item line" id={"line-#{l["slug"]}"} href={"/l/#{l["slug"]}"}>
+            <h2><%= l["name"] %></h2>
+            <p><%= l["tagline"] %></p>
+          </a>
+        <% end %>
+      <% end %>
+    </main>
+  </body>
+</html>

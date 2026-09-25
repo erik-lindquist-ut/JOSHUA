@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+# Python caches
+__pycache__/
+*.pyc
+# Elixir / Node build output (source _build folders like Project 48/_build are kept)
+**/web/_build/
+**/web/deps/
+**/JOSHUA_repo/_build/
+**/JOSHUA_repo/deps/
+node_modules/

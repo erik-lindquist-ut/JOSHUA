@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#08080a" />
+    <title><%= @line.name %> · Last Ten Yards</title>
+    <link rel="stylesheet" href="/assets/styles.css" />
+    <link rel="stylesheet" href="/assets/store.css" />
+  </head>
+  <body>
+    <header><div class="brand">Last Ten Yards</div><h1><%= @line.name %></h1><p><%= @line.tagline %></p><p><a href="/lines">← All lines</a></p></header>
+    <main class="store">
+      <%= if @products == [] do %>
+        <p class="empty" id="empty">Coming soon.</p>
+      <% else %>
+        <%= for p <- @products do %>
+          <article class="item" id={"item-#{p["id"]}"}>
+            <h2><%= p["name"] %></h2>
+            <p><%= p["blurb"] %></p>
+            <form method="post" action={"/store/checkout/#{p["id"]}"}>
+              <input type="hidden" name="_csrf_token" value={@token} />
+              <button type="submit">Buy <%= price(p) %></button>
+            </form>
+          </article>
+        <% end %>
+      <% end %>
+      <p class="fine">Payments run on Stripe. Card numbers never touch this site.</p>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="400" viewBox="0 0 680 400" role="img">
+<title>The iris — SELF as diagnostic readout</title>
+<desc>Four zone sectors around a central aperture. S student at top, P personal at right, V venture at bottom, I institutional at left. Meridians separate them; the I–V meridian is drawn sealed. The pupil is labelled SELF.</desc>
+<style>
+  text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #2C2C2A; }
+  .zone { font-size: 15px; font-weight: 500; }
+  .mer  { font-size: 12px; font-weight: 400; fill: #5F5E5A; }
+  .ctr  { font-size: 15px; font-weight: 500; letter-spacing: 0.06em; }
+  .foot { font-size: 11px; font-weight: 400; fill: #888780; }
+</style>
+<circle cx="340" cy="205" r="88" fill="none" stroke="#B4B2A9" stroke-width="1"/>
+<path d="M 242.4 107.4 A 138 138 0 0 1 437.6 107.4" fill="none" stroke="#1D9E75" stroke-width="3"/>
+<path d="M 437.6 107.4 A 138 138 0 0 1 437.6 302.6" fill="none" stroke="#7F77DD" stroke-width="3"/>
+<path d="M 437.6 302.6 A 138 138 0 0 1 242.4 302.6" fill="none" stroke="#D4537E" stroke-width="3"/>
+<path d="M 242.4 302.6 A 138 138 0 0 1 242.4 107.4" fill="none" stroke="#D85A30" stroke-width="3"/>
+<line x1="366.9" y1="178.1" x2="446.1" y2="98.9" stroke="#888780" stroke-width="1"/>
+<line x1="366.9" y1="231.9" x2="446.1" y2="311.1" stroke="#888780" stroke-width="1"/>
+<line x1="313.1" y1="231.9" x2="233.9" y2="311.1" stroke="#888780" stroke-width="1" stroke-dasharray="4 4"/>
+<line x1="313.1" y1="178.1" x2="233.9" y2="98.9" stroke="#888780" stroke-width="1"/>
+<circle cx="340" cy="205" r="38" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="1"/>
+<text class="ctr" x="340" y="211" text-anchor="middle">SELF</text>
+<text class="zone" x="340" y="95" text-anchor="middle" fill="#0F6E56">S — student</text>
+<text class="zone" x="452" y="205" text-anchor="middle" fill="#534AB7">P — personal</text>
+<text class="zone" x="340" y="315" text-anchor="middle" fill="#993556">V — venture</text>
+<text class="zone" x="228" y="205" text-anchor="middle" fill="#993C1D">I — institutional</text>
+<text class="mer" x="227" y="92" text-anchor="middle">the institution</text>
+<text class="mer" x="453" y="92" text-anchor="middle">the method</text>
+<text class="mer" x="453" y="318" text-anchor="middle">authorship</text>
+<text class="mer" x="227" y="318" text-anchor="middle">closed by decision</text>
+<text class="foot" x="340" y="368" text-anchor="middle">opposite zones cross through the aperture · adjacent zones share a meridian</text>
+<text class="foot" x="340" y="385" text-anchor="middle">© 2026 Erik Daniel Lindquist · Zone P</text>
+</svg>

@@ -1,0 +1,123 @@
+RIBBON - THE CHAIRLESS SCHOOL PROJECT
+Port file for Gemini. Current as of 2026-09-24.
+
+HOW TO WORK ON THIS
+- This is Joshua's project. It is an open sketchbook, not a spec. Nothing is settled.
+- Everything below is "what has been said so far." If he changes a piece, the new piece wins. Do not defend an earlier note.
+- "Pin" means: install it in your working model and carry it as the frame for everything after.
+- Take the piece he brings and build the next thing on top of it. State limits as facts to design around, not reasons to stop. He often supplies the piece that answers the objection one turn later.
+- Keep replies short, in plain 7th-grade words.
+- Move forward on a tentative 1. Stop with a 0 only at a step that can't be undone.
+- End every reply with one decision he can answer with one keystroke, both sides named: "1 does X / 0 does Y." No menus. No yes/no questions.
+
+------------------------------------------------------------
+1. THE MODEL NOW (his pins, in his words)
+
+"The ribbon model has changed in my mind to Boston Dynamics robot dog or equivalent as the base and spine of the ribbon idea." (2026-09-15)
+
+"The Spot would be the spine, a student's desk at school, or the floor on which it stands as a floor tile is the exoskeleton." (2026-09-15)
+
+Pinned 2026-09-19 as a list, nothing else said about them yet:
+- Tesla tile (student desks with no chairs)
+- schools with no carpets
+- halls as protection
+- egress yellow brick road (and facilitator)
+
+What that means:
+- SPINE = Spot, or an equivalent four-legged robot. It positions. It walks the surface to where it is needed, sets height by posture, and stows.
+- EXOSKELETON = the student's desk, or the floor tile. His name for it: the Tesla tile. The dog stands into it. The exoskeleton carries the load. The dog does not. The ribs belong to the desk or tile, not the dog.
+- The earlier fixed indoor spine is replaced. The earlier "outdoor variant" idea is replaced. The postures carry over.
+
+What this settles:
+- Payload is no longer the problem. Spot's reference payload (~31 lb) only has to move the dog into place. The desk or tile carries people and surfaces into the floor through its own structure.
+- A mechanical lock still matters. Once the dog is in and the height is set, something in the desk or tile holds, and the dog's balance system is out of the load path.
+- The receiving box is now the tile's home and the dog's kennel. It stows flush, charges, and lets a walking base in and out.
+- An elderly-care robotics idea of his already said "RIBBON is the chassis." With the dog as spine, the two share a base. Whether they merge is his call.
+- "Or equivalent" is his hedge on the vendor. Spot's numbers are the reference case, not the requirement.
+
+------------------------------------------------------------
+2. THE SCHOOL VERSION
+
+- Schools are designed, not remodeled. This goes in the drawings before the concrete is poured.
+- No carpets. The whole floor is hardened around each student's work space.
+- The student's desk is the Tesla tile. The dog stands into it.
+- The teacher pulls zones down for whole-class time, raises single stations when a student needs to work apart, and table groups are the default.
+- Halls are doing a protection job. (Pinned, not designed.)
+- The way out is a marked "yellow brick road," with a facilitator attached to it. (Pinned, not designed.)
+- Name for the single-station mode: "air-gapped island." Also fine: "study carrel." Never use "seclusion" - in schools that word is legally loaded and pulls in restraint policy and special-ed review.
+- No chairs also means no chair storage, no stacking, no floor scraping, and no clearing the room for an assembly.
+- Maintenance: custodians learn it on the job, the way HVAC controls and badge readers came into buildings. Two things make that work: leg and zone parts that unbolt and swap as modules (no carbon repair on site), and training bid as a line item during commissioning.
+
+------------------------------------------------------------
+3. THE CORE IDEA
+
+A work surface with no chairs. A center spine (the dog) positions every work zone. Each zone sticks out from the exoskeleton it stands in, so no surface has legs under it, and a wheelchair can pull straight in from either side.
+
+Each zone sets its own height:
+- Young children: 20-22 in
+- Wheelchair: surface at or below 34 in, with 27 in of open knee space below
+- Standing bar: 40-42 in
+
+Postures the dog takes: standing bar, kid height, wheelchair, picnic, cot.
+
+------------------------------------------------------------
+4. THE FOLD AND THE FLOOR
+
+- The top folds inward. The underside folds inward as a shell. The whole thing tucks flush into a hardened box set between floor joists. When it's down, the room is open floor.
+- He has already built three boxes like this in a home remodel: framed, flush, powered for charging, seams hidden except where they double as cold-air return and heating vents. A vent is supposed to have lines in the floor, so the seam looks normal instead of hidden.
+- The three boxes together seat about 28 people. The direction of the house doesn't matter; the layout of boxes defines the room.
+
+------------------------------------------------------------
+5. THE RIBS (part of the exoskeleton)
+
+- Carbon fiber. Same members do three jobs: shell when stowed, frame when standing, and the surface the solar skin stretches over.
+- Load path: weight goes into the ribs, through a locked column, into the floor. The dog holds still instead of holding up.
+- Carbon fiber cautions: it doesn't bend before it breaks, so build past the math and test past the use. Bolt holes through the layers start cracks - every fold joint needs a metal fitting bonded into the layup. It needs UV protection outdoors; the solar skin covers part of that.
+
+------------------------------------------------------------
+6. LEGS AND LOCKS
+
+- Elbows down, push-up position, when standing.
+- Gravity drops telescoping legs for free, and each one finds its own ground, so it levels itself on uneven floors.
+- Servos set the height. Something mechanical (pin, collar, or detent) holds it. The servo rests, and a dead battery leaves the surface where it was.
+
+------------------------------------------------------------
+7. POWER AND SUMMONS
+
+- Solar panels on the shell underside, which faces up when stowed.
+- Rough numbers: 15-20 W per sq ft in sun. A 3x6 ft shell makes ~300 W at noon and 1.5-2 kWh on a good day - enough to refill a Spot battery with room to spare.
+- Triggers: programmed logic, Bluetooth switch, timer, or a house power switch.
+- A local stop at the box. When something rises out of a floor with people on it, someone in the room needs a stop that isn't a phone.
+
+------------------------------------------------------------
+8. SPOT - REFERENCE FACTS
+
+- Payload about 31 lb. About 90 minutes on a ~600 Wh battery. It balances; it doesn't brace.
+- No public price (quote-only). Configured units in public buying records run $150k-$375k.
+- Boston Dynamics sells mainly to businesses, government, and research groups.
+
+------------------------------------------------------------
+9. OPEN QUESTIONS (live - raise when relevant, not as a checklist)
+
+- How the dog enters and docks into the desk or tile, so the exoskeleton takes the load and the balance system lets go.
+- What "halls as protection" protects against, and how the yellow brick road and its facilitator work on a normal day and a bad one.
+- Fold order: how the top and shell nest, now with a dog inside the shell.
+- How the receiving box lets a walking base in, charges it, and lets it out.
+- Route to market. His read: this is a Kickstarter project, and the dog is what could make it succeed. Still open: can a crowdfunded product be built on a quote-only enterprise robot, what the vendor's terms allow, and what a hardware campaign owes backers when the product holds children up.
+- Pinch and trap protection for anything coming down near kids.
+- Fire marshal, exits, ADA travel path, and earthquake review - all settled at design time for the school version.
+- Whether the elderly-care robotics idea and RIBBON are now one project.
+
+------------------------------------------------------------
+10. BACKGROUND - THE RIBBON PRODUCT VENTURE (separate track)
+
+This is the earlier product line, before the dog-as-spine pin. Keep it apart from the school version unless he joins them.
+- RIBBON: a chair-free communal table system for 14 people, built from self-supporting ribbon segments at different heights.
+- Naming: ribbon = the surface you can compose, thread = the invisible protocol, table = the human outcome. Story arc for investors: thread -> ribbon -> table -> family.
+- Terms: Segments, Runs, the Knot (fixed focal segment), seam pieces, bays (740 mm, wheelchair-first), AEL family (optional perches, not chairs), delta-class caps. Ring and Hex layouts. Base requirements B1-B13.
+- Height range: 560-1100 mm. Colorways: Cloud, Grove, Citrus, Slate, Custom, on a navy/teal base.
+- Current revision: Rev H.1 (pre-phase-0). It retired an older one-piece "monolith" design for a modular splice design.
+- Starting market: US West Coast / SoCal.
+- Artifacts exist: business plan, 14-slide pitch deck, one-pager, financial model, PRD-01 to PRD-14, build spec, plan-view drawings, latch decision brief, freight RFQ, supplier shortlist, pilot packet.
+- Open: redo pitch deck slides 3-6 and the one-pager; re-score suppliers after real freight quotes; old drawings still show the monolith; segments-vs-positions is unclear; a bay-use conflict with Rule 5; colorway and height-coding fight over the same visual channel.
+- Warning: older files describe the retired monolith more vividly than the current design. Don't let them pull the work backward.
