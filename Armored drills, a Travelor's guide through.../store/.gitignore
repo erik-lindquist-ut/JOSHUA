@@ -1,0 +1,6 @@
+# Build output stays out of git (the JOSHUA .gitignore only covers **/web/deps and **/web/_build).
+/deps/
+/_build/
+/cover/
+erl_crash.dump
+/phx_server.log

@@ -1,0 +1,22 @@
+<.page title={@product.title}>
+  <main class="product">
+    <p class="back"><a href="/">← All titles</a></p>
+    <article id={"product-#{@product.slug}"}>
+      <img :if={cover_url(@product)} class="cover" src={cover_url(@product)} alt={"Cover of #{@product.title}"} width="320" height="512" />
+      <div class="details">
+        <h1>{@product.title}</h1>
+        <p :if={@product.subtitle} class="subtitle">{@product.subtitle}</p>
+        <p class="by">
+          by {@product.author}<span :if={@product.series}> · {@product.series}</span><span :if={@product.edition}> · {@product.edition}</span>
+        </p>
+        <p class="description">{@product.description}</p>
+        <p class={["price", !buyable?(@product) && "unset"]}>{price(@product)}</p>
+        <form :if={buyable?(@product)} method="post" action={"/checkout/#{@product.slug}"}>
+          <input type="hidden" name="_csrf_token" value={@token} />
+          <button type="submit">Buy — {price(@product)}</button>
+        </form>
+        <p :if={!buyable?(@product)} class="note">Not available to buy yet.</p>
+      </div>
+    </article>
+  </main>
+</.page>

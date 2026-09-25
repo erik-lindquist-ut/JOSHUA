@@ -1,0 +1,8 @@
+<.page title={@heading}>
+  <main class="notice">
+    <h1>{@heading}</h1>
+    <p>{@message}</p>
+    <p :if={@product}><a href={"/books/#{@product.slug}"}>← Back to {@product.title}</a></p>
+    <p><a href="/">← All titles</a></p>
+  </main>
+</.page>

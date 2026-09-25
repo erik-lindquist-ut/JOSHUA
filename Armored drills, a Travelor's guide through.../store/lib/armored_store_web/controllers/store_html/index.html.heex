@@ -1,0 +1,18 @@
+<.page title="Store">
+  <main class="catalog">
+    <h1>E-books</h1>
+    <p class="lede">The Armored drills and The Traveler's Guide, from the Joshua Says series.</p>
+    <p :if={@products == []} class="empty" id="empty">Coming soon.</p>
+    <ul :if={@products != []} class="grid">
+      <li :for={p <- @products} class="card" id={"product-#{p.slug}"}>
+        <a :if={cover_url(p)} class="cover-link" href={"/books/#{p.slug}"}>
+          <img src={cover_url(p)} alt={"Cover of #{p.title}"} width="200" height="320" loading="lazy" />
+        </a>
+        <h2><a href={"/books/#{p.slug}"}>{p.title}</a></h2>
+        <p class="by">by {p.author}</p>
+        <p class="short">{short(p)}</p>
+        <p class={["price", !buyable?(p) && "unset"]}>{price(p)}</p>
+      </li>
+    </ul>
+  </main>
+</.page>
