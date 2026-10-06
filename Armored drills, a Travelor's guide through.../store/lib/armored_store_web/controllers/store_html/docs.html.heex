@@ -1,0 +1,13 @@
+<.page title={if @kind == :readme, do: "README", else: "TECHNICAL"}>
+  <main class="docs-page">
+    <.crumbs trail={[{"Home", "/"}, {if(@kind == :readme, do: "README", else: "TECHNICAL"), nil}]} />
+    <p class="docs-nav">
+      <a href="/docs/readme" class={@kind == :readme && "current"}>README</a>
+      ·
+      <a href="/docs/technical" class={@kind == :technical && "current"}>TECHNICAL</a>
+      ·
+      <a href={ArmoredStore.BookFiles.handoff_url()}>Handoff PDF</a>
+    </p>
+    <article class="doc-body" id="doc-body">{Phoenix.HTML.raw(@doc.html)}</article>
+  </main>
+</.page>

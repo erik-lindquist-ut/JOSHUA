@@ -1,6 +1,35 @@
 <.page title="Store">
   <main class="catalog">
-    <h1>E-books</h1>
+    <h1>Armored drills · WGU handoff</h1>
+    <p class="lede">Project tree and Fail Fast Compendium docs first; then the catalog.</p>
+
+    <section class="shelf docs-shelf" id="project-tree">
+      <h2 class="shelf-title">Project tree</h2>
+      <p class="shelf-note">Store layout with Compendium / handoff docs highlighted.</p>
+      <pre class="project-tree" id="tree"><%= for %{line: line, highlight: hi} <- @tree do %><span class={["tree-line", hi && "hi"]}>{line}</span>
+<% end %></pre>
+      <p class="docs-links">
+        <a href="/docs/readme">Open README</a>
+        ·
+        <a href="/docs/technical">Open TECHNICAL</a>
+        ·
+        <a href={ArmoredStore.BookFiles.handoff_url()}>View handoff PDF</a>
+      </p>
+    </section>
+
+    <section class="shelf docs-shelf" id="docs-readme">
+      <h2 class="shelf-title">README · Provost brief</h2>
+      <p class="shelf-note"><a href="/docs/readme">Full page →</a> · from <code>priv/docs/README.md</code></p>
+      <div class="doc-body" id="readme-body">{Phoenix.HTML.raw(@readme.html)}</div>
+    </section>
+
+    <section class="shelf docs-shelf" id="docs-technical">
+      <h2 class="shelf-title">TECHNICAL · Engineering</h2>
+      <p class="shelf-note"><a href="/docs/technical">Full page →</a> · from <code>priv/docs/TECHNICAL.md</code></p>
+      <div class="doc-body" id="technical-body">{Phoenix.HTML.raw(@technical.html)}</div>
+    </section>
+
+    <h2 class="catalog-divider">E-books catalog</h2>
     <p class="lede">The Armored drills and The Traveler's Guide, by Joshua.</p>
     <p :if={@all == []} class="empty" id="empty">Coming soon.</p>
     <section :if={@fail_fast != []} class="shelf" id="fail-fast">

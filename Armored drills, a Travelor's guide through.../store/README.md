@@ -33,8 +33,13 @@ Postgres credentials come from PGUSER / PGPASSWORD / PGHOST (defaults: postgres 
 
 ## Paid files
 
-The PDF/DOCX books are not in this app and there is no route to them; every book file path returns 404
-(see `test/armored_store_web/paid_files_test.exs`). Delivery of paid files is not built yet.
+Paid PDF/DOCX book bytes are not served over HTTP; guessed book-file paths return 404
+(see `test/armored_store_web/paid_files_test.exs`). Each title has a files inventory at
+`/books/:slug/files` (names + local paths only).
+
+**Exception — WGU handoff:** the Fail Fast Compendium PDF lives in `priv/static/handoff/` and is
+viewable at `/handoff/Armored_Accounting_for_Decision_Making_Fail_Fast_Compendium.pdf`. Handoff
+briefs are in `priv/docs/` and shown on `/` plus `/docs/readme` and `/docs/technical`.
 
 ## Checkout
 

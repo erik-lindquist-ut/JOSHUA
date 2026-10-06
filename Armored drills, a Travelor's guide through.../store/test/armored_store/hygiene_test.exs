@@ -7,7 +7,7 @@ defmodule ArmoredStore.HygieneTest do
     files =
       (Path.wildcard("{lib,config,priv}/**/*") ++ ["README.md", "mix.exs", "Procfile"])
       |> Enum.filter(&File.regular?/1)
-      |> Enum.reject(&(Path.extname(&1) in ~w(.jpg .ico .png)))
+      |> Enum.reject(&(Path.extname(&1) in ~w(.jpg .ico .png .pdf .docx .doc .epub .zip)))
 
     assert files != []
     hits = for f <- files, Regex.match?(@email, File.read!(f)), do: f

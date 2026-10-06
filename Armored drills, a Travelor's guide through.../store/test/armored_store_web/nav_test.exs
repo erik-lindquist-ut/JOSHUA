@@ -69,7 +69,7 @@ defmodule ArmoredStoreWeb.NavTest do
   describe "home" do
     test "Fail Fast first, then the four schools with program and book counts, then the Originals; no collection row" do
       d = doc("/")
-      assert Floki.attribute(d, "main section", "id") == ~w(fail-fast schools originals)
+      assert Floki.attribute(d, "main section", "id") == ~w(project-tree docs-readme docs-technical fail-fast schools originals)
       assert ids(d, "#fail-fast li.card") == Enum.map(@fail_fast, fn {s, _, _} -> "product-" <> s end)
 
       schools = Floki.find(d, "#schools li.school")

@@ -2,8 +2,19 @@ defmodule ArmoredStoreWeb.StoreHTML do
   use ArmoredStoreWeb, :html
   embed_templates "store_html/*"
 
-  def price(%{cents: c}) when is_integer(c) and c > 0, do: "$" <> :erlang.float_to_binary(c / 100, decimals: 2)
+  def price(%{cents: c}) when is_integer(c) and c > 0 do
+    dollars = div(c, 100)
+    cents = rem(c, 100) |> Integer.to_string() |> String.pad_leading(2, "0")
+    "$" <> thousands(dollars) <> "." <> cents
+  end
+
   def price(_), do: "Price not set"
+
+  defp thousands(n) when n < 1000, do: Integer.to_string(n)
+  defp thousands(n) do
+    {rest, last} = {div(n, 1000), rem(n, 1000)}
+    thousands(rest) <> "," <> (last |> Integer.to_string() |> String.pad_leading(3, "0"))
+  end
 
   def buyable?(%{cents: c}), do: is_integer(c) and c > 0
   def buyable?(_), do: false
@@ -68,6 +79,12 @@ defmodule ArmoredStoreWeb.StoreHTML do
         <header class="site">
           <a class="brand" href="/">Armored drills</a>
           <span class="tagline">and The Traveler's Guide, by Joshua</span>
+          <nav class="site-nav" aria-label="Docs">
+            <a href="/#project-tree">Tree</a>
+            <a href="/docs/readme">README</a>
+            <a href="/docs/technical">TECHNICAL</a>
+            <a href="/books">Books</a>
+          </nav>
         </header>
         {render_slot(@inner_block)}
         <footer class="site">

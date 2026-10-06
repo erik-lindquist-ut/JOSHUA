@@ -20,9 +20,12 @@ defmodule ArmoredStoreWeb.Router do
   scope "/", ArmoredStoreWeb do
     pipe_through :browser
     get "/", StoreController, :index
+    get "/docs/readme", StoreController, :docs_readme
+    get "/docs/technical", StoreController, :docs_technical
     get "/books", StoreController, :books
     get "/schools/:school", StoreController, :school
     get "/programs/:slug", StoreController, :program
+    get "/books/:slug/files", StoreController, :files
     get "/books/:slug", StoreController, :show
     get "/books/:slug/example", StoreController, :example
     post "/checkout/:slug", StoreController, :checkout

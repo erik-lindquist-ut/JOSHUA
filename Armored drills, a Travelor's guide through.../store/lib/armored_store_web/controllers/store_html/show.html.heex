@@ -26,6 +26,7 @@
         </form>
         <p :if={!buyable?(@product)} class="note">Not available to buy yet.</p>
         <p :if={@example} class="example" id="example"><a href={ArmoredStore.Examples.url(@product.slug)}>{@example.label}</a> <span class="kind">(PDF)</span></p>
+        <p class="files-link" id="files-link"><a href={"/books/#{@product.slug}/files"}>Files</a> <span class="kind">(inventory)</span></p>
       </div>
     </article>
     <section :if={@preview} id="preview" class="preview">

@@ -1,0 +1,39 @@
+<.page title={"Files · " <> @product.title}>
+  <main class="files-page">
+    <.crumbs trail={[{"Home", "/"}, {@product.title, "/books/#{@product.slug}"}, {"Files", nil}]} />
+    <h1>Files · {@product.title}</h1>
+    <p class="lede">
+      Inventory for local / institutional handoff. Paid PDF and DOCX bytes are not served over HTTP
+      (except the labeled WGU Fail Fast Compendium under <code>priv/static/handoff/</code>).
+    </p>
+    <p :if={@inventory.manuscript} class="manuscript">Manuscript path: <code>{@inventory.manuscript}</code></p>
+    <p :if={@inventory.files == []} class="empty" id="empty-files">No PDF/DOCX listed for this title yet.</p>
+    <table :if={@inventory.files != []} class="files-table" id="files-table">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Kind</th>
+          <th>Path</th>
+          <th>Status</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr :for={f <- @inventory.files} id={"file-" <> String.replace(f.name, ~r/[^A-Za-z0-9]+/, "-")}>
+          <td>
+            <a :if={f.downloadable? and f.href} href={f.href}>{f.name}</a>
+            <span :if={!(f.downloadable? and f.href)}>{f.name}</span>
+          </td>
+          <td>{f.kind}</td>
+          <td><code>{f.path}</code></td>
+          <td>
+            <span :if={f.downloadable?} class="dl-yes">Viewable (handoff)</span>
+            <span :if={!f.downloadable?} class="dl-no">Listed only — not downloadable</span>
+            <span :if={!f.present?} class="missing"> · file not on disk</span>
+            <span class="note"> · {f.note}</span>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="back"><a href={"/books/#{@product.slug}"}>← Back to book</a></p>
+  </main>
+</.page>

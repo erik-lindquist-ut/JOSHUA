@@ -1,10 +1,10 @@
 defmodule ArmoredStoreWeb.StoreController do
   use ArmoredStoreWeb, :controller
-  alias ArmoredStore.{Bundles, Catalog, Checkout, Examples, Programs}
+  alias ArmoredStore.{BookFiles, Bundles, Catalog, Checkout, Docs, Examples, Programs, ProjectTree}
 
   @doc """
-  Home: the Armored Fail Fast set, the four schools (programs and books), the Originals, and any book no program or
-  section reaches. The full list is /books.
+  Home: project tree + WGU handoff docs first, then the Armored Fail Fast set, the four schools,
+  the Originals, and any book no program or section reaches. The full list is /books.
   """
   def index(conn, _params) do
     all = Catalog.list_products()
@@ -18,6 +18,9 @@ defmodule ArmoredStoreWeb.StoreController do
 
     page(conn, :index,
       all: all,
+      tree: ProjectTree.lines(),
+      readme: Docs.readme(),
+      technical: Docs.technical(),
       fail_fast: Catalog.in_collection(all, Catalog.fail_fast()),
       originals: Catalog.in_collection(all, Catalog.originals()),
       schools: schools,
@@ -27,6 +30,21 @@ defmodule ArmoredStoreWeb.StoreController do
 
   @doc "Every book, in listing order."
   def books(conn, _params), do: page(conn, :books, products: Catalog.list_products())
+
+  def docs_readme(conn, _params), do: page(conn, :docs, doc: Docs.readme(), kind: :readme)
+  def docs_technical(conn, _params), do: page(conn, :docs, doc: Docs.technical(), kind: :technical)
+
+  @doc "Per-drill file inventory (names/paths). Only the labeled handoff PDF is downloadable."
+  def files(conn, %{"slug" => slug}) do
+    case Catalog.get_product(slug) do
+      nil ->
+        missing(conn)
+
+      product ->
+        inv = BookFiles.for_slug(slug) || %{slug: slug, title: product.title, manuscript: nil, files: []}
+        page(conn, :files, product: product, inventory: inv)
+    end
+  end
 
   @doc "A school: its programs, then its \"Other courses\" if it has any."
   def school(conn, %{"school" => slug}) do
