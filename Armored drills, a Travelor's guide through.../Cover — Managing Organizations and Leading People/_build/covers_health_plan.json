@@ -1,0 +1,887 @@
+[
+{
+"n": 402,
+"title": "Introduction to Psychology",
+"stem": "Armored_Introduction_to_Psychology"
+},
+{
+"n": 403,
+"title": "Introduction to Biology",
+"stem": "Armored_Introduction_to_Biology"
+},
+{
+"n": 404,
+"title": "Advanced Standing for RN License",
+"stem": "Armored_Advanced_Standing_for_RN_License"
+},
+{
+"n": 405,
+"title": "Foundations in Nursing Informatics",
+"stem": "Armored_Foundations_in_Nursing_Informatics"
+},
+{
+"n": 406,
+"title": "Data Modeling and Database Management Systems",
+"stem": "Armored_Data_Modeling_and_Database_Management_Systems"
+},
+{
+"n": 407,
+"title": "Data Science and Analytics",
+"stem": "Armored_Data_Science_and_Analytics"
+},
+{
+"n": 408,
+"title": "Informatics System Analysis and Design",
+"stem": "Armored_Informatics_System_Analysis_and_Design"
+},
+{
+"n": 409,
+"title": "Health Information Law and Regulations",
+"stem": "Armored_Health_Information_Law_and_Regulations"
+},
+{
+"n": 410,
+"title": "Foundations in Healthcare Information Management",
+"stem": "Armored_Foundations_in_Healthcare_Information_Management"
+},
+{
+"n": 411,
+"title": "Data Analytics and Information Governance",
+"stem": "Armored_Data_Analytics_and_Information_Governance"
+},
+{
+"n": 412,
+"title": "Medical Terminology",
+"stem": "Armored_Medical_Terminology"
+},
+{
+"n": 413,
+"title": "Pathophysiology - Cellular Adaptation",
+"stem": "Armored_Pathophysiology_Cellular_Adaptation"
+},
+{
+"n": 414,
+"title": "Healthcare Compliance",
+"stem": "Armored_Healthcare_Compliance"
+},
+{
+"n": 415,
+"title": "Classification Systems",
+"stem": "Armored_Classification_Systems"
+},
+{
+"n": 416,
+"title": "Foundations in Healthcare Data Management",
+"stem": "Armored_Foundations_in_Healthcare_Data_Management"
+},
+{
+"n": 417,
+"title": "Healthcare Financial Resource Management",
+"stem": "Armored_Healthcare_Financial_Resource_Management"
+},
+{
+"n": 418,
+"title": "Healthcare Reimbursement",
+"stem": "Armored_Healthcare_Reimbursement"
+},
+{
+"n": 419,
+"title": "Healthcare Statistics and Research",
+"stem": "Armored_Healthcare_Statistics_and_Research"
+},
+{
+"n": 420,
+"title": "Quality and Performance Management and Methods",
+"stem": "Armored_Quality_and_Performance_Management_and_Methods"
+},
+{
+"n": 421,
+"title": "Healthcare System Applications",
+"stem": "Armored_Healthcare_System_Applications"
+},
+{
+"n": 422,
+"title": "Nursing Informatics Field Experience",
+"stem": "Armored_Nursing_Informatics_Field_Experience"
+},
+{
+"n": 423,
+"title": "Nursing Informatics Capstone",
+"stem": "Armored_Nursing_Informatics_Capstone"
+},
+{
+"n": 424,
+"title": "Evolving Roles of Nurse Educators in Diverse Environments",
+"stem": "Armored_Evolving_Roles_of_Nurse_Educators_in_Diverse_Environments"
+},
+{
+"n": 425,
+"title": "Facilitation of Context-Based Student-Centered Learning",
+"stem": "Armored_Facilitation_of_Context_Based_Student_Centered_Learning"
+},
+{
+"n": 426,
+"title": "Contemporary Curriculum Design and Development in Nursing Education",
+"stem": "Armored_Contemporary_Curriculum_Design_and_Development_in_Nursing_Education"
+},
+{
+"n": 427,
+"title": "Assessment and Evaluation Strategies for Measuring Student Learning",
+"stem": "Armored_Assessment_and_Evaluation_Strategies_for_Measuring_Student_Learning"
+},
+{
+"n": 428,
+"title": "Emerging Trends and Challenges in 21st Century Nursing Education",
+"stem": "Armored_Emerging_Trends_and_Challenges_in_21st_Century_Nursing_Education"
+},
+{
+"n": 429,
+"title": "Nursing Education Field Experience",
+"stem": "Armored_Nursing_Education_Field_Experience"
+},
+{
+"n": 430,
+"title": "Nursing Education Capstone",
+"stem": "Armored_Nursing_Education_Capstone"
+},
+{
+"n": 431,
+"title": "Professional Presence and Influence",
+"stem": "Armored_Professional_Presence_and_Influence"
+},
+{
+"n": 432,
+"title": "Essentials of Advanced Nursing Roles and Interprofessional Practice",
+"stem": "Armored_Essentials_of_Advanced_Nursing_Roles_and_Interprofessional_Practice"
+},
+{
+"n": 433,
+"title": "Quality Outcomes in a Culture of Value-Based Nursing Care",
+"stem": "Armored_Quality_Outcomes_in_a_Culture_of_Value_Based_Nursing_Care"
+},
+{
+"n": 434,
+"title": "Advanced Pathopharmacological Foundations",
+"stem": "Armored_Advanced_Pathopharmacological_Foundations"
+},
+{
+"n": 435,
+"title": "Advanced Health Assessment for Patients and Populations",
+"stem": "Armored_Advanced_Health_Assessment_for_Patients_and_Populations"
+},
+{
+"n": 436,
+"title": "Informatics for Transforming Nursing Care",
+"stem": "Armored_Informatics_for_Transforming_Nursing_Care"
+},
+{
+"n": 437,
+"title": "Leadership and Management in Complex Healthcare Systems",
+"stem": "Armored_Leadership_and_Management_in_Complex_Healthcare_Systems"
+},
+{
+"n": 438,
+"title": "Advancing Evidence-Based Innovation in Nursing Practice",
+"stem": "Armored_Advancing_Evidence_Based_Innovation_in_Nursing_Practice"
+},
+{
+"n": 439,
+"title": "Healthcare Information Systems Management",
+"stem": "Armored_Healthcare_Information_Systems_Management"
+},
+{
+"n": 440,
+"title": "Advanced Pathophysiology for the Advanced Practice Nurse",
+"stem": "Armored_Advanced_Pathophysiology_for_the_Advanced_Practice_Nurse"
+},
+{
+"n": 441,
+"title": "Advanced Pharmacology for the Advanced Practice Nurse",
+"stem": "Armored_Advanced_Pharmacology_for_the_Advanced_Practice_Nurse"
+},
+{
+"n": 442,
+"title": "Advanced Health Assessment for the Advanced Practice Nurse",
+"stem": "Armored_Advanced_Health_Assessment_for_the_Advanced_Practice_Nurse"
+},
+{
+"n": 443,
+"title": "Adult Primary Care for the Advanced Practice Nurse",
+"stem": "Armored_Adult_Primary_Care_for_the_Advanced_Practice_Nurse"
+},
+{
+"n": 444,
+"title": "Pediatric Primary Care for the Advanced Practice Nurse",
+"stem": "Armored_Pediatric_Primary_Care_for_the_Advanced_Practice_Nurse"
+},
+{
+"n": 445,
+"title": "Special Populations Primary Care for the Advanced Practice Nurse",
+"stem": "Armored_Special_Populations_Primary_Care_for_the_Advanced_Practice_Nurse"
+},
+{
+"n": 446,
+"title": "Health Promotion of Patients and Populations Across the Lifespan",
+"stem": "Armored_Health_Promotion_of_Patients_and_Populations_Across_the_Lifespan"
+},
+{
+"n": 447,
+"title": "Family Nurse Practitioner Clinical Internship I",
+"stem": "Armored_Family_Nurse_Practitioner_Clinical_Internship_I"
+},
+{
+"n": 448,
+"title": "Family Nurse Practitioner Clinical Internship II",
+"stem": "Armored_Family_Nurse_Practitioner_Clinical_Internship_II"
+},
+{
+"n": 449,
+"title": "Family Nurse Practitioner Clinical Internship III",
+"stem": "Armored_Family_Nurse_Practitioner_Clinical_Internship_III"
+},
+{
+"n": 450,
+"title": "Leading with Personal Mastery",
+"stem": "Armored_Leading_with_Personal_Mastery"
+},
+{
+"n": 451,
+"title": "Business Case Analysis for Healthcare Improvement",
+"stem": "Armored_Business_Case_Analysis_for_Healthcare_Improvement"
+},
+{
+"n": 452,
+"title": "Managing Resources in an Era of Disruption",
+"stem": "Armored_Managing_Resources_in_an_Era_of_Disruption"
+},
+{
+"n": 453,
+"title": "Strategically Planning the Execution of a Healthcare Improvement Project",
+"stem": "Armored_Strategically_Planning_the_Execution_of_a_Healthcare_Improvement_Project"
+},
+{
+"n": 454,
+"title": "Evidence-Based Measures for Evaluating Healthcare Improvements",
+"stem": "Armored_Evidence_Based_Measures_for_Evaluating_Healthcare_Improvements"
+},
+{
+"n": 455,
+"title": "Nursing Leadership and Management Field Experience",
+"stem": "Armored_Nursing_Leadership_and_Management_Field_Experience"
+},
+{
+"n": 456,
+"title": "Nursing Leadership and Management Capstone",
+"stem": "Armored_Nursing_Leadership_and_Management_Capstone"
+},
+{
+"n": 457,
+"title": "Introduction to Healthcare IT Systems",
+"stem": "Armored_Introduction_to_Healthcare_IT_Systems"
+},
+{
+"n": 458,
+"title": "Introduction to Physical and Human Geography",
+"stem": "Armored_Introduction_to_Physical_and_Human_Geography"
+},
+{
+"n": 459,
+"title": "Fundamentals of Anatomy and Physiology",
+"stem": "Armored_Fundamentals_of_Anatomy_and_Physiology"
+},
+{
+"n": 460,
+"title": "Intrapersonal Leadership and Professional Growth",
+"stem": "Armored_Intrapersonal_Leadership_and_Professional_Growth"
+},
+{
+"n": 461,
+"title": "Scholarship in Nursing Practice",
+"stem": "Armored_Scholarship_in_Nursing_Practice"
+},
+{
+"n": 462,
+"title": "Information Technology in Nursing Practice",
+"stem": "Armored_Information_Technology_in_Nursing_Practice"
+},
+{
+"n": 463,
+"title": "Organizational Systems and Healthcare Transformation",
+"stem": "Armored_Organizational_Systems_and_Healthcare_Transformation"
+},
+{
+"n": 464,
+"title": "Comprehensive Health Assessment",
+"stem": "Armored_Comprehensive_Health_Assessment"
+},
+{
+"n": 465,
+"title": "Healthcare Policy and Economics",
+"stem": "Armored_Healthcare_Policy_and_Economics"
+},
+{
+"n": 466,
+"title": "Global and Population Health - Levels of Prevention",
+"stem": "Armored_Global_and_Population_Health_Levels_of_Prevention"
+},
+{
+"n": 467,
+"title": "Emerging Professional Practice - Advance Directives",
+"stem": "Armored_Emerging_Professional_Practice_Advance_Directives"
+},
+{
+"n": 468,
+"title": "BSNU Capstone",
+"stem": "Armored_BSNU_Capstone"
+},
+{
+"n": 469,
+"title": "Interprofessional Communication and Leadership in Healthcare",
+"stem": "Armored_Interprofessional_Communication_and_Leadership_in_Healthcare"
+},
+{
+"n": 470,
+"title": "Pathophysiology - For Nursing Students",
+"stem": "Armored_Pathophysiology_For_Nursing_Students"
+},
+{
+"n": 471,
+"title": "Principles of Management in Health Information Management",
+"stem": "Armored_Principles_of_Management_in_Health_Information_Management"
+},
+{
+"n": 472,
+"title": "Healthcare Project Management",
+"stem": "Armored_Healthcare_Project_Management"
+},
+{
+"n": 473,
+"title": "Organizational Leadership in Healthcare",
+"stem": "Armored_Organizational_Leadership_in_Healthcare"
+},
+{
+"n": 474,
+"title": "Professional Practice Experience II: Management",
+"stem": "Armored_Professional_Practice_Experience_II_Management"
+},
+{
+"n": 475,
+"title": "Health Information Management Capstone",
+"stem": "Armored_Health_Information_Management_Capstone"
+},
+{
+"n": 476,
+"title": "Microbiology with Lab: A Fundamental Approach",
+"stem": "Armored_Microbiology_with_Lab_A_Fundamental_Approach"
+},
+{
+"n": 477,
+"title": "Anatomy and Physiology I with Lab",
+"stem": "Armored_Anatomy_and_Physiology_I_with_Lab"
+},
+{
+"n": 478,
+"title": "Anatomy and Physiology II with Lab",
+"stem": "Armored_Anatomy_and_Physiology_II_with_Lab"
+},
+{
+"n": 479,
+"title": "Essentials of Academic Writing",
+"stem": "Armored_Essentials_of_Academic_Writing"
+},
+{
+"n": 480,
+"title": "Foundations of Advanced Psychiatric Mental Health Practice",
+"stem": "Armored_Foundations_of_Advanced_Psychiatric_Mental_Health_Practice"
+},
+{
+"n": 481,
+"title": "The Assessment and Diagnostic Process of Psychiatric Nurse Practitioner Practice",
+"stem": "Armored_The_Assessment_and_Diagnostic_Process_of_Psychiatric_Nurse_Practitioner_Practice"
+},
+{
+"n": 482,
+"title": "Psychopharmacology for Advanced Psychiatric Mental Health Practice",
+"stem": "Armored_Psychopharmacology_for_Advanced_Psychiatric_Mental_Health_Practice"
+},
+{
+"n": 483,
+"title": "Advanced Psychiatric Mental Health Care of Adults and Older Adults Across Care Settings",
+"stem": "Armored_Advanced_Psychiatric_Mental_Health_Care_of_Adults_and_Older_Adults_Across_Care_Settings"
+},
+{
+"n": 484,
+"title": "Advanced Psychiatric Mental Health Care of Children and Adolescents Across Care Settings",
+"stem": "Armored_Advanced_Psychiatric_Mental_Health_Care_of_Children_and_Adolescents_Across_Care_Settings"
+},
+{
+"n": 485,
+"title": "Psychiatric Mental Health Nurse Practitioner Clinical Internship I",
+"stem": "Armored_Psychiatric_Mental_Health_Nurse_Practitioner_Clinical_Internship_I"
+},
+{
+"n": 486,
+"title": "Psychiatric Mental Health Nurse Practitioner Clinical Internship II",
+"stem": "Armored_Psychiatric_Mental_Health_Nurse_Practitioner_Clinical_Internship_II"
+},
+{
+"n": 487,
+"title": "Psychiatric Mental Health Nurse Practitioner Clinical Internship III",
+"stem": "Armored_Psychiatric_Mental_Health_Nurse_Practitioner_Clinical_Internship_III"
+},
+{
+"n": 488,
+"title": "Learning Strategies in Higher Education",
+"stem": "Armored_Learning_Strategies_in_Higher_Education"
+},
+{
+"n": 489,
+"title": "Introduction to Health and Human Services",
+"stem": "Armored_Introduction_to_Health_and_Human_Services"
+},
+{
+"n": 490,
+"title": "Healthcare Ecosystems",
+"stem": "Armored_Healthcare_Ecosystems"
+},
+{
+"n": 491,
+"title": "History of Healthcare in America",
+"stem": "Armored_History_of_Healthcare_in_America"
+},
+{
+"n": 492,
+"title": "Care for Individuals and Families",
+"stem": "Armored_Care_for_Individuals_and_Families"
+},
+{
+"n": 493,
+"title": "Evidence-Based Practice for Health and Human Services",
+"stem": "Armored_Evidence_Based_Practice_for_Health_and_Human_Services"
+},
+{
+"n": 494,
+"title": "Introduction to Pharmacology",
+"stem": "Armored_Introduction_to_Pharmacology"
+},
+{
+"n": 495,
+"title": "Introduction to Gerontology",
+"stem": "Armored_Introduction_to_Gerontology"
+},
+{
+"n": 496,
+"title": "End-of-Life Care",
+"stem": "Armored_End_of_Life_Care"
+},
+{
+"n": 497,
+"title": "Introduction to Epidemiology",
+"stem": "Armored_Introduction_to_Epidemiology"
+},
+{
+"n": 498,
+"title": "Community and Public Health",
+"stem": "Armored_Community_and_Public_Health"
+},
+{
+"n": 499,
+"title": "Healthcare Values and Ethics",
+"stem": "Armored_Healthcare_Values_and_Ethics"
+},
+{
+"n": 500,
+"title": "Financial Resource Management and Healthcare Reimbursement",
+"stem": "Armored_Financial_Resource_Management_and_Healthcare_Reimbursement"
+},
+{
+"n": 501,
+"title": "Health Literacy for the Client and Family",
+"stem": "Armored_Health_Literacy_for_the_Client_and_Family"
+},
+{
+"n": 502,
+"title": "Models of Care and Healthcare Trends",
+"stem": "Armored_Models_of_Care_and_Healthcare_Trends"
+},
+{
+"n": 503,
+"title": "Community Relations and Leadership",
+"stem": "Armored_Community_Relations_and_Leadership"
+},
+{
+"n": 504,
+"title": "Health and Human Services Professional Field Experience",
+"stem": "Armored_Health_and_Human_Services_Professional_Field_Experience"
+},
+{
+"n": 505,
+"title": "Health & Human Services Professional Capstone",
+"stem": "Armored_Health_Human_Services_Professional_Capstone"
+},
+{
+"n": 506,
+"title": "Introduction to Chemistry",
+"stem": "Armored_Introduction_to_Chemistry"
+},
+{
+"n": 507,
+"title": "Foundations of Nursing",
+"stem": "Armored_Foundations_of_Nursing"
+},
+{
+"n": 508,
+"title": "Health and Wellness Through Nutritional Science",
+"stem": "Armored_Health_and_Wellness_Through_Nutritional_Science"
+},
+{
+"n": 509,
+"title": "Medical Dosage Calculations and Pharmacology",
+"stem": "Armored_Medical_Dosage_Calculations_and_Pharmacology"
+},
+{
+"n": 510,
+"title": "Basic Nursing Skills",
+"stem": "Armored_Basic_Nursing_Skills"
+},
+{
+"n": 511,
+"title": "Health Assessment",
+"stem": "Armored_Health_Assessment"
+},
+{
+"n": 512,
+"title": "Adult Health I",
+"stem": "Armored_Adult_Health_I"
+},
+{
+"n": 513,
+"title": "Intermediate Nursing Skills",
+"stem": "Armored_Intermediate_Nursing_Skills"
+},
+{
+"n": 514,
+"title": "Adult Health II",
+"stem": "Armored_Adult_Health_II"
+},
+{
+"n": 515,
+"title": "Women's and Children's Nursing",
+"stem": "Armored_Women_s_and_Children_s_Nursing"
+},
+{
+"n": 516,
+"title": "Psychiatric and Mental Health Nursing",
+"stem": "Armored_Psychiatric_and_Mental_Health_Nursing"
+},
+{
+"n": 517,
+"title": "Community Health and Population-Focused Nursing",
+"stem": "Armored_Community_Health_and_Population_Focused_Nursing"
+},
+{
+"n": 518,
+"title": "Advanced Nursing Skills",
+"stem": "Armored_Advanced_Nursing_Skills"
+},
+{
+"n": 519,
+"title": "Adult Health III",
+"stem": "Armored_Adult_Health_III"
+},
+{
+"n": 520,
+"title": "Professional Nursing Role Transition",
+"stem": "Armored_Professional_Nursing_Role_Transition"
+},
+{
+"n": 521,
+"title": "Introduction to Systems Thinking for Health Professionals",
+"stem": "Armored_Introduction_to_Systems_Thinking_for_Health_Professionals"
+},
+{
+"n": 522,
+"title": "Theories of Personality",
+"stem": "Armored_Theories_of_Personality"
+},
+{
+"n": 523,
+"title": "Cultural Awareness and Ethics",
+"stem": "Armored_Cultural_Awareness_and_Ethics"
+},
+{
+"n": 524,
+"title": "Psychology of Learning",
+"stem": "Armored_Psychology_of_Learning"
+},
+{
+"n": 525,
+"title": "Social Psychology",
+"stem": "Armored_Social_Psychology"
+},
+{
+"n": 526,
+"title": "Health Equity and Social Determinants of Health",
+"stem": "Armored_Health_Equity_and_Social_Determinants_of_Health"
+},
+{
+"n": 527,
+"title": "Adult Psychology",
+"stem": "Armored_Adult_Psychology"
+},
+{
+"n": 528,
+"title": "Cognitive Psychology",
+"stem": "Armored_Cognitive_Psychology"
+},
+{
+"n": 529,
+"title": "Psychopathology",
+"stem": "Armored_Psychopathology"
+},
+{
+"n": 530,
+"title": "Career and Lifelong Learning",
+"stem": "Armored_Career_and_Lifelong_Learning"
+},
+{
+"n": 531,
+"title": "Understanding Substance Abuse & Addiction",
+"stem": "Armored_Understanding_Substance_Abuse_Addiction"
+},
+{
+"n": 532,
+"title": "Neuropsychology",
+"stem": "Armored_Neuropsychology"
+},
+{
+"n": 533,
+"title": "Health Psychology",
+"stem": "Armored_Health_Psychology"
+},
+{
+"n": 534,
+"title": "Industrial and Organizational Psychology",
+"stem": "Armored_Industrial_and_Organizational_Psychology"
+},
+{
+"n": 535,
+"title": "Team Dynamics",
+"stem": "Armored_Team_Dynamics"
+},
+{
+"n": 536,
+"title": "Capstone in Psychology",
+"stem": "Armored_Capstone_in_Psychology"
+},
+{
+"n": 537,
+"title": "Mental Health Awareness and Education",
+"stem": "Armored_Mental_Health_Awareness_and_Education"
+},
+{
+"n": 538,
+"title": "Introduction to Research Methods",
+"stem": "Armored_Introduction_to_Research_Methods"
+},
+{
+"n": 539,
+"title": "Introduction to Statistics for Research",
+"stem": "Armored_Introduction_to_Statistics_for_Research"
+},
+{
+"n": 540,
+"title": "Foundations in Public Health",
+"stem": "Armored_Foundations_in_Public_Health"
+},
+{
+"n": 541,
+"title": "Program Planning and Implementation",
+"stem": "Armored_Program_Planning_and_Implementation"
+},
+{
+"n": 542,
+"title": "Program Evaluation",
+"stem": "Armored_Program_Evaluation"
+},
+{
+"n": 543,
+"title": "Public Health Policy",
+"stem": "Armored_Public_Health_Policy"
+},
+{
+"n": 544,
+"title": "Gender and Health",
+"stem": "Armored_Gender_and_Health"
+},
+{
+"n": 545,
+"title": "Human Sexuality",
+"stem": "Armored_Human_Sexuality"
+},
+{
+"n": 546,
+"title": "Chronic and Infectious Diseases",
+"stem": "Armored_Chronic_and_Infectious_Diseases"
+},
+{
+"n": 547,
+"title": "Public Health Administration",
+"stem": "Armored_Public_Health_Administration"
+},
+{
+"n": 548,
+"title": "Grant Writing",
+"stem": "Armored_Grant_Writing"
+},
+{
+"n": 549,
+"title": "Environmental Health - Risk Assessment",
+"stem": "Armored_Environmental_Health_Risk_Assessment"
+},
+{
+"n": 550,
+"title": "Global Health - Demographic Transition",
+"stem": "Armored_Global_Health_Demographic_Transition"
+},
+{
+"n": 551,
+"title": "Public Health Leadership and Administration - Leading Change",
+"stem": "Armored_Public_Health_Leadership_and_Administration_Leading_Change"
+},
+{
+"n": 552,
+"title": "Public Health Capstone",
+"stem": "Armored_Public_Health_Capstone"
+},
+{
+"n": 553,
+"title": "Consumer Behavior - Cognitive Dissonance",
+"stem": "Armored_Consumer_Behavior_Cognitive_Dissonance"
+},
+{
+"n": 554,
+"title": "Public Health Core Functions and Essential Services",
+"stem": "Armored_Public_Health_Core_Functions_and_Essential_Services"
+},
+{
+"n": 555,
+"title": "Environmental Health - Drinking Water Treatment",
+"stem": "Armored_Environmental_Health_Drinking_Water_Treatment"
+},
+{
+"n": 556,
+"title": "Global Health - International Health Regulations",
+"stem": "Armored_Global_Health_International_Health_Regulations"
+},
+{
+"n": 557,
+"title": "Public Health Leadership and Administration - Negotiation",
+"stem": "Armored_Public_Health_Leadership_and_Administration_Negotiation"
+},
+{
+"n": 558,
+"title": "Social and Behavioral Determinants of Health",
+"stem": "Armored_Social_and_Behavioral_Determinants_of_Health"
+},
+{
+"n": 559,
+"title": "Public Health Assessment, Program Planning, Intervention, and Evaluation",
+"stem": "Armored_Public_Health_Assessment_Program_Planning_Intervention_and_Evaluation"
+},
+{
+"n": 560,
+"title": "Public Health Finance and Funding",
+"stem": "Armored_Public_Health_Finance_and_Funding"
+},
+{
+"n": 561,
+"title": "Biostatistics and Analysis",
+"stem": "Armored_Biostatistics_and_Analysis"
+},
+{
+"n": 562,
+"title": "Principles of Epidemiology",
+"stem": "Armored_Principles_of_Epidemiology"
+},
+{
+"n": 563,
+"title": "Public Health Policy and Advocacy",
+"stem": "Armored_Public_Health_Policy_and_Advocacy"
+},
+{
+"n": 564,
+"title": "Public Health Education and Promotion",
+"stem": "Armored_Public_Health_Education_and_Promotion"
+},
+{
+"n": 565,
+"title": "Public Health Graduate Capstone",
+"stem": "Armored_Public_Health_Graduate_Capstone"
+},
+{
+"n": 566,
+"title": "Health Sciences Capstone",
+"stem": "Armored_Health_Sciences_Capstone"
+},
+{
+"n": 567,
+"title": "Health Services Research",
+"stem": "Armored_Health_Services_Research"
+},
+{
+"n": 568,
+"title": "Healthcare Management",
+"stem": "Armored_Healthcare_Management"
+},
+{
+"n": 569,
+"title": "Healthcare Law and Ethics",
+"stem": "Armored_Healthcare_Law_and_Ethics"
+},
+{
+"n": 570,
+"title": "Data Analysis for Healthcare Decisions",
+"stem": "Armored_Data_Analysis_for_Healthcare_Decisions"
+},
+{
+"n": 571,
+"title": "Transforming Healthcare Through Technology",
+"stem": "Armored_Transforming_Healthcare_Through_Technology"
+},
+{
+"n": 572,
+"title": "Healthcare Quality",
+"stem": "Armored_Healthcare_Quality"
+},
+{
+"n": 573,
+"title": "Risk Management and Compliance",
+"stem": "Armored_Risk_Management_and_Compliance"
+},
+{
+"n": 574,
+"title": "Healthcare Economics",
+"stem": "Armored_Healthcare_Economics"
+},
+{
+"n": 575,
+"title": "Resource Management and Performance",
+"stem": "Armored_Resource_Management_and_Performance"
+},
+{
+"n": 576,
+"title": "MHA Capstone",
+"stem": "Armored_MHA_Capstone"
+},
+{
+"n": 577,
+"title": "Global and Population Health - Value-Based Care",
+"stem": "Armored_Global_and_Population_Health_Value_Based_Care"
+},
+{
+"n": 578,
+"title": "Emerging Professional Practice - Forensic Nursing",
+"stem": "Armored_Emerging_Professional_Practice_Forensic_Nursing"
+}
+]

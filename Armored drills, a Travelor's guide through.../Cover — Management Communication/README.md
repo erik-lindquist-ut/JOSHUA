@@ -1,0 +1,8 @@
+# Cover — Management Communication
+
+| | |
+|---|---|
+| Status | V1 · built 2026-09-25 |
+| Pattern | Same as the series covers: 1600 × 2560, flat palette, inset rule, title, tagline, by-line, V1; no series line (the series-name line was removed 2026-09-25). Palette yellow #C9B35A / ink #3D3410 (the listing sheet's red · blue · yellow rotation, continued from the seventh title) |
+| Copied here | Armored_Management_Communication_cover.jpg |
+| Built by | `../Cover — Managing Organizations and Leading People/_build/build_covers.py` (builds all six new covers; same drawing code as the Accounting for Decision Making cover builder) |

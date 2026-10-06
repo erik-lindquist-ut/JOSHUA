@@ -1,22 +1,49 @@
 <.page title={@product.title}>
   <main class="product">
-    <p class="back"><a href="/">← All titles</a></p>
+    <.crumbs :if={@trails != []} trail={hd(@trails)} />
+    <p :if={@trails == []} class="back"><a href="/">← All titles</a></p>
     <article id={"product-#{@product.slug}"}>
       <img :if={cover_url(@product)} class="cover" src={cover_url(@product)} alt={"Cover of #{@product.title}"} width="320" height="512" />
       <div class="details">
         <h1>{@product.title}</h1>
         <p :if={@product.subtitle} class="subtitle">{@product.subtitle}</p>
         <p class="by">
-          by {@product.author}<span :if={@product.series}> · {@product.series}</span><span :if={@product.edition}> · {@product.edition}</span>
+          by {@product.author}<span :if={@product.edition}> · {@product.edition}</span>
         </p>
+        <div :if={length(@trails) > 1} class="trails" id="trails">
+          <p class="trails-label">Listed in {plural(length(@trails), "place", "places")}:</p>
+          <ul><li :for={t <- @trails}><.crumbs trail={t |> Enum.drop(1) |> Enum.drop(-1)} primary={false} /></li></ul>
+        </div>
         <p class="description">{@product.description}</p>
+        <section :if={@bundle != []} class="bundle" id="bundle" aria-label="Bundle">
+          <p class="bundle-line">{ArmoredStore.Bundles.line()}</p>
+          <ol class="bundle-books"><li :for={b <- @bundle}><a href={"/books/#{b.slug}"}>{String.replace_prefix(b.title, "Armored Fail Fast: ", "")}</a></li></ol>
+        </section>
         <p class={["price", !buyable?(@product) && "unset"]}>{price(@product)}</p>
         <form :if={buyable?(@product)} method="post" action={"/checkout/#{@product.slug}"}>
           <input type="hidden" name="_csrf_token" value={@token} />
           <button type="submit">Buy — {price(@product)}</button>
         </form>
         <p :if={!buyable?(@product)} class="note">Not available to buy yet.</p>
+        <p :if={@example} class="example" id="example"><a href={ArmoredStore.Examples.url(@product.slug)}>{@example.label}</a> <span class="kind">(PDF)</span></p>
       </div>
     </article>
+    <section :if={@preview} id="preview" class="preview">
+      <p class="label">Preview</p>
+      <h2>{@preview.section}</h2>
+      <%= for block <- ArmoredStore.Previews.blocks(@preview) do %>
+        <%= case block do %>
+          <% {:list, items} -> %>
+            <ol><li :for={t <- items}>{t}</li></ol>
+          <% {:para, t} -> %>
+            <p>{t}</p>
+          <% {:table, [head | rows]} -> %>
+            <table class="book-table">
+              <thead><tr><th :for={c <- head}>{c}</th></tr></thead>
+              <tbody><tr :for={r <- rows}><td :for={c <- r}>{c}</td></tr></tbody>
+            </table>
+        <% end %>
+      <% end %>
+    </section>
   </main>
 </.page>

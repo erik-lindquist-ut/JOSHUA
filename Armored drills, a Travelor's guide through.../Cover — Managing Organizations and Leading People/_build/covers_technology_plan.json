@@ -1,0 +1,997 @@
+[
+{
+"n": 203,
+"title": "Natural Science Lab",
+"stem": "Armored_Natural_Science_Lab"
+},
+{
+"n": 204,
+"title": "Project Management - PMBOK",
+"stem": "Armored_Project_Management_PMBOK"
+},
+{
+"n": 205,
+"title": "Information Systems Security",
+"stem": "Armored_Information_Systems_Security"
+},
+{
+"n": 206,
+"title": "Scripting and Programming - C++ Applications",
+"stem": "Armored_Scripting_and_Programming_C_Applications"
+},
+{
+"n": 207,
+"title": "Data Structures and Algorithms I",
+"stem": "Armored_Data_Structures_and_Algorithms_I"
+},
+{
+"n": 208,
+"title": "Data Structures and Algorithms II",
+"stem": "Armored_Data_Structures_and_Algorithms_II"
+},
+{
+"n": 209,
+"title": "Computer Architecture",
+"stem": "Armored_Computer_Architecture"
+},
+{
+"n": 210,
+"title": "Calculus I - Definite Integrals",
+"stem": "Armored_Calculus_I_Definite_Integrals"
+},
+{
+"n": 211,
+"title": "Discrete Mathematics I",
+"stem": "Armored_Discrete_Mathematics_I"
+},
+{
+"n": 212,
+"title": "Discrete Mathematics II",
+"stem": "Armored_Discrete_Mathematics_II"
+},
+{
+"n": 213,
+"title": "Version Control",
+"stem": "Armored_Version_Control"
+},
+{
+"n": 214,
+"title": "Web Development Foundations",
+"stem": "Armored_Web_Development_Foundations"
+},
+{
+"n": 215,
+"title": "Scripting and Programming - Foundations",
+"stem": "Armored_Scripting_and_Programming_Foundations"
+},
+{
+"n": 216,
+"title": "Linux Foundations",
+"stem": "Armored_Linux_Foundations"
+},
+{
+"n": 217,
+"title": "Cloud Foundations",
+"stem": "Armored_Cloud_Foundations"
+},
+{
+"n": 218,
+"title": "Software Engineering",
+"stem": "Armored_Software_Engineering"
+},
+{
+"n": 219,
+"title": "Java Fundamentals",
+"stem": "Armored_Java_Fundamentals"
+},
+{
+"n": 220,
+"title": "Java Frameworks",
+"stem": "Armored_Java_Frameworks"
+},
+{
+"n": 221,
+"title": "Back-End Programming",
+"stem": "Armored_Back_End_Programming"
+},
+{
+"n": 222,
+"title": "Learning Technology",
+"stem": "Armored_Learning_Technology"
+},
+{
+"n": 223,
+"title": "Azure Fundamentals",
+"stem": "Armored_Azure_Fundamentals"
+},
+{
+"n": 224,
+"title": "IT Foundations",
+"stem": "Armored_IT_Foundations"
+},
+{
+"n": 225,
+"title": "IT Applications",
+"stem": "Armored_IT_Applications"
+},
+{
+"n": 226,
+"title": "Cloud Applications",
+"stem": "Armored_Cloud_Applications"
+},
+{
+"n": 227,
+"title": "AWS Cloud Architecture",
+"stem": "Armored_AWS_Cloud_Architecture"
+},
+{
+"n": 228,
+"title": "Managing Cloud Security",
+"stem": "Armored_Managing_Cloud_Security"
+},
+{
+"n": 229,
+"title": "AWS Developer",
+"stem": "Armored_AWS_Developer"
+},
+{
+"n": 230,
+"title": "Business of IT - Project Management",
+"stem": "Armored_Business_of_IT_Project_Management"
+},
+{
+"n": 231,
+"title": "Networks",
+"stem": "Armored_Networks"
+},
+{
+"n": 232,
+"title": "Advanced Data Management",
+"stem": "Armored_Advanced_Data_Management"
+},
+{
+"n": 233,
+"title": "Network and Security - Applications",
+"stem": "Armored_Network_and_Security_Applications"
+},
+{
+"n": 234,
+"title": "Penetration Testing and Vulnerability Analysis",
+"stem": "Armored_Penetration_Testing_and_Vulnerability_Analysis"
+},
+{
+"n": 235,
+"title": "Introduction to Programming in Python",
+"stem": "Armored_Introduction_to_Programming_in_Python"
+},
+{
+"n": 236,
+"title": "Business of IT - Applications",
+"stem": "Armored_Business_of_IT_Applications"
+},
+{
+"n": 237,
+"title": "Internet of Things (IoT) and Infrastructure",
+"stem": "Armored_Internet_of_Things_IoT_and_Infrastructure"
+},
+{
+"n": 238,
+"title": "Cloud Platform Solutions",
+"stem": "Armored_Cloud_Platform_Solutions"
+},
+{
+"n": 239,
+"title": "Cyber Defense and Countermeasures",
+"stem": "Armored_Cyber_Defense_and_Countermeasures"
+},
+{
+"n": 240,
+"title": "Cloud Deployment and Operations",
+"stem": "Armored_Cloud_Deployment_and_Operations"
+},
+{
+"n": 241,
+"title": "Introduction to Systems Thinking",
+"stem": "Armored_Introduction_to_Systems_Thinking"
+},
+{
+"n": 242,
+"title": "Software Security and Testing",
+"stem": "Armored_Software_Security_and_Testing"
+},
+{
+"n": 243,
+"title": "Hardware and Operating Systems Essentials",
+"stem": "Armored_Hardware_and_Operating_Systems_Essentials"
+},
+{
+"n": 244,
+"title": "Network Analytics and Troubleshooting",
+"stem": "Armored_Network_Analytics_and_Troubleshooting"
+},
+{
+"n": 245,
+"title": "Telecomm and Wireless Communications",
+"stem": "Armored_Telecomm_and_Wireless_Communications"
+},
+{
+"n": 246,
+"title": "Cyber Operations Fundamentals",
+"stem": "Armored_Cyber_Operations_Fundamentals"
+},
+{
+"n": 247,
+"title": "Software Defined Networking",
+"stem": "Armored_Software_Defined_Networking"
+},
+{
+"n": 248,
+"title": "DevNet Fundamentals",
+"stem": "Armored_DevNet_Fundamentals"
+},
+{
+"n": 249,
+"title": "Network Automation and Deployment",
+"stem": "Armored_Network_Automation_and_Deployment"
+},
+{
+"n": 250,
+"title": "Implementing and Administering Networking Solutions",
+"stem": "Armored_Implementing_and_Administering_Networking_Solutions"
+},
+{
+"n": 251,
+"title": "Discrete Math: Logic",
+"stem": "Armored_Discrete_Math_Logic"
+},
+{
+"n": 252,
+"title": "Discrete Math: Functions and Relations",
+"stem": "Armored_Discrete_Math_Functions_and_Relations"
+},
+{
+"n": 253,
+"title": "Data Management - Foundations",
+"stem": "Armored_Data_Management_Foundations"
+},
+{
+"n": 254,
+"title": "Data Management - Applications",
+"stem": "Armored_Data_Management_Applications"
+},
+{
+"n": 255,
+"title": "Introduction to AI for Computer Scientists",
+"stem": "Armored_Introduction_to_AI_for_Computer_Scientists"
+},
+{
+"n": 256,
+"title": "Fundamentals of Information Security - Access Control Models",
+"stem": "Armored_Fundamentals_of_Information_Security_Access_Control_Models"
+},
+{
+"n": 257,
+"title": "Software Design and Quality Assurance",
+"stem": "Armored_Software_Design_and_Quality_Assurance"
+},
+{
+"n": 258,
+"title": "Secure Network Design",
+"stem": "Armored_Secure_Network_Design"
+},
+{
+"n": 259,
+"title": "Security Operations",
+"stem": "Armored_Security_Operations"
+},
+{
+"n": 260,
+"title": "Penetration Testing",
+"stem": "Armored_Penetration_Testing"
+},
+{
+"n": 261,
+"title": "Cloud Security",
+"stem": "Armored_Cloud_Security"
+},
+{
+"n": 262,
+"title": "Governance, Risk, and Compliance",
+"stem": "Armored_Governance_Risk_and_Compliance"
+},
+{
+"n": 263,
+"title": "Secure Software Design",
+"stem": "Armored_Secure_Software_Design"
+},
+{
+"n": 264,
+"title": "Cybersecurity Architecture and Engineering",
+"stem": "Armored_Cybersecurity_Architecture_and_Engineering"
+},
+{
+"n": 265,
+"title": "Cybersecurity Management",
+"stem": "Armored_Cybersecurity_Management"
+},
+{
+"n": 266,
+"title": "Cybersecurity Graduate Capstone",
+"stem": "Armored_Cybersecurity_Graduate_Capstone"
+},
+{
+"n": 267,
+"title": "Introduction to Analytics",
+"stem": "Armored_Introduction_to_Analytics"
+},
+{
+"n": 268,
+"title": "Data Analytics",
+"stem": "Armored_Data_Analytics"
+},
+{
+"n": 269,
+"title": "Scripting and Programming - Python Applications",
+"stem": "Armored_Scripting_and_Programming_Python_Applications"
+},
+{
+"n": 270,
+"title": "Big Data Foundations",
+"stem": "Armored_Big_Data_Foundations"
+},
+{
+"n": 271,
+"title": "Introduction to Data Science",
+"stem": "Armored_Introduction_to_Data_Science"
+},
+{
+"n": 272,
+"title": "Data Wrangling",
+"stem": "Armored_Data_Wrangling"
+},
+{
+"n": 273,
+"title": "Data Analysis with R",
+"stem": "Armored_Data_Analysis_with_R"
+},
+{
+"n": 274,
+"title": "Machine Learning - Supervised vs. Unsupervised",
+"stem": "Armored_Machine_Learning_Supervised_vs_Unsupervised"
+},
+{
+"n": 275,
+"title": "Data Visualization",
+"stem": "Armored_Data_Visualization"
+},
+{
+"n": 276,
+"title": "Machine Learning DevOps",
+"stem": "Armored_Machine_Learning_DevOps"
+},
+{
+"n": 277,
+"title": "Data Analytics Capstone",
+"stem": "Armored_Data_Analytics_Capstone"
+},
+{
+"n": 278,
+"title": "Python for IT Automation",
+"stem": "Armored_Python_for_IT_Automation"
+},
+{
+"n": 279,
+"title": "The Data Analytics Journey",
+"stem": "Armored_The_Data_Analytics_Journey"
+},
+{
+"n": 280,
+"title": "Data Management - Relational and Non-Relational",
+"stem": "Armored_Data_Management_Relational_and_Non_Relational"
+},
+{
+"n": 281,
+"title": "Analytics Programming",
+"stem": "Armored_Analytics_Programming"
+},
+{
+"n": 282,
+"title": "Data Preparation and Exploration",
+"stem": "Armored_Data_Preparation_and_Exploration"
+},
+{
+"n": 283,
+"title": "Statistical Data Mining",
+"stem": "Armored_Statistical_Data_Mining"
+},
+{
+"n": 284,
+"title": "Data Storytelling for Varied Audiences",
+"stem": "Armored_Data_Storytelling_for_Varied_Audiences"
+},
+{
+"n": 285,
+"title": "Deployment",
+"stem": "Armored_Deployment"
+},
+{
+"n": 286,
+"title": "Machine Learning - Bagging vs. Boosting",
+"stem": "Armored_Machine_Learning_Bagging_vs_Boosting"
+},
+{
+"n": 287,
+"title": "Advanced Analytics",
+"stem": "Armored_Advanced_Analytics"
+},
+{
+"n": 288,
+"title": "Optimization",
+"stem": "Armored_Optimization"
+},
+{
+"n": 289,
+"title": "Data Science Capstone",
+"stem": "Armored_Data_Science_Capstone"
+},
+{
+"n": 290,
+"title": "Cloud Databases",
+"stem": "Armored_Cloud_Databases"
+},
+{
+"n": 291,
+"title": "Data Processing",
+"stem": "Armored_Data_Processing"
+},
+{
+"n": 292,
+"title": "Data Analytics at Scale",
+"stem": "Armored_Data_Analytics_at_Scale"
+},
+{
+"n": 293,
+"title": "Data Engineering Capstone",
+"stem": "Armored_Data_Engineering_Capstone"
+},
+{
+"n": 294,
+"title": "Business Process Engineering",
+"stem": "Armored_Business_Process_Engineering"
+},
+{
+"n": 295,
+"title": "Decision Intelligence",
+"stem": "Armored_Decision_Intelligence"
+},
+{
+"n": 296,
+"title": "Decision Process Engineering Capstone",
+"stem": "Armored_Decision_Process_Engineering_Capstone"
+},
+{
+"n": 297,
+"title": "Artificial Intelligence Optimization for Computer Scientists",
+"stem": "Armored_Artificial_Intelligence_Optimization_for_Computer_Scientists"
+},
+{
+"n": 298,
+"title": "Advanced AI and ML",
+"stem": "Armored_Advanced_AI_and_ML"
+},
+{
+"n": 299,
+"title": "Introduction to Computer Science",
+"stem": "Armored_Introduction_to_Computer_Science"
+},
+{
+"n": 300,
+"title": "Practical Applications of Prompt",
+"stem": "Armored_Practical_Applications_of_Prompt"
+},
+{
+"n": 301,
+"title": "Operating Systems for Computer Scientists",
+"stem": "Armored_Operating_Systems_for_Computer_Scientists"
+},
+{
+"n": 302,
+"title": "Computer Science Project Development with a Team",
+"stem": "Armored_Computer_Science_Project_Development_with_a_Team"
+},
+{
+"n": 303,
+"title": "Real Life Applications of Data Structures",
+"stem": "Armored_Real_Life_Applications_of_Data_Structures"
+},
+{
+"n": 304,
+"title": "Advanced Software Engineering",
+"stem": "Armored_Advanced_Software_Engineering"
+},
+{
+"n": 305,
+"title": "Software Product Design and Requirement Engineering",
+"stem": "Armored_Software_Product_Design_and_Requirement_Engineering"
+},
+{
+"n": 306,
+"title": "Software Architecture and Design",
+"stem": "Armored_Software_Architecture_and_Design"
+},
+{
+"n": 307,
+"title": "Software Quality Assurance and Deployment",
+"stem": "Armored_Software_Quality_Assurance_and_Deployment"
+},
+{
+"n": 308,
+"title": "Network Architecture and Cloud Computing",
+"stem": "Armored_Network_Architecture_and_Cloud_Computing"
+},
+{
+"n": 309,
+"title": "DevOps Foundations",
+"stem": "Armored_DevOps_Foundations"
+},
+{
+"n": 310,
+"title": "Continuous Integration and Continuous Delivery",
+"stem": "Armored_Continuous_Integration_and_Continuous_Delivery"
+},
+{
+"n": 311,
+"title": "DevOps Security",
+"stem": "Armored_DevOps_Security"
+},
+{
+"n": 312,
+"title": "Microservices Design and Architecture",
+"stem": "Armored_Microservices_Design_and_Architecture"
+},
+{
+"n": 313,
+"title": "Scalability and Performance Optimization",
+"stem": "Armored_Scalability_and_Performance_Optimization"
+},
+{
+"n": 314,
+"title": "Domain Driven Design",
+"stem": "Armored_Domain_Driven_Design"
+},
+{
+"n": 315,
+"title": "Applied Machine Learning for Business Solutions",
+"stem": "Armored_Applied_Machine_Learning_for_Business_Solutions"
+},
+{
+"n": 316,
+"title": "Human Centered AI",
+"stem": "Armored_Human_Centered_AI"
+},
+{
+"n": 317,
+"title": "Integrating AI with Modern Software Applications",
+"stem": "Armored_Integrating_AI_with_Modern_Software_Applications"
+},
+{
+"n": 318,
+"title": "Formal Languages Overview",
+"stem": "Armored_Formal_Languages_Overview"
+},
+{
+"n": 319,
+"title": "Computer Architecture and Systems",
+"stem": "Armored_Computer_Architecture_and_Systems"
+},
+{
+"n": 320,
+"title": "Applied Algorithms and Reasoning",
+"stem": "Armored_Applied_Algorithms_and_Reasoning"
+},
+{
+"n": 321,
+"title": "Unix and Linux",
+"stem": "Armored_Unix_and_Linux"
+},
+{
+"n": 322,
+"title": "Artificial Intelligence and Machine Learning Foundations",
+"stem": "Armored_Artificial_Intelligence_and_Machine_Learning_Foundations"
+},
+{
+"n": 323,
+"title": "Emerging Computing Systems",
+"stem": "Armored_Emerging_Computing_Systems"
+},
+{
+"n": 324,
+"title": "Mobile and Ubiquitous Design",
+"stem": "Armored_Mobile_and_Ubiquitous_Design"
+},
+{
+"n": 325,
+"title": "Human-Computer Interaction",
+"stem": "Armored_Human_Computer_Interaction"
+},
+{
+"n": 326,
+"title": "Machine Learning for Computer Scientists",
+"stem": "Armored_Machine_Learning_for_Computer_Scientists"
+},
+{
+"n": 327,
+"title": "Deep Learning",
+"stem": "Armored_Deep_Learning"
+},
+{
+"n": 328,
+"title": "Natural Language Processing",
+"stem": "Armored_Natural_Language_Processing"
+},
+{
+"n": 329,
+"title": "Advanced AI for Computer Scientists",
+"stem": "Armored_Advanced_AI_for_Computer_Scientists"
+},
+{
+"n": 330,
+"title": "Fundamentals of Information Security - Risk Responses",
+"stem": "Armored_Fundamentals_of_Information_Security_Risk_Responses"
+},
+{
+"n": 331,
+"title": "Legal Issues in Information Security",
+"stem": "Armored_Legal_Issues_in_Information_Security"
+},
+{
+"n": 332,
+"title": "Digital Forensics in Cybersecurity",
+"stem": "Armored_Digital_Forensics_in_Cybersecurity"
+},
+{
+"n": 333,
+"title": "Introduction to Cryptography",
+"stem": "Armored_Introduction_to_Cryptography"
+},
+{
+"n": 334,
+"title": "Introduction to AI and Security",
+"stem": "Armored_Introduction_to_AI_and_Security"
+},
+{
+"n": 335,
+"title": "Managing Information Security",
+"stem": "Armored_Managing_Information_Security"
+},
+{
+"n": 336,
+"title": "Cybersecurity and Information Assurance Capstone",
+"stem": "Armored_Cybersecurity_and_Information_Assurance_Capstone"
+},
+{
+"n": 337,
+"title": "General Chemistry I",
+"stem": "Armored_General_Chemistry_I"
+},
+{
+"n": 338,
+"title": "General Chemistry I Lab",
+"stem": "Armored_General_Chemistry_I_Lab"
+},
+{
+"n": 339,
+"title": "General Physics I",
+"stem": "Armored_General_Physics_I"
+},
+{
+"n": 340,
+"title": "Introduction to IT",
+"stem": "Armored_Introduction_to_IT"
+},
+{
+"n": 341,
+"title": "Business Productivity Software",
+"stem": "Armored_Business_Productivity_Software"
+},
+{
+"n": 342,
+"title": "Digital Transformation in the Enterprise",
+"stem": "Armored_Digital_Transformation_in_the_Enterprise"
+},
+{
+"n": 343,
+"title": "Agile Methodology",
+"stem": "Armored_Agile_Methodology"
+},
+{
+"n": 344,
+"title": "Technology Management",
+"stem": "Armored_Technology_Management"
+},
+{
+"n": 345,
+"title": "Web Design Fundamentals",
+"stem": "Armored_Web_Design_Fundamentals"
+},
+{
+"n": 346,
+"title": "Foundations of Programming (Python)",
+"stem": "Armored_Foundations_of_Programming_Python"
+},
+{
+"n": 347,
+"title": "Technical Communication - For IT Managers",
+"stem": "Armored_Technical_Communication_For_IT_Managers"
+},
+{
+"n": 348,
+"title": "Information Technology Management and Leadership",
+"stem": "Armored_Information_Technology_Management_and_Leadership"
+},
+{
+"n": 349,
+"title": "Financial Planning for IT Professionals",
+"stem": "Armored_Financial_Planning_for_IT_Professionals"
+},
+{
+"n": 350,
+"title": "Problem Solving for Technology Business Problems",
+"stem": "Armored_Problem_Solving_for_Technology_Business_Problems"
+},
+{
+"n": 351,
+"title": "Project Management - Essential Concepts",
+"stem": "Armored_Project_Management_Essential_Concepts"
+},
+{
+"n": 352,
+"title": "Risk Management and Information Technology",
+"stem": "Armored_Risk_Management_and_Information_Technology"
+},
+{
+"n": 353,
+"title": "Agile Processes and Culture in Technology",
+"stem": "Armored_Agile_Processes_and_Culture_in_Technology"
+},
+{
+"n": 354,
+"title": "Cloud Strategy",
+"stem": "Armored_Cloud_Strategy"
+},
+{
+"n": 355,
+"title": "Cybersecurity Strategy",
+"stem": "Armored_Cybersecurity_Strategy"
+},
+{
+"n": 356,
+"title": "Data and AI Strategy",
+"stem": "Armored_Data_and_AI_Strategy"
+},
+{
+"n": 357,
+"title": "Leading a Technology Transformation",
+"stem": "Armored_Leading_a_Technology_Transformation"
+},
+{
+"n": 358,
+"title": "Product Strategy",
+"stem": "Armored_Product_Strategy"
+},
+{
+"n": 359,
+"title": "Product Design",
+"stem": "Armored_Product_Design"
+},
+{
+"n": 360,
+"title": "Product Launch",
+"stem": "Armored_Product_Launch"
+},
+{
+"n": 361,
+"title": "Cloud and Network Security Models",
+"stem": "Armored_Cloud_and_Network_Security_Models"
+},
+{
+"n": 362,
+"title": "AI for IT Automation and Security",
+"stem": "Armored_AI_for_IT_Automation_and_Security"
+},
+{
+"n": 363,
+"title": "Virtualization and IaaS",
+"stem": "Armored_Virtualization_and_IaaS"
+},
+{
+"n": 364,
+"title": "Hybrid Cloud Infrastructure and Orchestration",
+"stem": "Armored_Hybrid_Cloud_Infrastructure_and_Orchestration"
+},
+{
+"n": 365,
+"title": "BSCNE Capstone Project",
+"stem": "Armored_BSCNE_Capstone_Project"
+},
+{
+"n": 366,
+"title": "BSCNE-AWS Capstone Project",
+"stem": "Armored_BSCNE_AWS_Capstone_Project"
+},
+{
+"n": 367,
+"title": "BSCNE-Azure Capstone Project",
+"stem": "Armored_BSCNE_Azure_Capstone_Project"
+},
+{
+"n": 368,
+"title": "BSCNE-Cisco Capstone Project",
+"stem": "Armored_BSCNE_Cisco_Capstone_Project"
+},
+{
+"n": 369,
+"title": "Azure Solutions Architecture",
+"stem": "Armored_Azure_Solutions_Architecture"
+},
+{
+"n": 370,
+"title": "Introduction to Software Engineering",
+"stem": "Armored_Introduction_to_Software_Engineering"
+},
+{
+"n": 371,
+"title": "Mathematics for Programmers",
+"stem": "Armored_Mathematics_for_Programmers"
+},
+{
+"n": 372,
+"title": "JavaScript Programming",
+"stem": "Armored_JavaScript_Programming"
+},
+{
+"n": 373,
+"title": "Object Oriented Programming in Python",
+"stem": "Armored_Object_Oriented_Programming_in_Python"
+},
+{
+"n": 374,
+"title": "Calculus I - Linear Approximation",
+"stem": "Armored_Calculus_I_Linear_Approximation"
+},
+{
+"n": 375,
+"title": "Ethical Engineering",
+"stem": "Armored_Ethical_Engineering"
+},
+{
+"n": 376,
+"title": "Foundations of UI/UX",
+"stem": "Armored_Foundations_of_UI_UX"
+},
+{
+"n": 377,
+"title": "Front End Development",
+"stem": "Armored_Front_End_Development"
+},
+{
+"n": 378,
+"title": "Applied Discrete Mathematics",
+"stem": "Armored_Applied_Discrete_Mathematics"
+},
+{
+"n": 379,
+"title": "Data for AI",
+"stem": "Armored_Data_for_AI"
+},
+{
+"n": 380,
+"title": "Physics I Lab for Programmers",
+"stem": "Armored_Physics_I_Lab_for_Programmers"
+},
+{
+"n": 381,
+"title": "Agile for Software Engineering",
+"stem": "Armored_Agile_for_Software_Engineering"
+},
+{
+"n": 382,
+"title": "Special Topics in Software Engineering and AI",
+"stem": "Armored_Special_Topics_in_Software_Engineering_and_AI"
+},
+{
+"n": 383,
+"title": "Applied Software Engineering",
+"stem": "Armored_Applied_Software_Engineering"
+},
+{
+"n": 384,
+"title": "Introduction to AI Engineering",
+"stem": "Armored_Introduction_to_AI_Engineering"
+},
+{
+"n": 385,
+"title": "Calculus II for Engineers",
+"stem": "Armored_Calculus_II_for_Engineers"
+},
+{
+"n": 386,
+"title": "Calculus III for Engineers",
+"stem": "Armored_Calculus_III_for_Engineers"
+},
+{
+"n": 387,
+"title": "AI Engineering with C#",
+"stem": "Armored_AI_Engineering_with_C"
+},
+{
+"n": 388,
+"title": "Azure AI Fundamentals",
+"stem": "Armored_Azure_AI_Fundamentals"
+},
+{
+"n": 389,
+"title": "Linear Algebra for Engineers",
+"stem": "Armored_Linear_Algebra_for_Engineers"
+},
+{
+"n": 390,
+"title": "Mathematics of AI",
+"stem": "Armored_Mathematics_of_AI"
+},
+{
+"n": 391,
+"title": "Advanced C#",
+"stem": "Armored_Advanced_C"
+},
+{
+"n": 392,
+"title": "C# .NET Back End Development",
+"stem": "Armored_C_NET_Back_End_Development"
+},
+{
+"n": 393,
+"title": "Computer Systems for AI",
+"stem": "Armored_Computer_Systems_for_AI"
+},
+{
+"n": 394,
+"title": "Deep Learning for AI Engineers",
+"stem": "Armored_Deep_Learning_for_AI_Engineers"
+},
+{
+"n": 395,
+"title": "Natural Language Processing for AI Engineers",
+"stem": "Armored_Natural_Language_Processing_for_AI_Engineers"
+},
+{
+"n": 396,
+"title": "Computer Vision for AI Engineers",
+"stem": "Armored_Computer_Vision_for_AI_Engineers"
+},
+{
+"n": 397,
+"title": "Applied AI Engineering",
+"stem": "Armored_Applied_AI_Engineering"
+},
+{
+"n": 398,
+"title": "Governance, Risk, and Compliance in the Age of Artificial Intelligence",
+"stem": "Armored_Governance_Risk_and_Compliance_in_the_Age_of_Artificial_Intelligence"
+},
+{
+"n": 399,
+"title": "Human-Centric Risk in Cybersecurity",
+"stem": "Armored_Human_Centric_Risk_in_Cybersecurity"
+},
+{
+"n": 400,
+"title": "Cybersecurity Fundamentals",
+"stem": "Armored_Cybersecurity_Fundamentals"
+},
+{
+"n": 401,
+"title": "Advanced Java",
+"stem": "Armored_Advanced_Java"
+}
+]

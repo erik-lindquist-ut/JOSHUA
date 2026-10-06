@@ -1,0 +1,9 @@
+<.page title="All books">
+  <main class="catalog">
+    <.crumbs trail={[{"Home", "/"}, {"All books", nil}]} />
+    <h1>All books</h1>
+    <p class="lede">{plural(length(@products), "book", "books")}, in listing order.</p>
+    <p :if={@products == []} class="empty" id="empty">Coming soon.</p>
+    <ul :if={@products != []} class="grid"><.book_card :for={p <- @products} product={p} /></ul>
+  </main>
+</.page>

@@ -1,18 +1,33 @@
 <.page title="Store">
   <main class="catalog">
     <h1>E-books</h1>
-    <p class="lede">The Armored drills and The Traveler's Guide, from the Joshua Says series.</p>
-    <p :if={@products == []} class="empty" id="empty">Coming soon.</p>
-    <ul :if={@products != []} class="grid">
-      <li :for={p <- @products} class="card" id={"product-#{p.slug}"}>
-        <a :if={cover_url(p)} class="cover-link" href={"/books/#{p.slug}"}>
-          <img src={cover_url(p)} alt={"Cover of #{p.title}"} width="200" height="320" loading="lazy" />
-        </a>
-        <h2><a href={"/books/#{p.slug}"}>{p.title}</a></h2>
-        <p class="by">by {p.author}</p>
-        <p class="short">{short(p)}</p>
-        <p class={["price", !buyable?(p) && "unset"]}>{price(p)}</p>
-      </li>
-    </ul>
+    <p class="lede">The Armored drills and The Traveler's Guide, by Joshua.</p>
+    <p :if={@all == []} class="empty" id="empty">Coming soon.</p>
+    <section :if={@fail_fast != []} class="shelf" id="fail-fast">
+      <h2 class="shelf-title">Armored Fail Fast</h2>
+      <p class="shelf-note">Five books, domain-free: the method for any course.</p>
+      <ul class="grid"><.book_card :for={p <- @fail_fast} product={p} /></ul>
+    </section>
+    <section :if={@all != []} class="shelf" id="schools">
+      <h2 class="shelf-title">Schools</h2>
+      <p class="shelf-note">Find a course by school, then program.</p>
+      <ul class="school-list">
+        <li :for={s <- @schools} class="school" id={"school-#{s.slug}"}>
+          <a href={"/schools/#{s.slug}"}>
+            <span class="name">{s.name}</span>
+            <span class="counts">{plural(s.programs, "program", "programs")} · {plural(s.books, "book", "books")}</span>
+          </a>
+        </li>
+      </ul>
+    </section>
+    <section :if={@originals != []} class="shelf" id="originals">
+      <h2 class="shelf-title">Originals</h2>
+      <ul class="grid"><.book_card :for={p <- @originals} product={p} /></ul>
+    </section>
+    <section :if={@others != []} class="shelf" id="other-books">
+      <h2 class="shelf-title">Other books</h2>
+      <ul class="grid"><.book_card :for={p <- @others} product={p} /></ul>
+    </section>
+    <p :if={@all != []} class="all-link"><a href="/books">All books <span class="count">{length(@all)}</span></a></p>
   </main>
 </.page>

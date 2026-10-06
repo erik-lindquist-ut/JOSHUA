@@ -1,0 +1,12 @@
+# Armored Computer Systems for AI (book, V1)
+
+| | |
+|---|---|
+| Series | Armored drills set, Technology shelf (store product #393) |
+| Status | V1 · filed 2026-09-25 · not yet in the IP register or the KDP listing sheet; not priced |
+| Structure | Title page · How to run it · Items (12, 4 of them transfer items, 8 concepts) · STOP · Key with every distractor's trap named · Triage grid · Anchor rows (the concept list) |
+| Copied here | Armored_Computer_Systems_for_AI.pdf (the book file exactly as made; renamed only) |
+| Original | the Armored drill library (`WGU/MBA, IT Management/40_Courses/WGU_Armored_Drills/Technology/`); item source and builder in that library's `_source/` |
+| Checksum | SHA-256 ca6474da2e79e42a18578217be6747f83d53bffa4fb0c77f74bfcf0bebe896f2 — identical to the library original |
+| Cover | `../Cover — Computer Systems for AI/Armored_Computer_Systems_for_AI_cover.jpg` |
+| Store preview | its opening section, "How to run it" (the book has no foreword) |

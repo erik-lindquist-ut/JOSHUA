@@ -4,6 +4,25 @@ defmodule ArmoredStore.Catalog do
   alias ArmoredStore.{Listings, Repo}
   alias ArmoredStore.Catalog.{Order, Product}
 
+  # A product's collections name the shelf it came from: its school for a library drill (Business, Technology,
+  # Health, Education), "Originals" for #1-#7, which are not from the library, and "Armored Fail Fast" for that
+  # five-book set. The home page shows the Fail Fast set and the Originals as their own sections and counts each
+  # school's books by it; programs come from ArmoredStore.Programs.
+  @fail_fast "Armored Fail Fast"
+  @originals "Originals"
+
+  def fail_fast, do: @fail_fast
+  def originals, do: @originals
+
+  @doc "The products in one collection, keeping their order."
+  def in_collection(products, name), do: Enum.filter(products, &(name in (&1.collections || [])))
+
+  @doc "Active products with these slugs, in the order the slugs are given (unknown slugs are skipped)."
+  def list_by_slugs(slugs) when is_list(slugs) do
+    found = from(p in Product, where: p.active and p.slug in ^slugs) |> Repo.all() |> Map.new(&{&1.slug, &1})
+    slugs |> Enum.uniq() |> Enum.flat_map(&List.wrap(Map.get(found, &1)))
+  end
+
   @doc "Active products, in listing order."
   def list_products, do: from(p in Product, where: p.active, order_by: [asc: p.position, asc: p.id]) |> Repo.all()
 
@@ -25,6 +44,25 @@ defmodule ArmoredStore.Catalog do
       {:ok, p} = upsert_product(attrs)
       p
     end)
+  end
+
+  @doc """
+  Load (or refresh) the whole store: the KDP listing products, then the store additions
+  (priv/STORE_ADDITIONS.json) after them. Additions never carry a price. Safe to run again.
+  """
+  def seed_store(listings_path, additions_path) do
+    listed = seed_from_listings(listings_path)
+
+    added =
+      additions_path
+      |> File.read!()
+      |> Listings.additions(length(listed))
+      |> Enum.map(fn attrs ->
+        {:ok, p} = upsert_product(attrs)
+        p
+      end)
+
+    listed ++ added
   end
 
   @doc "Record a paid checkout. Stripe may send the same event twice; the second is a no-op."

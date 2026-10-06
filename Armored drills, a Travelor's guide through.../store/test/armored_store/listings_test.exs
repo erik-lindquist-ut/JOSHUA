@@ -31,7 +31,8 @@ defmodule ArmoredStore.ListingsTest do
     assert Enum.all?(real(), &(&1["author"] == "Joshua"))
     assert itsm["subtitle"] == "For people who already know the easy version."
     assert itsm["description"] =~ "26 disguised items across incident"
-    assert itsm["series"] == "Joshua Says"
+    # no series label (the listing record still has one; the store drops it)
+    assert itsm["series"] == nil
   end
 
   test "C213 is not in the listing data, so it is not a product" do

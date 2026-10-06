@@ -1,0 +1,1432 @@
+[
+{
+"n": 579,
+"title": "Organic Chemistry - Markovnikov Addition",
+"stem": "Armored_Organic_Chemistry_Markovnikov_Addition"
+},
+{
+"n": 580,
+"title": "Number Sense and Functions",
+"stem": "Armored_Number_Sense_and_Functions"
+},
+{
+"n": 581,
+"title": "Assessment Theory and Practice",
+"stem": "Armored_Assessment_Theory_and_Practice"
+},
+{
+"n": 582,
+"title": "Graphing, Proportional Reasoning and Equations/Inequalities",
+"stem": "Armored_Graphing_Proportional_Reasoning_and_Equations_Inequalities"
+},
+{
+"n": 583,
+"title": "Geometry and Statistics",
+"stem": "Armored_Geometry_and_Statistics"
+},
+{
+"n": 584,
+"title": "Physical Chemistry",
+"stem": "Armored_Physical_Chemistry"
+},
+{
+"n": 585,
+"title": "Inorganic Chemistry",
+"stem": "Armored_Inorganic_Chemistry"
+},
+{
+"n": 586,
+"title": "Physics: Mechanics",
+"stem": "Armored_Physics_Mechanics"
+},
+{
+"n": 587,
+"title": "Physics: Waves and Optics",
+"stem": "Armored_Physics_Waves_and_Optics"
+},
+{
+"n": 588,
+"title": "Research Foundations",
+"stem": "Armored_Research_Foundations"
+},
+{
+"n": 589,
+"title": "Research Questions and Literature Review",
+"stem": "Armored_Research_Questions_and_Literature_Review"
+},
+{
+"n": 590,
+"title": "Research Design and Analysis",
+"stem": "Armored_Research_Design_and_Analysis"
+},
+{
+"n": 591,
+"title": "Research Proposals",
+"stem": "Armored_Research_Proposals"
+},
+{
+"n": 592,
+"title": "The Ocean Systems",
+"stem": "Armored_The_Ocean_Systems"
+},
+{
+"n": 593,
+"title": "Climate Change",
+"stem": "Armored_Climate_Change"
+},
+{
+"n": 594,
+"title": "College Algebra - Quadratic Vertex",
+"stem": "Armored_College_Algebra_Quadratic_Vertex"
+},
+{
+"n": 595,
+"title": "Teacher Work Sample in English Language Learning",
+"stem": "Armored_Teacher_Work_Sample_in_English_Language_Learning"
+},
+{
+"n": 596,
+"title": "Calculus I - Continuity at a Point",
+"stem": "Armored_Calculus_I_Continuity_at_a_Point"
+},
+{
+"n": 597,
+"title": "Science, Technology, and Society",
+"stem": "Armored_Science_Technology_and_Society"
+},
+{
+"n": 598,
+"title": "Mathematics: Content Knowledge",
+"stem": "Armored_Mathematics_Content_Knowledge"
+},
+{
+"n": 599,
+"title": "Middle School Mathematics: Content Knowledge",
+"stem": "Armored_Middle_School_Mathematics_Content_Knowledge"
+},
+{
+"n": 600,
+"title": "Biology: Content Knowledge",
+"stem": "Armored_Biology_Content_Knowledge"
+},
+{
+"n": 601,
+"title": "Physics: Content Knowledge",
+"stem": "Armored_Physics_Content_Knowledge"
+},
+{
+"n": 602,
+"title": "Middle School Science: Content Knowledge",
+"stem": "Armored_Middle_School_Science_Content_Knowledge"
+},
+{
+"n": 603,
+"title": "Chemistry: Content Knowledge",
+"stem": "Armored_Chemistry_Content_Knowledge"
+},
+{
+"n": 604,
+"title": "Earth Science: Content Knowledge",
+"stem": "Armored_Earth_Science_Content_Knowledge"
+},
+{
+"n": 605,
+"title": "Biochemistry",
+"stem": "Armored_Biochemistry"
+},
+{
+"n": 606,
+"title": "MA, Mathematics Education (K-6) Capstone",
+"stem": "Armored_MA_Mathematics_Education_K_6_Capstone"
+},
+{
+"n": 607,
+"title": "Trigonometry and Precalculus",
+"stem": "Armored_Trigonometry_and_Precalculus"
+},
+{
+"n": 608,
+"title": "Geology I: Physical",
+"stem": "Armored_Geology_I_Physical"
+},
+{
+"n": 609,
+"title": "Heredity and Genetics",
+"stem": "Armored_Heredity_and_Genetics"
+},
+{
+"n": 610,
+"title": "Zoology",
+"stem": "Armored_Zoology"
+},
+{
+"n": 611,
+"title": "Calculus III",
+"stem": "Armored_Calculus_III"
+},
+{
+"n": 612,
+"title": "Conceptual Physics",
+"stem": "Armored_Conceptual_Physics"
+},
+{
+"n": 613,
+"title": "Concepts in Science",
+"stem": "Armored_Concepts_in_Science"
+},
+{
+"n": 614,
+"title": "General Chemistry I with Lab",
+"stem": "Armored_General_Chemistry_I_with_Lab"
+},
+{
+"n": 615,
+"title": "General Chemistry II with Lab - Rate Laws and Reaction Order",
+"stem": "Armored_General_Chemistry_II_with_Lab_Rate_Laws_and_Reaction_Order"
+},
+{
+"n": 616,
+"title": "Evolution",
+"stem": "Armored_Evolution"
+},
+{
+"n": 617,
+"title": "Space, Time and Motion",
+"stem": "Armored_Space_Time_and_Motion"
+},
+{
+"n": 618,
+"title": "Chemistry with Lab",
+"stem": "Armored_Chemistry_with_Lab"
+},
+{
+"n": 619,
+"title": "Human Anatomy and Physiology",
+"stem": "Armored_Human_Anatomy_and_Physiology"
+},
+{
+"n": 620,
+"title": "MA, Science Education Teacher Performance Assessment",
+"stem": "Armored_MA_Science_Education_Teacher_Performance_Assessment"
+},
+{
+"n": 621,
+"title": "MA, Mathematics Education (5-12) Teacher Performance Assessment",
+"stem": "Armored_MA_Mathematics_Education_5_12_Teacher_Performance_Assessment"
+},
+{
+"n": 622,
+"title": "Mathematical Modeling and Applications",
+"stem": "Armored_Mathematical_Modeling_and_Applications"
+},
+{
+"n": 623,
+"title": "Algebra for Secondary Mathematics Teaching - Equivalent Expressions",
+"stem": "Armored_Algebra_for_Secondary_Mathematics_Teaching_Equivalent_Expressions"
+},
+{
+"n": 624,
+"title": "Geometry for Secondary Mathematics Teaching - Triangle Congruence Criteria",
+"stem": "Armored_Geometry_for_Secondary_Mathematics_Teaching_Triangle_Congruence_Criteria"
+},
+{
+"n": 625,
+"title": "Statistics and Probability for Secondary Mathematics Teaching",
+"stem": "Armored_Statistics_and_Probability_for_Secondary_Mathematics_Teaching"
+},
+{
+"n": 626,
+"title": "Advanced Calculus - Riemann Integrability",
+"stem": "Armored_Advanced_Calculus_Riemann_Integrability"
+},
+{
+"n": 627,
+"title": "MA, Mathematics Education (5-9) Teacher Performance Assessment",
+"stem": "Armored_MA_Mathematics_Education_5_9_Teacher_Performance_Assessment"
+},
+{
+"n": 628,
+"title": "Molecular and Cellular Biology",
+"stem": "Armored_Molecular_and_Cellular_Biology"
+},
+{
+"n": 629,
+"title": "Ecology and Environmental Science",
+"stem": "Armored_Ecology_and_Environmental_Science"
+},
+{
+"n": 630,
+"title": "Geology II: Earth Systems",
+"stem": "Armored_Geology_II_Earth_Systems"
+},
+{
+"n": 631,
+"title": "Astronomy - Light-Years and Lookback Time",
+"stem": "Armored_Astronomy_Light_Years_and_Lookback_Time"
+},
+{
+"n": 632,
+"title": "Introduction to Biology - X-Linked Inheritance",
+"stem": "Armored_Introduction_to_Biology_X_Linked_Inheritance"
+},
+{
+"n": 633,
+"title": "Integrated Physical Sciences - Conservation of Momentum",
+"stem": "Armored_Integrated_Physical_Sciences_Conservation_of_Momentum"
+},
+{
+"n": 634,
+"title": "College Algebra - Remainder Theorem",
+"stem": "Armored_College_Algebra_Remainder_Theorem"
+},
+{
+"n": 635,
+"title": "Earth: Inside and Out",
+"stem": "Armored_Earth_Inside_and_Out"
+},
+{
+"n": 636,
+"title": "Teaching in the Middle School",
+"stem": "Armored_Teaching_in_the_Middle_School"
+},
+{
+"n": 637,
+"title": "Science Methods—Middle Grades General Science",
+"stem": "Armored_Science_Methods_Middle_Grades_General_Science"
+},
+{
+"n": 638,
+"title": "Science Methods—Secondary Biology",
+"stem": "Armored_Science_Methods_Secondary_Biology"
+},
+{
+"n": 639,
+"title": "Science Methods—Secondary Chemistry",
+"stem": "Armored_Science_Methods_Secondary_Chemistry"
+},
+{
+"n": 640,
+"title": "Science Methods—Secondary Earth Science",
+"stem": "Armored_Science_Methods_Secondary_Earth_Science"
+},
+{
+"n": 641,
+"title": "Science Methods—Secondary Physics",
+"stem": "Armored_Science_Methods_Secondary_Physics"
+},
+{
+"n": 642,
+"title": "College Geometry",
+"stem": "Armored_College_Geometry"
+},
+{
+"n": 643,
+"title": "Calculus II - Integration by Parts",
+"stem": "Armored_Calculus_II_Integration_by_Parts"
+},
+{
+"n": 644,
+"title": "Culture",
+"stem": "Armored_Culture"
+},
+{
+"n": 645,
+"title": "Leadership Foundations and Ethics",
+"stem": "Armored_Leadership_Foundations_and_Ethics"
+},
+{
+"n": 646,
+"title": "School Law",
+"stem": "Armored_School_Law"
+},
+{
+"n": 647,
+"title": "Leading Inclusive Schools",
+"stem": "Armored_Leading_Inclusive_Schools"
+},
+{
+"n": 648,
+"title": "Data Literacy and Evidence-Based Practices",
+"stem": "Armored_Data_Literacy_and_Evidence_Based_Practices"
+},
+{
+"n": 649,
+"title": "People and Talent in Educational Leadership",
+"stem": "Armored_People_and_Talent_in_Educational_Leadership"
+},
+{
+"n": 650,
+"title": "School Financial Leadership",
+"stem": "Armored_School_Financial_Leadership"
+},
+{
+"n": 651,
+"title": "Systems Management and School Operations",
+"stem": "Armored_Systems_Management_and_School_Operations"
+},
+{
+"n": 652,
+"title": "Educational Inquiry",
+"stem": "Armored_Educational_Inquiry"
+},
+{
+"n": 653,
+"title": "Practicum in Educational Leadership - Reflective Practice",
+"stem": "Armored_Practicum_in_Educational_Leadership_Reflective_Practice"
+},
+{
+"n": 654,
+"title": "Practicum in Educational Leadership - Master Schedule Priorities",
+"stem": "Armored_Practicum_in_Educational_Leadership_Master_Schedule_Priorities"
+},
+{
+"n": 655,
+"title": "Educational Leadership Capstone",
+"stem": "Armored_Educational_Leadership_Capstone"
+},
+{
+"n": 656,
+"title": "Data-Informed Practices",
+"stem": "Armored_Data_Informed_Practices"
+},
+{
+"n": 657,
+"title": "Educational Research",
+"stem": "Armored_Educational_Research"
+},
+{
+"n": 658,
+"title": "MSCIN Capstone",
+"stem": "Armored_MSCIN_Capstone"
+},
+{
+"n": 659,
+"title": "Standards-Based Assessment",
+"stem": "Armored_Standards_Based_Assessment"
+},
+{
+"n": 660,
+"title": "Learning as a Science",
+"stem": "Armored_Learning_as_a_Science"
+},
+{
+"n": 661,
+"title": "Differentiated Instruction",
+"stem": "Armored_Differentiated_Instruction"
+},
+{
+"n": 662,
+"title": "The Collaborative Leader",
+"stem": "Armored_The_Collaborative_Leader"
+},
+{
+"n": 663,
+"title": "Learning Experience Design Foundations I",
+"stem": "Armored_Learning_Experience_Design_Foundations_I"
+},
+{
+"n": 664,
+"title": "Learning Experience Design Foundations II",
+"stem": "Armored_Learning_Experience_Design_Foundations_II"
+},
+{
+"n": 665,
+"title": "Assessment and Learning Analytics",
+"stem": "Armored_Assessment_and_Learning_Analytics"
+},
+{
+"n": 666,
+"title": "Designing and Facilitating E-Learning Experiences for K–12 Students",
+"stem": "Armored_Designing_and_Facilitating_E_Learning_Experiences_for_K_12_Students"
+},
+{
+"n": 667,
+"title": "Quality and Impact of K–12 E-Learning Solutions",
+"stem": "Armored_Quality_and_Impact_of_K_12_E_Learning_Solutions"
+},
+{
+"n": 668,
+"title": "Designing E-Learning Experiences for Adults",
+"stem": "Armored_Designing_E_Learning_Experiences_for_Adults"
+},
+{
+"n": 669,
+"title": "Quality and Impact of Adult E-Learning Solutions",
+"stem": "Armored_Quality_and_Impact_of_Adult_E_Learning_Solutions"
+},
+{
+"n": 670,
+"title": "Learning Experience Design Lab",
+"stem": "Armored_Learning_Experience_Design_Lab"
+},
+{
+"n": 671,
+"title": "Identifying Learner Needs and a Research Problem",
+"stem": "Armored_Identifying_Learner_Needs_and_a_Research_Problem"
+},
+{
+"n": 672,
+"title": "Developing an E-Learning Solution and Research Methodology",
+"stem": "Armored_Developing_an_E_Learning_Solution_and_Research_Methodology"
+},
+{
+"n": 673,
+"title": "Implementing and Evaluating E-Learning Solutions",
+"stem": "Armored_Implementing_and_Evaluating_E_Learning_Solutions"
+},
+{
+"n": 674,
+"title": "The Reflective Practitioner",
+"stem": "Armored_The_Reflective_Practitioner"
+},
+{
+"n": 675,
+"title": "Designing Curriculum and Instruction I",
+"stem": "Armored_Designing_Curriculum_and_Instruction_I"
+},
+{
+"n": 676,
+"title": "Designing Curriculum and Instruction II",
+"stem": "Armored_Designing_Curriculum_and_Instruction_II"
+},
+{
+"n": 677,
+"title": "Cultural Competency and Social-Emotional Learning",
+"stem": "Armored_Cultural_Competency_and_Social_Emotional_Learning"
+},
+{
+"n": 678,
+"title": "Leadership of Curriculum Design and Instruction",
+"stem": "Armored_Leadership_of_Curriculum_Design_and_Instruction"
+},
+{
+"n": 679,
+"title": "Practices for Inclusive Classrooms",
+"stem": "Armored_Practices_for_Inclusive_Classrooms"
+},
+{
+"n": 680,
+"title": "Establishing Positive and Engaging Learning Environments",
+"stem": "Armored_Establishing_Positive_and_Engaging_Learning_Environments"
+},
+{
+"n": 681,
+"title": "Curriculum and Instructional Strategies for Meaningful Learning",
+"stem": "Armored_Curriculum_and_Instructional_Strategies_for_Meaningful_Learning"
+},
+{
+"n": 682,
+"title": "Monitoring Student Learning Through Assessment",
+"stem": "Armored_Monitoring_Student_Learning_Through_Assessment"
+},
+{
+"n": 683,
+"title": "Technology for Instruction and Online Pedagogy",
+"stem": "Armored_Technology_for_Instruction_and_Online_Pedagogy"
+},
+{
+"n": 684,
+"title": "Planning Instructional Strategies for Meaningful Learning",
+"stem": "Armored_Planning_Instructional_Strategies_for_Meaningful_Learning"
+},
+{
+"n": 685,
+"title": "Assessing and Monitoring Student Learning",
+"stem": "Armored_Assessing_and_Monitoring_Student_Learning"
+},
+{
+"n": 686,
+"title": "Instructional Technology and Online Pedagogy",
+"stem": "Armored_Instructional_Technology_and_Online_Pedagogy"
+},
+{
+"n": 687,
+"title": "Creating Positive Learning Environments",
+"stem": "Armored_Creating_Positive_Learning_Environments"
+},
+{
+"n": 688,
+"title": "Personalized Learning for Inclusive Classrooms",
+"stem": "Armored_Personalized_Learning_for_Inclusive_Classrooms"
+},
+{
+"n": 689,
+"title": "The Professional Educator",
+"stem": "Armored_The_Professional_Educator"
+},
+{
+"n": 690,
+"title": "Learners and Learning Science",
+"stem": "Armored_Learners_and_Learning_Science"
+},
+{
+"n": 691,
+"title": "Learner Development and the Science of Learning",
+"stem": "Armored_Learner_Development_and_the_Science_of_Learning"
+},
+{
+"n": 692,
+"title": "Precalculus",
+"stem": "Armored_Precalculus"
+},
+{
+"n": 693,
+"title": "Elementary Literacy Curriculum - Purposeful Writing Process",
+"stem": "Armored_Elementary_Literacy_Curriculum_Purposeful_Writing_Process"
+},
+{
+"n": 694,
+"title": "Early Literacy Methods - Decodable Texts",
+"stem": "Armored_Early_Literacy_Methods_Decodable_Texts"
+},
+{
+"n": 695,
+"title": "Elementary Literacy Methods - Morphology for Multisyllabic Words",
+"stem": "Armored_Elementary_Literacy_Methods_Morphology_for_Multisyllabic_Words"
+},
+{
+"n": 696,
+"title": "Elementary Science Curriculum - Moon Phases",
+"stem": "Armored_Elementary_Science_Curriculum_Moon_Phases"
+},
+{
+"n": 697,
+"title": "Elementary Science and Engineering Methods - Iterative Design",
+"stem": "Armored_Elementary_Science_and_Engineering_Methods_Iterative_Design"
+},
+{
+"n": 698,
+"title": "Elementary Social Studies Curriculum - Sourcing and Corroboration",
+"stem": "Armored_Elementary_Social_Studies_Curriculum_Sourcing_and_Corroboration"
+},
+{
+"n": 699,
+"title": "Elementary Social Studies Methods - Multiple Causation",
+"stem": "Armored_Elementary_Social_Studies_Methods_Multiple_Causation"
+},
+{
+"n": 700,
+"title": "Elementary Literacy Methods - Types of Context Clues",
+"stem": "Armored_Elementary_Literacy_Methods_Types_of_Context_Clues"
+},
+{
+"n": 701,
+"title": "Early Literacy Methods - The Phonological Awareness Continuum",
+"stem": "Armored_Early_Literacy_Methods_The_Phonological_Awareness_Continuum"
+},
+{
+"n": 702,
+"title": "Elementary Literacy Curriculum - Syllable Types",
+"stem": "Armored_Elementary_Literacy_Curriculum_Syllable_Types"
+},
+{
+"n": 703,
+"title": "Elementary Science Curriculum - Day and Night",
+"stem": "Armored_Elementary_Science_Curriculum_Day_and_Night"
+},
+{
+"n": 704,
+"title": "Elementary Science and Engineering Methods - The 5E Sequence",
+"stem": "Armored_Elementary_Science_and_Engineering_Methods_The_5E_Sequence"
+},
+{
+"n": 705,
+"title": "Elementary Social Studies Curriculum - The NCSS Thematic Strands",
+"stem": "Armored_Elementary_Social_Studies_Curriculum_The_NCSS_Thematic_Strands"
+},
+{
+"n": 706,
+"title": "Elementary Social Studies Methods - Beyond Heroes and Holidays",
+"stem": "Armored_Elementary_Social_Studies_Methods_Beyond_Heroes_and_Holidays"
+},
+{
+"n": 707,
+"title": "Foundations of Literacy Through Literature - Traditional Literature Subgenres",
+"stem": "Armored_Foundations_of_Literacy_Through_Literature_Traditional_Literature_Subgenres"
+},
+{
+"n": 708,
+"title": "Literacy Assessment and Interventions - Aim-Line Decision Rules",
+"stem": "Armored_Literacy_Assessment_and_Interventions_Aim_Line_Decision_Rules"
+},
+{
+"n": 709,
+"title": "Elementary Disciplinary Literacy - Reading Data Displays",
+"stem": "Armored_Elementary_Disciplinary_Literacy_Reading_Data_Displays"
+},
+{
+"n": 710,
+"title": "Elementary Mathematics Curriculum - Converting Measurement Units",
+"stem": "Armored_Elementary_Mathematics_Curriculum_Converting_Measurement_Units"
+},
+{
+"n": 711,
+"title": "Early Mathematics Methods and Interventions - Make-Ten Strategy",
+"stem": "Armored_Early_Mathematics_Methods_and_Interventions_Make_Ten_Strategy"
+},
+{
+"n": 712,
+"title": "Elementary Mathematics Methods and Interventions - Area Model and Partial Products",
+"stem": "Armored_Elementary_Mathematics_Methods_and_Interventions_Area_Model_and_Partial_Products"
+},
+{
+"n": 713,
+"title": "Elementary Health and Physical Education Methods - Fundamental Movement Categories",
+"stem": "Armored_Elementary_Health_and_Physical_Education_Methods_Fundamental_Movement_Categories"
+},
+{
+"n": 714,
+"title": "Elementary Fine Arts Methods - Color Relationships",
+"stem": "Armored_Elementary_Fine_Arts_Methods_Color_Relationships"
+},
+{
+"n": 715,
+"title": "Foundations of Literacy Through Literature - Prompting for Word Reading",
+"stem": "Armored_Foundations_of_Literacy_Through_Literature_Prompting_for_Word_Reading"
+},
+{
+"n": 716,
+"title": "Literacy Assessment and Interventions - Dyslexia and Structured Literacy",
+"stem": "Armored_Literacy_Assessment_and_Interventions_Dyslexia_and_Structured_Literacy"
+},
+{
+"n": 717,
+"title": "Elementary Disciplinary Literacy - Reading Like a Historian",
+"stem": "Armored_Elementary_Disciplinary_Literacy_Reading_Like_a_Historian"
+},
+{
+"n": 718,
+"title": "Elementary Mathematics Curriculum - Classifying Shapes by Hierarchy",
+"stem": "Armored_Elementary_Mathematics_Curriculum_Classifying_Shapes_by_Hierarchy"
+},
+{
+"n": 719,
+"title": "Early Mathematics Methods and Interventions - Conservation of Number",
+"stem": "Armored_Early_Mathematics_Methods_and_Interventions_Conservation_of_Number"
+},
+{
+"n": 720,
+"title": "Elementary Mathematics Methods and Interventions - Productive Talk Moves",
+"stem": "Armored_Elementary_Mathematics_Methods_and_Interventions_Productive_Talk_Moves"
+},
+{
+"n": 721,
+"title": "Elementary Health and Physical Education Methods - Physical Activity Guidelines for Children",
+"stem": "Armored_Elementary_Health_and_Physical_Education_Methods_Physical_Activity_Guidelines_for_Children"
+},
+{
+"n": 722,
+"title": "Elementary Fine Arts Methods - The Four Artistic Processes",
+"stem": "Armored_Elementary_Fine_Arts_Methods_The_Four_Artistic_Processes"
+},
+{
+"n": 723,
+"title": "Early Clinical in Special Education - Objective Observation Notes",
+"stem": "Armored_Early_Clinical_in_Special_Education_Objective_Observation_Notes"
+},
+{
+"n": 724,
+"title": "Early Clinical in Elementary Education - Withitness and Overlapping",
+"stem": "Armored_Early_Clinical_in_Elementary_Education_Withitness_and_Overlapping"
+},
+{
+"n": 725,
+"title": "Early Clinical in Secondary Education - The Warm Demander Stance",
+"stem": "Armored_Early_Clinical_in_Secondary_Education_The_Warm_Demander_Stance"
+},
+{
+"n": 726,
+"title": "Advanced Clinical in Elementary Education - Academic Language Demands",
+"stem": "Armored_Advanced_Clinical_in_Elementary_Education_Academic_Language_Demands"
+},
+{
+"n": 727,
+"title": "Advanced Clinical in Secondary Education - Scaffolding and Fading",
+"stem": "Armored_Advanced_Clinical_in_Secondary_Education_Scaffolding_and_Fading"
+},
+{
+"n": 728,
+"title": "Student Teaching I in Elementary Education - Developmentally Appropriate Instruction",
+"stem": "Armored_Student_Teaching_I_in_Elementary_Education_Developmentally_Appropriate_Instruction"
+},
+{
+"n": 729,
+"title": "Student Teaching II in Elementary Education - Sustainable Self-Care",
+"stem": "Armored_Student_Teaching_II_in_Elementary_Education_Sustainable_Self_Care"
+},
+{
+"n": 730,
+"title": "Student Teaching I in Special Education - Constant Time Delay",
+"stem": "Armored_Student_Teaching_I_in_Special_Education_Constant_Time_Delay"
+},
+{
+"n": 731,
+"title": "Student Teaching II in Special Education - Manifestation Determination",
+"stem": "Armored_Student_Teaching_II_in_Special_Education_Manifestation_Determination"
+},
+{
+"n": 732,
+"title": "Student Teaching I in Secondary Education - Digital Equity",
+"stem": "Armored_Student_Teaching_I_in_Secondary_Education_Digital_Equity"
+},
+{
+"n": 733,
+"title": "Student Teaching II in Secondary Education - Item Analysis",
+"stem": "Armored_Student_Teaching_II_in_Secondary_Education_Item_Analysis"
+},
+{
+"n": 734,
+"title": "Advanced Clinical in Special Education - Task Analysis",
+"stem": "Armored_Advanced_Clinical_in_Special_Education_Task_Analysis"
+},
+{
+"n": 735,
+"title": "Early Clinical in Elementary Education - Behavior-Specific Praise",
+"stem": "Armored_Early_Clinical_in_Elementary_Education_Behavior_Specific_Praise"
+},
+{
+"n": 736,
+"title": "Early Clinical in Special Education - Least Restrictive Environment",
+"stem": "Armored_Early_Clinical_in_Special_Education_Least_Restrictive_Environment"
+},
+{
+"n": 737,
+"title": "Early Clinical in Secondary Education - Bell-to-Bell Routines",
+"stem": "Armored_Early_Clinical_in_Secondary_Education_Bell_to_Bell_Routines"
+},
+{
+"n": 738,
+"title": "Advanced Clinical in Elementary Education - Backward Design",
+"stem": "Armored_Advanced_Clinical_in_Elementary_Education_Backward_Design"
+},
+{
+"n": 739,
+"title": "Advanced Clinical in Special Education - PBIS Tiers",
+"stem": "Armored_Advanced_Clinical_in_Special_Education_PBIS_Tiers"
+},
+{
+"n": 740,
+"title": "Advanced Clinical in Secondary Education - Restorative Conversations",
+"stem": "Armored_Advanced_Clinical_in_Secondary_Education_Restorative_Conversations"
+},
+{
+"n": 741,
+"title": "Student Teaching I in Elementary Education - Flexible Grouping",
+"stem": "Armored_Student_Teaching_I_in_Elementary_Education_Flexible_Grouping"
+},
+{
+"n": 742,
+"title": "Student Teaching II in Elementary Education - Student-Led Conferences",
+"stem": "Armored_Student_Teaching_II_in_Elementary_Education_Student_Led_Conferences"
+},
+{
+"n": 743,
+"title": "Student Teaching I in Special Education - Age-Respectful Materials",
+"stem": "Armored_Student_Teaching_I_in_Special_Education_Age_Respectful_Materials"
+},
+{
+"n": 744,
+"title": "Student Teaching II in Special Education - Burnout Warning Signs",
+"stem": "Armored_Student_Teaching_II_in_Special_Education_Burnout_Warning_Signs"
+},
+{
+"n": 745,
+"title": "Student Teaching I in Secondary Education - Process Praise",
+"stem": "Armored_Student_Teaching_I_in_Secondary_Education_Process_Praise"
+},
+{
+"n": 746,
+"title": "Student Teaching II in Secondary Education - Curriculum Compacting",
+"stem": "Armored_Student_Teaching_II_in_Secondary_Education_Curriculum_Compacting"
+},
+{
+"n": 747,
+"title": "Education Portfolio",
+"stem": "Armored_Education_Portfolio"
+},
+{
+"n": 748,
+"title": "Student Teaching I in Elementary and Special Education",
+"stem": "Armored_Student_Teaching_I_in_Elementary_and_Special_Education"
+},
+{
+"n": 749,
+"title": "Student Teaching II in Elementary and Special Education",
+"stem": "Armored_Student_Teaching_II_in_Elementary_and_Special_Education"
+},
+{
+"n": 750,
+"title": "Early Clinical in Elementary and Special Education",
+"stem": "Armored_Early_Clinical_in_Elementary_and_Special_Education"
+},
+{
+"n": 751,
+"title": "Advanced Clinical in Elementary and Special Education",
+"stem": "Armored_Advanced_Clinical_in_Elementary_and_Special_Education"
+},
+{
+"n": 752,
+"title": "The Education Professional",
+"stem": "Armored_The_Education_Professional"
+},
+{
+"n": 753,
+"title": "Behavioral Intervention Strategies and Applied Behavior Analysis - The Premack Principle",
+"stem": "Armored_Behavioral_Intervention_Strategies_and_Applied_Behavior_Analysis_The_Premack_Principle"
+},
+{
+"n": 754,
+"title": "Special Education Law, Policies and Procedures - Stay-Put",
+"stem": "Armored_Special_Education_Law_Policies_and_Procedures_Stay_Put"
+},
+{
+"n": 755,
+"title": "Assessment for Special Education - Curriculum-Based Measurement",
+"stem": "Armored_Assessment_for_Special_Education_Curriculum_Based_Measurement"
+},
+{
+"n": 756,
+"title": "Individualized Education Plan (IEP) Collaboration and Communication with Parents and School Staff - Procedural Safeguards Notice",
+"stem": "Armored_Individualized_Education_Plan_IEP_Collaboration_and_Communication_with_Parents_and_School_Staff_Procedural_Safeguards_Notice"
+},
+{
+"n": 757,
+"title": "Special Education Curriculum - Executive Function Supports",
+"stem": "Armored_Special_Education_Curriculum_Executive_Function_Supports"
+},
+{
+"n": 758,
+"title": "Considerations for Instructional Planning for Learners - Instructional Hierarchy",
+"stem": "Armored_Considerations_for_Instructional_Planning_for_Learners_Instructional_Hierarchy"
+},
+{
+"n": 759,
+"title": "Elementary Literacy and Mathematics Strategies and Assistive Technologies - Repeated Reading for Fluency",
+"stem": "Armored_Elementary_Literacy_and_Mathematics_Strategies_and_Assistive_Technologies_Repeated_Reading_for_Fluency"
+},
+{
+"n": 760,
+"title": "Secondary Literacy and Mathematics Strategies and Assistive Technologies - Four Accommodation Categories",
+"stem": "Armored_Secondary_Literacy_and_Mathematics_Strategies_and_Assistive_Technologies_Four_Accommodation_Categories"
+},
+{
+"n": 761,
+"title": "Behavioral Intervention Strategies and Applied Behavior Analysis - Functions of Behavior",
+"stem": "Armored_Behavioral_Intervention_Strategies_and_Applied_Behavior_Analysis_Functions_of_Behavior"
+},
+{
+"n": 762,
+"title": "Special Education Law, Policies and Procedures - Key IDEA Timelines",
+"stem": "Armored_Special_Education_Law_Policies_and_Procedures_Key_IDEA_Timelines"
+},
+{
+"n": 763,
+"title": "Assessment for Special Education - Identifying Specific Learning Disabilities",
+"stem": "Armored_Assessment_for_Special_Education_Identifying_Specific_Learning_Disabilities"
+},
+{
+"n": 764,
+"title": "Individualized Education Plan (IEP) Collaboration and Communication with Parents and School Staff - Two-Way Family Partnership",
+"stem": "Armored_Individualized_Education_Plan_IEP_Collaboration_and_Communication_with_Parents_and_School_Staff_Two_Way_Family_Partnership"
+},
+{
+"n": 765,
+"title": "Special Education Curriculum - IDEA Disability Categories",
+"stem": "Armored_Special_Education_Curriculum_IDEA_Disability_Categories"
+},
+{
+"n": 766,
+"title": "Considerations for Instructional Planning for Learners - Programming for Generalization",
+"stem": "Armored_Considerations_for_Instructional_Planning_for_Learners_Programming_for_Generalization"
+},
+{
+"n": 767,
+"title": "Elementary Literacy and Mathematics Strategies and Assistive Technologies - Schema-Based Word-Problem Instruction",
+"stem": "Armored_Elementary_Literacy_and_Mathematics_Strategies_and_Assistive_Technologies_Schema_Based_Word_Problem_Instruction"
+},
+{
+"n": 768,
+"title": "Secondary Literacy and Mathematics Strategies and Assistive Technologies - Reciprocal Teaching",
+"stem": "Armored_Secondary_Literacy_and_Mathematics_Strategies_and_Assistive_Technologies_Reciprocal_Teaching"
+},
+{
+"n": 769,
+"title": "Secondary Literacy Methods and Interventions - Multisyllabic Word Reading",
+"stem": "Armored_Secondary_Literacy_Methods_and_Interventions_Multisyllabic_Word_Reading"
+},
+{
+"n": 770,
+"title": "Secondary Literacy Methods and Interventions - Summarizing with GIST",
+"stem": "Armored_Secondary_Literacy_Methods_and_Interventions_Summarizing_with_GIST"
+},
+{
+"n": 771,
+"title": "Quantitative Literacy",
+"stem": "Armored_Quantitative_Literacy"
+},
+{
+"n": 772,
+"title": "Statistical Data Literacy",
+"stem": "Armored_Statistical_Data_Literacy"
+},
+{
+"n": 773,
+"title": "Secondary Disciplinary Literacy - Sourcing in History",
+"stem": "Armored_Secondary_Disciplinary_Literacy_Sourcing_in_History"
+},
+{
+"n": 774,
+"title": "Secondary Disciplinary Literacy - Contextualization in History",
+"stem": "Armored_Secondary_Disciplinary_Literacy_Contextualization_in_History"
+},
+{
+"n": 775,
+"title": "General Secondary Methods - Identity Formation",
+"stem": "Armored_General_Secondary_Methods_Identity_Formation"
+},
+{
+"n": 776,
+"title": "General Secondary Methods - Self-Efficacy",
+"stem": "Armored_General_Secondary_Methods_Self_Efficacy"
+},
+{
+"n": 777,
+"title": "Social Studies Methods I",
+"stem": "Armored_Social_Studies_Methods_I"
+},
+{
+"n": 778,
+"title": "Social Studies Methods II",
+"stem": "Armored_Social_Studies_Methods_II"
+},
+{
+"n": 779,
+"title": "Secondary Social Studies Curriculum",
+"stem": "Armored_Secondary_Social_Studies_Curriculum"
+},
+{
+"n": 780,
+"title": "Teaching Adolescent Literature in Secondary Schools",
+"stem": "Armored_Teaching_Adolescent_Literature_in_Secondary_Schools"
+},
+{
+"n": 781,
+"title": "Teaching Writing in Secondary Schools",
+"stem": "Armored_Teaching_Writing_in_Secondary_Schools"
+},
+{
+"n": 782,
+"title": "Teaching English Language Arts in Secondary Schools",
+"stem": "Armored_Teaching_English_Language_Arts_in_Secondary_Schools"
+},
+{
+"n": 783,
+"title": "Secondary English Language Arts Curriculum",
+"stem": "Armored_Secondary_English_Language_Arts_Curriculum"
+},
+{
+"n": 784,
+"title": "Technology and Ethics: A Look at Emerging Trends and Society",
+"stem": "Armored_Technology_and_Ethics_A_Look_at_Emerging_Trends_and_Society"
+},
+{
+"n": 785,
+"title": "General Physics I Lab",
+"stem": "Armored_General_Physics_I_Lab"
+},
+{
+"n": 786,
+"title": "General Earth Science I",
+"stem": "Armored_General_Earth_Science_I"
+},
+{
+"n": 787,
+"title": "General Earth Science I Lab",
+"stem": "Armored_General_Earth_Science_I_Lab"
+},
+{
+"n": 788,
+"title": "General Biology I",
+"stem": "Armored_General_Biology_I"
+},
+{
+"n": 789,
+"title": "General Biology I Lab",
+"stem": "Armored_General_Biology_I_Lab"
+},
+{
+"n": 790,
+"title": "Astronomy - Parallax Distance",
+"stem": "Armored_Astronomy_Parallax_Distance"
+},
+{
+"n": 791,
+"title": "Meteorology",
+"stem": "Armored_Meteorology"
+},
+{
+"n": 792,
+"title": "Environmental Science",
+"stem": "Armored_Environmental_Science"
+},
+{
+"n": 793,
+"title": "Natural Hazards",
+"stem": "Armored_Natural_Hazards"
+},
+{
+"n": 794,
+"title": "Environmental Management with Lab",
+"stem": "Armored_Environmental_Management_with_Lab"
+},
+{
+"n": 795,
+"title": "Secondary Earth Science Curriculum - Sequencing by Prerequisites",
+"stem": "Armored_Secondary_Earth_Science_Curriculum_Sequencing_by_Prerequisites"
+},
+{
+"n": 796,
+"title": "Secondary Earth Science Curriculum - Evidence for the Big Bang",
+"stem": "Armored_Secondary_Earth_Science_Curriculum_Evidence_for_the_Big_Bang"
+},
+{
+"n": 797,
+"title": "General Geology",
+"stem": "Armored_General_Geology"
+},
+{
+"n": 798,
+"title": "General Physics II with Lab",
+"stem": "Armored_General_Physics_II_with_Lab"
+},
+{
+"n": 799,
+"title": "Electricity and Magnetism",
+"stem": "Armored_Electricity_and_Magnetism"
+},
+{
+"n": 800,
+"title": "Astrophysics with Lab",
+"stem": "Armored_Astrophysics_with_Lab"
+},
+{
+"n": 801,
+"title": "Waves, Acoustics, and Sound",
+"stem": "Armored_Waves_Acoustics_and_Sound"
+},
+{
+"n": 802,
+"title": "Secondary Physics Curriculum - Research Misconduct",
+"stem": "Armored_Secondary_Physics_Curriculum_Research_Misconduct"
+},
+{
+"n": 803,
+"title": "Secondary Physics Curriculum - Electromagnets",
+"stem": "Armored_Secondary_Physics_Curriculum_Electromagnets"
+},
+{
+"n": 804,
+"title": "General Chemistry II with Lab - Limiting Reactant",
+"stem": "Armored_General_Chemistry_II_with_Lab_Limiting_Reactant"
+},
+{
+"n": 805,
+"title": "Organic Chemistry - Esterification",
+"stem": "Armored_Organic_Chemistry_Esterification"
+},
+{
+"n": 806,
+"title": "Analytical Chemistry with Lab",
+"stem": "Armored_Analytical_Chemistry_with_Lab"
+},
+{
+"n": 807,
+"title": "Biochemistry I",
+"stem": "Armored_Biochemistry_I"
+},
+{
+"n": 808,
+"title": "Physical Chemistry I",
+"stem": "Armored_Physical_Chemistry_I"
+},
+{
+"n": 809,
+"title": "Secondary Chemistry Curriculum - Weighted Average Atomic Mass",
+"stem": "Armored_Secondary_Chemistry_Curriculum_Weighted_Average_Atomic_Mass"
+},
+{
+"n": 810,
+"title": "Secondary Chemistry Curriculum - Particle Diagrams as Assessment",
+"stem": "Armored_Secondary_Chemistry_Curriculum_Particle_Diagrams_as_Assessment"
+},
+{
+"n": 811,
+"title": "Laboratory Safety - Hierarchy of Controls",
+"stem": "Armored_Laboratory_Safety_Hierarchy_of_Controls"
+},
+{
+"n": 812,
+"title": "Three Dimensional Science and Engineering - Naming the Three Dimensions",
+"stem": "Armored_Three_Dimensional_Science_and_Engineering_Naming_the_Three_Dimensions"
+},
+{
+"n": 813,
+"title": "Secondary Science Teaching Methods - Hands-On Needs Minds-On",
+"stem": "Armored_Secondary_Science_Teaching_Methods_Hands_On_Needs_Minds_On"
+},
+{
+"n": 814,
+"title": "Cell Biology",
+"stem": "Armored_Cell_Biology"
+},
+{
+"n": 815,
+"title": "General Biology II",
+"stem": "Armored_General_Biology_II"
+},
+{
+"n": 816,
+"title": "General Ecology",
+"stem": "Armored_General_Ecology"
+},
+{
+"n": 817,
+"title": "Genetics",
+"stem": "Armored_Genetics"
+},
+{
+"n": 818,
+"title": "Evolutionary Biology",
+"stem": "Armored_Evolutionary_Biology"
+},
+{
+"n": 819,
+"title": "Advanced Zoology and Botany with Lab",
+"stem": "Armored_Advanced_Zoology_and_Botany_with_Lab"
+},
+{
+"n": 820,
+"title": "Secondary Biology Curriculum - Monohybrid Crosses",
+"stem": "Armored_Secondary_Biology_Curriculum_Monohybrid_Crosses"
+},
+{
+"n": 821,
+"title": "Secondary Biology Curriculum - Reproductive Isolation",
+"stem": "Armored_Secondary_Biology_Curriculum_Reproductive_Isolation"
+},
+{
+"n": 822,
+"title": "Laboratory Safety - Chemical Waste Disposal",
+"stem": "Armored_Laboratory_Safety_Chemical_Waste_Disposal"
+},
+{
+"n": 823,
+"title": "Three Dimensional Science and Engineering - Testable Questions",
+"stem": "Armored_Three_Dimensional_Science_and_Engineering_Testable_Questions"
+},
+{
+"n": 824,
+"title": "Secondary Science Teaching Methods - Levels of Inquiry",
+"stem": "Armored_Secondary_Science_Teaching_Methods_Levels_of_Inquiry"
+},
+{
+"n": 825,
+"title": "Molecular Biology",
+"stem": "Armored_Molecular_Biology"
+},
+{
+"n": 826,
+"title": "Probability and Statistics",
+"stem": "Armored_Probability_and_Statistics"
+},
+{
+"n": 827,
+"title": "Trigonometry",
+"stem": "Armored_Trigonometry"
+},
+{
+"n": 828,
+"title": "Calculus I - Implicit Differentiation",
+"stem": "Armored_Calculus_I_Implicit_Differentiation"
+},
+{
+"n": 829,
+"title": "Calculus II - Separable Differential Equations",
+"stem": "Armored_Calculus_II_Separable_Differential_Equations"
+},
+{
+"n": 830,
+"title": "Multivariable Calculus",
+"stem": "Armored_Multivariable_Calculus"
+},
+{
+"n": 831,
+"title": "Linear Algebra - Rank-Nullity Theorem",
+"stem": "Armored_Linear_Algebra_Rank_Nullity_Theorem"
+},
+{
+"n": 832,
+"title": "Advanced Calculus - Heine-Borel Compactness",
+"stem": "Armored_Advanced_Calculus_Heine_Borel_Compactness"
+},
+{
+"n": 833,
+"title": "Geometry for Secondary Mathematics Teaching - Counterexamples and Proof",
+"stem": "Armored_Geometry_for_Secondary_Mathematics_Teaching_Counterexamples_and_Proof"
+},
+{
+"n": 834,
+"title": "Differential Equations",
+"stem": "Armored_Differential_Equations"
+},
+{
+"n": 835,
+"title": "Advanced Probability and Statistics",
+"stem": "Armored_Advanced_Probability_and_Statistics"
+},
+{
+"n": 836,
+"title": "Algebra for Secondary Mathematics Teaching - Logarithms Undo Exponentials",
+"stem": "Armored_Algebra_for_Secondary_Mathematics_Teaching_Logarithms_Undo_Exponentials"
+},
+{
+"n": 837,
+"title": "Statistics for Secondary Mathematics Teaching - The Equiprobability Misconception",
+"stem": "Armored_Statistics_for_Secondary_Mathematics_Teaching_The_Equiprobability_Misconception"
+},
+{
+"n": 838,
+"title": "Methods of Teaching Secondary Mathematics - Humanizing Mathematics",
+"stem": "Armored_Methods_of_Teaching_Secondary_Mathematics_Humanizing_Mathematics"
+},
+{
+"n": 839,
+"title": "Secondary Mathematics Curriculum - Independent Events Multiply",
+"stem": "Armored_Secondary_Mathematics_Curriculum_Independent_Events_Multiply"
+},
+{
+"n": 840,
+"title": "Secondary Mathematics Curriculum - The Integral as Accumulation",
+"stem": "Armored_Secondary_Mathematics_Curriculum_The_Integral_as_Accumulation"
+},
+{
+"n": 841,
+"title": "Geometry for Secondary Mathematics Teaching - Inscribed Angle Theorem",
+"stem": "Armored_Geometry_for_Secondary_Mathematics_Teaching_Inscribed_Angle_Theorem"
+},
+{
+"n": 842,
+"title": "Algebra for Secondary Mathematics Teaching - Historical Stages of Algebra",
+"stem": "Armored_Algebra_for_Secondary_Mathematics_Teaching_Historical_Stages_of_Algebra"
+},
+{
+"n": 843,
+"title": "Statistics for Secondary Mathematics Teaching - Law of Large Numbers",
+"stem": "Armored_Statistics_for_Secondary_Mathematics_Teaching_Law_of_Large_Numbers"
+},
+{
+"n": 844,
+"title": "Methods of Teaching Secondary Mathematics - Cognitive Demand of Tasks",
+"stem": "Armored_Methods_of_Teaching_Secondary_Mathematics_Cognitive_Demand_of_Tasks"
+},
+{
+"n": 845,
+"title": "Middle Grades Methods",
+"stem": "Armored_Middle_Grades_Methods"
+},
+{
+"n": 846,
+"title": "Teaching in Middle School",
+"stem": "Armored_Teaching_in_Middle_School"
+},
+{
+"n": 847,
+"title": "Physics: Electricity and Magnetism",
+"stem": "Armored_Physics_Electricity_and_Magnetism"
+},
+{
+"n": 848,
+"title": "Subject Specific Pedagogy: ELL",
+"stem": "Armored_Subject_Specific_Pedagogy_ELL"
+},
+{
+"n": 849,
+"title": "Field Experience for ELL",
+"stem": "Armored_Field_Experience_for_ELL"
+},
+{
+"n": 850,
+"title": "Language Production, Theory and Acquisition",
+"stem": "Armored_Language_Production_Theory_and_Acquisition"
+},
+{
+"n": 851,
+"title": "Mathematics (K-6) Portfolio Oral Defense",
+"stem": "Armored_Mathematics_K_6_Portfolio_Oral_Defense"
+},
+{
+"n": 852,
+"title": "Professional Role of the ELL Teacher",
+"stem": "Armored_Professional_Role_of_the_ELL_Teacher"
+},
+{
+"n": 853,
+"title": "Planning, Implementing, Managing Instruction",
+"stem": "Armored_Planning_Implementing_Managing_Instruction"
+},
+{
+"n": 854,
+"title": "Mathematics History and Technology",
+"stem": "Armored_Mathematics_History_and_Technology"
+},
+{
+"n": 855,
+"title": "Mathematics Learning and Teaching",
+"stem": "Armored_Mathematics_Learning_and_Teaching"
+},
+{
+"n": 856,
+"title": "Abstract Algebra",
+"stem": "Armored_Abstract_Algebra"
+},
+{
+"n": 857,
+"title": "Calculus I - Equation of the Tangent Line",
+"stem": "Armored_Calculus_I_Equation_of_the_Tangent_Line"
+},
+{
+"n": 858,
+"title": "Finite Mathematics",
+"stem": "Armored_Finite_Mathematics"
+},
+{
+"n": 859,
+"title": "Linear Algebra - Subspace Test",
+"stem": "Armored_Linear_Algebra_Subspace_Test"
+},
+{
+"n": 860,
+"title": "General Physics",
+"stem": "Armored_General_Physics"
+},
+{
+"n": 861,
+"title": "Precalculus and Calculus",
+"stem": "Armored_Precalculus_and_Calculus"
+},
+{
+"n": 862,
+"title": "Theories of Second Language Acquisition and Grammar",
+"stem": "Armored_Theories_of_Second_Language_Acquisition_and_Grammar"
+},
+{
+"n": 863,
+"title": "Probability and Statistics I",
+"stem": "Armored_Probability_and_Statistics_I"
+},
+{
+"n": 864,
+"title": "Probability and Statistics II",
+"stem": "Armored_Probability_and_Statistics_II"
+}
+]

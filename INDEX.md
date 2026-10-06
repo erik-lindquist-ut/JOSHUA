@@ -1,6 +1,6 @@
 # JOSHUA — the register, by name
 
-One folder per item in the IP register (`WGU/MBA, IT Management/30_Copyright/V1.0 IP REGISTER.md`). Each folder holds a README and copies of the files; the vault keeps the originals. The e-books and published outputs (the five Armored drill books, the Traveler's Guide public edition, their covers, the KDP listing sheet, the Joshua Says Armored series set and the C213 drill) live together in `Armored drills, a Travelor's guide through.../`. The steering file is `STEERING_PORT.md` here at the root.
+One folder per item in the IP register (`WGU/MBA, IT Management/30_Copyright/V1.1 IP REGISTER.md`). Each folder holds a README and copies of the files; the vault keeps the originals. The e-books and published outputs (the five Armored drill books, the Traveler's Guide public edition, their covers, the KDP listing sheet, the Joshua Says Armored series set and the C213 drill) live together in `Armored drills, a Travelor's guide through.../`. The steering file is `STEERING_PORT.md` here at the root.
 
 | Item | Folder | Files |
 |---|---|---|
@@ -90,3 +90,15 @@ One folder per item in the IP register (`WGU/MBA, IT Management/30_Copyright/V1.
 | Patent claim C6 · The Knot — the service hub (PRD-03) | `Patent claim C6 · The Knot — the service hub (PRD-03)/` | 2 |
 | C213 Armored Drill (study drill, copy) | `Armored drills, a Travelor's guide through.../C213 Armored Drill/` | 1 |
 | Joshua Says Armored Series (2026-09-15) | `Armored drills, a Travelor's guide through.../Joshua Says Armored Series (2026-09-15)/` | 11 |
+| Last Ten Yards web store (Phoenix app) | `Last Ten Yards web store (Phoenix app)/` | 1 (README) |
+| Lines of Business deck | `Lines of Business deck/` | 1 (README) |
+| working-discipline skill text | `working-discipline skill text/` | 1 (README) |
+| WGU Armored Drill Library (857 ebooks) — HELD | `WGU Armored Drill Library (857 ebooks) — HELD/` | 1 (README) |
+| STEERING_PORT (register row) | `STEERING_PORT (register row)/` | 1 (README) |
+| Armored Accounting for Decision Making — Fail Fast Compendium | `Armored drills, a Travelor's guide through.../Armored Accounting for Decision Making - The Fail Fast Compendium (book, V1)/` | **EXCLUDED as built** (register A6): made from the pre-assessment anchor rows and OA coaching report — do not publish |
+
+## WGU I.P. (2026-09-29)
+
+WGU I.P.: gifted to WGU, 2026-09-29, see WGU IP - Gifted.md
+
+- Joshua Prime I.P.: gifted to Andrea, 2026-09-29, see Joshua Prime IP - Gifted.md

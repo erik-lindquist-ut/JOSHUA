@@ -1,0 +1,15 @@
+<.page title={"#{@school} · Store"}>
+  <main class="catalog">
+    <.crumbs trail={[{"Home", "/"}, {@school, nil}]} />
+    <h1>{@school}</h1>
+    <p class="lede">{plural(@program_count, "program", "programs")} · {plural(@book_count, "book", "books")}</p>
+    <ul class="program-list" id="programs">
+      <li :for={p <- @programs} class={["program", p.other? && "other"]} id={"program-#{p.slug}"}>
+        <a href={"/programs/#{p.slug}"}>
+          <span class="name">{p.name}</span>
+          <span class="counts">{plural(length(p.courses), "course", "courses")}</span>
+        </a>
+      </li>
+    </ul>
+  </main>
+</.page>

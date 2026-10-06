@@ -1,0 +1,947 @@
+[
+{
+"n": 14,
+"title": "Accreditation Audit",
+"stem": "Armored_Accreditation_Audit"
+},
+{
+"n": 15,
+"title": "Service Line Development",
+"stem": "Armored_Service_Line_Development"
+},
+{
+"n": 16,
+"title": "Integrated Physical Sciences",
+"stem": "Armored_Integrated_Physical_Sciences"
+},
+{
+"n": 17,
+"title": "Ethical Leadership",
+"stem": "Armored_Ethical_Leadership"
+},
+{
+"n": 18,
+"title": "Data-Driven Decision Making",
+"stem": "Armored_Data_Driven_Decision_Making"
+},
+{
+"n": 19,
+"title": "Change Management and Innovation",
+"stem": "Armored_Change_Management_and_Innovation"
+},
+{
+"n": 20,
+"title": "Strategic Management",
+"stem": "Armored_Strategic_Management"
+},
+{
+"n": 21,
+"title": "Management and Leadership Capstone",
+"stem": "Armored_Management_and_Leadership_Capstone"
+},
+{
+"n": 22,
+"title": "Global Economics for Managers",
+"stem": "Armored_Global_Economics_for_Managers"
+},
+{
+"n": 23,
+"title": "Marketing",
+"stem": "Armored_Marketing"
+},
+{
+"n": 24,
+"title": "Accounting for Decision Makers",
+"stem": "Armored_Accounting_for_Decision_Makers"
+},
+{
+"n": 25,
+"title": "Financial Management",
+"stem": "Armored_Financial_Management"
+},
+{
+"n": 26,
+"title": "Operations Management",
+"stem": "Armored_Operations_Management"
+},
+{
+"n": 27,
+"title": "MBA Capstone",
+"stem": "Armored_MBA_Capstone"
+},
+{
+"n": 28,
+"title": "MBA, Information Technology Management Capstone",
+"stem": "Armored_MBA_Information_Technology_Management_Capstone"
+},
+{
+"n": 29,
+"title": "MBA, Healthcare Management Capstone",
+"stem": "Armored_MBA_Healthcare_Management_Capstone"
+},
+{
+"n": 30,
+"title": "Taxation I",
+"stem": "Armored_Taxation_I"
+},
+{
+"n": 31,
+"title": "Introduction to Sociology",
+"stem": "Armored_Introduction_to_Sociology"
+},
+{
+"n": 32,
+"title": "Health, Fitness, and Wellness",
+"stem": "Armored_Health_Fitness_and_Wellness"
+},
+{
+"n": 33,
+"title": "Principles of Management",
+"stem": "Armored_Principles_of_Management"
+},
+{
+"n": 34,
+"title": "Organizational Behavior",
+"stem": "Armored_Organizational_Behavior"
+},
+{
+"n": 35,
+"title": "Business Communication",
+"stem": "Armored_Business_Communication"
+},
+{
+"n": 36,
+"title": "Business Ethics",
+"stem": "Armored_Business_Ethics"
+},
+{
+"n": 37,
+"title": "Operations and Supply Chain Management",
+"stem": "Armored_Operations_and_Supply_Chain_Management"
+},
+{
+"n": 38,
+"title": "Change Management",
+"stem": "Armored_Change_Management"
+},
+{
+"n": 39,
+"title": "Project Management",
+"stem": "Armored_Project_Management"
+},
+{
+"n": 40,
+"title": "Quantitative Analysis For Business",
+"stem": "Armored_Quantitative_Analysis_For_Business"
+},
+{
+"n": 41,
+"title": "Information Systems Management",
+"stem": "Armored_Information_Systems_Management"
+},
+{
+"n": 42,
+"title": "Applied Healthcare Statistics",
+"stem": "Armored_Applied_Healthcare_Statistics"
+},
+{
+"n": 43,
+"title": "Applied Probability and Statistics",
+"stem": "Armored_Applied_Probability_and_Statistics"
+},
+{
+"n": 44,
+"title": "Applied Algebra",
+"stem": "Armored_Applied_Algebra"
+},
+{
+"n": 45,
+"title": "American Politics and the US Constitution",
+"stem": "Armored_American_Politics_and_the_US_Constitution"
+},
+{
+"n": 46,
+"title": "Fundamentals for Success in Business",
+"stem": "Armored_Fundamentals_for_Success_in_Business"
+},
+{
+"n": 47,
+"title": "Information Technology Management Essentials",
+"stem": "Armored_Information_Technology_Management_Essentials"
+},
+{
+"n": 48,
+"title": "Finance Skills for Managers",
+"stem": "Armored_Finance_Skills_for_Managers"
+},
+{
+"n": 49,
+"title": "Concepts in Marketing, Sales, and Customer Contact",
+"stem": "Armored_Concepts_in_Marketing_Sales_and_Customer_Contact"
+},
+{
+"n": 50,
+"title": "Business Environment Applications I: Business Structures and Legal Environment",
+"stem": "Armored_Business_Environment_Applications_I_Business_Structures_and_Legal_Environment"
+},
+{
+"n": 51,
+"title": "Business Environment Applications II: Process, Logistics, and Operations",
+"stem": "Armored_Business_Environment_Applications_II_Process_Logistics_and_Operations"
+},
+{
+"n": 52,
+"title": "Managing in a Global Business Environment",
+"stem": "Armored_Managing_in_a_Global_Business_Environment"
+},
+{
+"n": 53,
+"title": "Innovative and Strategic Thinking",
+"stem": "Armored_Innovative_and_Strategic_Thinking"
+},
+{
+"n": 54,
+"title": "Emotional and Cultural Intelligence",
+"stem": "Armored_Emotional_and_Cultural_Intelligence"
+},
+{
+"n": 55,
+"title": "Principles of Economics",
+"stem": "Armored_Principles_of_Economics"
+},
+{
+"n": 56,
+"title": "Digital Marketing",
+"stem": "Armored_Digital_Marketing"
+},
+{
+"n": 57,
+"title": "Sales Management",
+"stem": "Armored_Sales_Management"
+},
+{
+"n": 58,
+"title": "Cost and Managerial Accounting",
+"stem": "Armored_Cost_and_Managerial_Accounting"
+},
+{
+"n": 59,
+"title": "Financial Accounting",
+"stem": "Armored_Financial_Accounting"
+},
+{
+"n": 60,
+"title": "Intermediate Accounting I",
+"stem": "Armored_Intermediate_Accounting_I"
+},
+{
+"n": 61,
+"title": "Intermediate Accounting II",
+"stem": "Armored_Intermediate_Accounting_II"
+},
+{
+"n": 62,
+"title": "Intermediate Accounting III",
+"stem": "Armored_Intermediate_Accounting_III"
+},
+{
+"n": 63,
+"title": "Marketing Management",
+"stem": "Armored_Marketing_Management"
+},
+{
+"n": 64,
+"title": "Consumer Behavior",
+"stem": "Armored_Consumer_Behavior"
+},
+{
+"n": 65,
+"title": "Content Marketing",
+"stem": "Armored_Content_Marketing"
+},
+{
+"n": 66,
+"title": "Brand Management",
+"stem": "Armored_Brand_Management"
+},
+{
+"n": 67,
+"title": "Marketing Strategy and Analytics",
+"stem": "Armored_Marketing_Strategy_and_Analytics"
+},
+{
+"n": 68,
+"title": "Principles of Financial and Managerial Accounting",
+"stem": "Armored_Principles_of_Financial_and_Managerial_Accounting"
+},
+{
+"n": 69,
+"title": "Global Arts and Humanities",
+"stem": "Armored_Global_Arts_and_Humanities"
+},
+{
+"n": 70,
+"title": "Human Growth and Development",
+"stem": "Armored_Human_Growth_and_Development"
+},
+{
+"n": 71,
+"title": "Auditing",
+"stem": "Armored_Auditing"
+},
+{
+"n": 72,
+"title": "Business Law for Accountants",
+"stem": "Armored_Business_Law_for_Accountants"
+},
+{
+"n": 73,
+"title": "Accounting Information Systems",
+"stem": "Armored_Accounting_Information_Systems"
+},
+{
+"n": 74,
+"title": "Influential Communication through Visual Design and Storytelling",
+"stem": "Armored_Influential_Communication_through_Visual_Design_and_Storytelling"
+},
+{
+"n": 75,
+"title": "Governmental and Nonprofit Accounting",
+"stem": "Armored_Governmental_and_Nonprofit_Accounting"
+},
+{
+"n": 76,
+"title": "Advanced Auditing",
+"stem": "Armored_Advanced_Auditing"
+},
+{
+"n": 77,
+"title": "Accounting Research and Critical Thinking",
+"stem": "Armored_Accounting_Research_and_Critical_Thinking"
+},
+{
+"n": 78,
+"title": "Values-Based Leadership",
+"stem": "Armored_Values_Based_Leadership"
+},
+{
+"n": 79,
+"title": "Professional Practice Experience I: Technical",
+"stem": "Armored_Professional_Practice_Experience_I_Technical"
+},
+{
+"n": 80,
+"title": "Frameworks for Strategic Decision-Making",
+"stem": "Armored_Frameworks_for_Strategic_Decision_Making"
+},
+{
+"n": 81,
+"title": "Critical Thinking: Reason and Evidence",
+"stem": "Armored_Critical_Thinking_Reason_and_Evidence"
+},
+{
+"n": 82,
+"title": "World History: Diverse Cultures and Global Connections",
+"stem": "Armored_World_History_Diverse_Cultures_and_Global_Connections"
+},
+{
+"n": 83,
+"title": "US History: Stories of American Democracy",
+"stem": "Armored_US_History_Stories_of_American_Democracy"
+},
+{
+"n": 84,
+"title": "Introduction to Communication: Connecting with Others",
+"stem": "Armored_Introduction_to_Communication_Connecting_with_Others"
+},
+{
+"n": 85,
+"title": "Composition: Writing with a Strategy",
+"stem": "Armored_Composition_Writing_with_a_Strategy"
+},
+{
+"n": 86,
+"title": "Composition: Successful Self-Expression",
+"stem": "Armored_Composition_Successful_Self_Expression"
+},
+{
+"n": 87,
+"title": "Network and Security",
+"stem": "Armored_Network_and_Security"
+},
+{
+"n": 88,
+"title": "Ethics in Technology",
+"stem": "Armored_Ethics_in_Technology"
+},
+{
+"n": 89,
+"title": "Technical Communication",
+"stem": "Armored_Technical_Communication"
+},
+{
+"n": 90,
+"title": "Functions of Human Resource Management",
+"stem": "Armored_Functions_of_Human_Resource_Management"
+},
+{
+"n": 91,
+"title": "Employment and Labor Law",
+"stem": "Armored_Employment_and_Labor_Law"
+},
+{
+"n": 92,
+"title": "Strategic Training and Development",
+"stem": "Armored_Strategic_Training_and_Development"
+},
+{
+"n": 93,
+"title": "Talent Acquisition",
+"stem": "Armored_Talent_Acquisition"
+},
+{
+"n": 94,
+"title": "Total Rewards",
+"stem": "Armored_Total_Rewards"
+},
+{
+"n": 95,
+"title": "HR Technology",
+"stem": "Armored_HR_Technology"
+},
+{
+"n": 96,
+"title": "Diversity, Equity, and Inclusion",
+"stem": "Armored_Diversity_Equity_and_Inclusion"
+},
+{
+"n": 97,
+"title": "Global Human Resource Management",
+"stem": "Armored_Global_Human_Resource_Management"
+},
+{
+"n": 98,
+"title": "Agile HR",
+"stem": "Armored_Agile_HR"
+},
+{
+"n": 99,
+"title": "HRM Capstone",
+"stem": "Armored_HRM_Capstone"
+},
+{
+"n": 100,
+"title": "Business Simulation",
+"stem": "Armored_Business_Simulation"
+},
+{
+"n": 101,
+"title": "Corporate Finance",
+"stem": "Armored_Corporate_Finance"
+},
+{
+"n": 102,
+"title": "Personal Finance",
+"stem": "Armored_Personal_Finance"
+},
+{
+"n": 103,
+"title": "Financial Management I",
+"stem": "Armored_Financial_Management_I"
+},
+{
+"n": 104,
+"title": "Financial Management II",
+"stem": "Armored_Financial_Management_II"
+},
+{
+"n": 105,
+"title": "Financial Statement Analysis",
+"stem": "Armored_Financial_Statement_Analysis"
+},
+{
+"n": 106,
+"title": "Innovation in Finance",
+"stem": "Armored_Innovation_in_Finance"
+},
+{
+"n": 107,
+"title": "Enterprise Risk Management",
+"stem": "Armored_Enterprise_Risk_Management"
+},
+{
+"n": 108,
+"title": "Finance Capstone",
+"stem": "Armored_Finance_Capstone"
+},
+{
+"n": 109,
+"title": "IT Leadership Foundations",
+"stem": "Armored_IT_Leadership_Foundations"
+},
+{
+"n": 110,
+"title": "Marketing in the Digital Era",
+"stem": "Armored_Marketing_in_the_Digital_Era"
+},
+{
+"n": 111,
+"title": "Market Research",
+"stem": "Armored_Market_Research"
+},
+{
+"n": 112,
+"title": "Marketing Communications and Storytelling",
+"stem": "Armored_Marketing_Communications_and_Storytelling"
+},
+{
+"n": 113,
+"title": "Product, Price, and Customer Experience",
+"stem": "Armored_Product_Price_and_Customer_Experience"
+},
+{
+"n": 114,
+"title": "Digital Marketing Foundations",
+"stem": "Armored_Digital_Marketing_Foundations"
+},
+{
+"n": 115,
+"title": "Digital Marketing Science",
+"stem": "Armored_Digital_Marketing_Science"
+},
+{
+"n": 116,
+"title": "Social Media Marketing",
+"stem": "Armored_Social_Media_Marketing"
+},
+{
+"n": 117,
+"title": "Email Marketing",
+"stem": "Armored_Email_Marketing"
+},
+{
+"n": 118,
+"title": "E-Commerce and Marketing Analytics",
+"stem": "Armored_E_Commerce_and_Marketing_Analytics"
+},
+{
+"n": 119,
+"title": "Digital Marketing Analytics",
+"stem": "Armored_Digital_Marketing_Analytics"
+},
+{
+"n": 120,
+"title": "Search Engine Optimization",
+"stem": "Armored_Search_Engine_Optimization"
+},
+{
+"n": 121,
+"title": "Marketing Experiential Capstone",
+"stem": "Armored_Marketing_Experiential_Capstone"
+},
+{
+"n": 122,
+"title": "Fundamentals of Spreadsheets and Data Presentations",
+"stem": "Armored_Fundamentals_of_Spreadsheets_and_Data_Presentations"
+},
+{
+"n": 123,
+"title": "Design Thinking for Business",
+"stem": "Armored_Design_Thinking_for_Business"
+},
+{
+"n": 124,
+"title": "HR Compliance and Employee Relations",
+"stem": "Armored_HR_Compliance_and_Employee_Relations"
+},
+{
+"n": 125,
+"title": "Talent Acquisition and Development",
+"stem": "Armored_Talent_Acquisition_and_Development"
+},
+{
+"n": 126,
+"title": "Future Focused Total Rewards",
+"stem": "Armored_Future_Focused_Total_Rewards"
+},
+{
+"n": 127,
+"title": "HR Technology and People Analytics",
+"stem": "Armored_HR_Technology_and_People_Analytics"
+},
+{
+"n": 128,
+"title": "Introduction to Systems Thinking and Applications",
+"stem": "Armored_Introduction_to_Systems_Thinking_and_Applications"
+},
+{
+"n": 129,
+"title": "Managing Operations",
+"stem": "Armored_Managing_Operations"
+},
+{
+"n": 130,
+"title": "Data Applications",
+"stem": "Armored_Data_Applications"
+},
+{
+"n": 131,
+"title": "Analyzing and Visualizing Data",
+"stem": "Armored_Analyzing_and_Visualizing_Data"
+},
+{
+"n": 132,
+"title": "Exploring Data",
+"stem": "Armored_Exploring_Data"
+},
+{
+"n": 133,
+"title": "Discovering Data",
+"stem": "Armored_Discovering_Data"
+},
+{
+"n": 134,
+"title": "Quality, Continuous Improvement, and Lean Six Sigma",
+"stem": "Armored_Quality_Continuous_Improvement_and_Lean_Six_Sigma"
+},
+{
+"n": 135,
+"title": "Transportation, Logistics, and Distribution",
+"stem": "Armored_Transportation_Logistics_and_Distribution"
+},
+{
+"n": 136,
+"title": "Global Supply Chain Management",
+"stem": "Armored_Global_Supply_Chain_Management"
+},
+{
+"n": 137,
+"title": "21st Century Operations and Supply Chain",
+"stem": "Armored_21st_Century_Operations_and_Supply_Chain"
+},
+{
+"n": 138,
+"title": "Solutions Design and Visualization Capstone",
+"stem": "Armored_Solutions_Design_and_Visualization_Capstone"
+},
+{
+"n": 139,
+"title": "Data and Information Governance",
+"stem": "Armored_Data_and_Information_Governance"
+},
+{
+"n": 140,
+"title": "Healthcare Administration Evolution, Systems, and Leadership",
+"stem": "Armored_Healthcare_Administration_Evolution_Systems_and_Leadership"
+},
+{
+"n": 141,
+"title": "Healthcare Policy and Governance",
+"stem": "Armored_Healthcare_Policy_and_Governance"
+},
+{
+"n": 142,
+"title": "Evidence-Based Healthcare Administration",
+"stem": "Armored_Evidence_Based_Healthcare_Administration"
+},
+{
+"n": 143,
+"title": "Emergency Management and Planning in Healthcare",
+"stem": "Armored_Emergency_Management_and_Planning_in_Healthcare"
+},
+{
+"n": 144,
+"title": "Exploring Emerging Trends in Healthcare Administration",
+"stem": "Armored_Exploring_Emerging_Trends_in_Healthcare_Administration"
+},
+{
+"n": 145,
+"title": "Ethics for Accountants",
+"stem": "Armored_Ethics_for_Accountants"
+},
+{
+"n": 146,
+"title": "Fraud and Forensic Accounting",
+"stem": "Armored_Fraud_and_Forensic_Accounting"
+},
+{
+"n": 147,
+"title": "Data Analytics for Accountants I",
+"stem": "Armored_Data_Analytics_for_Accountants_I"
+},
+{
+"n": 148,
+"title": "Data Analytics for Accountants II",
+"stem": "Armored_Data_Analytics_for_Accountants_II"
+},
+{
+"n": 149,
+"title": "Advanced Financial Accounting I",
+"stem": "Armored_Advanced_Financial_Accounting_I"
+},
+{
+"n": 150,
+"title": "Advanced Financial Accounting II",
+"stem": "Armored_Advanced_Financial_Accounting_II"
+},
+{
+"n": 151,
+"title": "Corporate Financial Analysis",
+"stem": "Armored_Corporate_Financial_Analysis"
+},
+{
+"n": 152,
+"title": "Corporate Taxation",
+"stem": "Armored_Corporate_Taxation"
+},
+{
+"n": 153,
+"title": "Pass-Through Taxation",
+"stem": "Armored_Pass_Through_Taxation"
+},
+{
+"n": 154,
+"title": "Advanced Managerial Accounting",
+"stem": "Armored_Advanced_Managerial_Accounting"
+},
+{
+"n": 155,
+"title": "Internal Auditing I",
+"stem": "Armored_Internal_Auditing_I"
+},
+{
+"n": 156,
+"title": "Information Systems for Accounting and Control",
+"stem": "Armored_Information_Systems_for_Accounting_and_Control"
+},
+{
+"n": 157,
+"title": "Internal Auditing II",
+"stem": "Armored_Internal_Auditing_II"
+},
+{
+"n": 158,
+"title": "Healthcare Administration Capstone",
+"stem": "Armored_Healthcare_Administration_Capstone"
+},
+{
+"n": 159,
+"title": "Giving, Receiving and Incorporating Feedback",
+"stem": "Armored_Giving_Receiving_and_Incorporating_Feedback"
+},
+{
+"n": 160,
+"title": "Adapting to Ambiguity",
+"stem": "Armored_Adapting_to_Ambiguity"
+},
+{
+"n": 161,
+"title": "Empathy and Inclusive Collaboration",
+"stem": "Armored_Empathy_and_Inclusive_Collaboration"
+},
+{
+"n": 162,
+"title": "Navigating Complex Problems",
+"stem": "Armored_Navigating_Complex_Problems"
+},
+{
+"n": 163,
+"title": "Foundations of Strategic Communications",
+"stem": "Armored_Foundations_of_Strategic_Communications"
+},
+{
+"n": 164,
+"title": "Crafting a Communications Strategy Through Research and Data Insights",
+"stem": "Armored_Crafting_a_Communications_Strategy_Through_Research_and_Data_Insights"
+},
+{
+"n": 165,
+"title": "Delivering a Communications Strategy",
+"stem": "Armored_Delivering_a_Communications_Strategy"
+},
+{
+"n": 166,
+"title": "Evaluating a Communications Strategy",
+"stem": "Armored_Evaluating_a_Communications_Strategy"
+},
+{
+"n": 167,
+"title": "Leveraging AI and Technology in Strategic Communications",
+"stem": "Armored_Leveraging_AI_and_Technology_in_Strategic_Communications"
+},
+{
+"n": 168,
+"title": "Crisis Communication",
+"stem": "Armored_Crisis_Communication"
+},
+{
+"n": 169,
+"title": "Communications Applied Learning Capstone",
+"stem": "Armored_Communications_Applied_Learning_Capstone"
+},
+{
+"n": 170,
+"title": "Foundations of Design",
+"stem": "Armored_Foundations_of_Design"
+},
+{
+"n": 171,
+"title": "Design Applications",
+"stem": "Armored_Design_Applications"
+},
+{
+"n": 172,
+"title": "Empathizing, Defining, and Ideating",
+"stem": "Armored_Empathizing_Defining_and_Ideating"
+},
+{
+"n": 173,
+"title": "Prototyping and Iterating I",
+"stem": "Armored_Prototyping_and_Iterating_I"
+},
+{
+"n": 174,
+"title": "Prototyping and Iterating II",
+"stem": "Armored_Prototyping_and_Iterating_II"
+},
+{
+"n": 175,
+"title": "Leveraging AI and Technology in Design",
+"stem": "Armored_Leveraging_AI_and_Technology_in_Design"
+},
+{
+"n": 176,
+"title": "Design Applied Learning Capstone",
+"stem": "Armored_Design_Applied_Learning_Capstone"
+},
+{
+"n": 177,
+"title": "Technology and Ethics: Emerging Trends and Society",
+"stem": "Armored_Technology_and_Ethics_Emerging_Trends_and_Society"
+},
+{
+"n": 178,
+"title": "Introduction to Business Accounting",
+"stem": "Armored_Introduction_to_Business_Accounting"
+},
+{
+"n": 179,
+"title": "Introduction to Business Finance",
+"stem": "Armored_Introduction_to_Business_Finance"
+},
+{
+"n": 180,
+"title": "Healthcare Leadership and Community Engagement",
+"stem": "Armored_Healthcare_Leadership_and_Community_Engagement"
+},
+{
+"n": 181,
+"title": "Technology Governance",
+"stem": "Armored_Technology_Governance"
+},
+{
+"n": 182,
+"title": "Product Management and Leadership",
+"stem": "Armored_Product_Management_and_Leadership"
+},
+{
+"n": 183,
+"title": "Digital Transformation",
+"stem": "Armored_Digital_Transformation"
+},
+{
+"n": 184,
+"title": "Emerging Trends and Innovation in IT",
+"stem": "Armored_Emerging_Trends_and_Innovation_in_IT"
+},
+{
+"n": 185,
+"title": "Organizational Technology Strategy",
+"stem": "Armored_Organizational_Technology_Strategy"
+},
+{
+"n": 186,
+"title": "Foundations of Project Management",
+"stem": "Armored_Foundations_of_Project_Management"
+},
+{
+"n": 187,
+"title": "Project Scoping and Scheduling",
+"stem": "Armored_Project_Scoping_and_Scheduling"
+},
+{
+"n": 188,
+"title": "Budgeting and Cost Control",
+"stem": "Armored_Budgeting_and_Cost_Control"
+},
+{
+"n": 189,
+"title": "Risk Management and Contingency Planning",
+"stem": "Armored_Risk_Management_and_Contingency_Planning"
+},
+{
+"n": 190,
+"title": "Stakeholder Communication and Collaboration",
+"stem": "Armored_Stakeholder_Communication_and_Collaboration"
+},
+{
+"n": 191,
+"title": "Legal, Ethical, and Cultural Considerations in Project Management",
+"stem": "Armored_Legal_Ethical_and_Cultural_Considerations_in_Project_Management"
+},
+{
+"n": 192,
+"title": "Project Management Methodologies",
+"stem": "Armored_Project_Management_Methodologies"
+},
+{
+"n": 193,
+"title": "Strategic Project Management and Decision Making",
+"stem": "Armored_Strategic_Project_Management_and_Decision_Making"
+},
+{
+"n": 194,
+"title": "Applied Project Management Capstone",
+"stem": "Armored_Applied_Project_Management_Capstone"
+},
+{
+"n": 195,
+"title": "Building A Successful IT Organization",
+"stem": "Armored_Building_A_Successful_IT_Organization"
+},
+{
+"n": 196,
+"title": "Applied Professional Experience",
+"stem": "Armored_Applied_Professional_Experience"
+},
+{
+"n": 197,
+"title": "MSHRM Capstone",
+"stem": "Armored_MSHRM_Capstone"
+},
+{
+"n": 198,
+"title": "IT Project Management",
+"stem": "Armored_IT_Project_Management"
+},
+{
+"n": 199,
+"title": "IT Strategic Solutions",
+"stem": "Armored_IT_Strategic_Solutions"
+},
+{
+"n": 200,
+"title": "Business Management Capstone Written Project",
+"stem": "Armored_Business_Management_Capstone_Written_Project"
+},
+{
+"n": 201,
+"title": "Business Management Tasks",
+"stem": "Armored_Business_Management_Tasks"
+},
+{
+"n": 202,
+"title": "Marketing Applications",
+"stem": "Armored_Marketing_Applications"
+}
+]

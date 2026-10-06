@@ -1,0 +1,9 @@
+<.page title={"#{@program.name} · #{@program.school}"}>
+  <main class="catalog">
+    <.crumbs trail={[{"Home", "/"}, {@program.school, "/schools/" <> ArmoredStore.Programs.school_slug(@program.school)}, {@program.name, nil}]} />
+    <h1>{@program.name}</h1>
+    <p class="lede">{plural(length(@program.courses), "course", "courses")}, in program-guide order · {@program.school}</p>
+    <p :if={@products == []} class="empty" id="empty">Coming soon.</p>
+    <ul :if={@products != []} class="grid"><.book_card :for={p <- @products} product={p} from={@program.slug} /></ul>
+  </main>
+</.page>

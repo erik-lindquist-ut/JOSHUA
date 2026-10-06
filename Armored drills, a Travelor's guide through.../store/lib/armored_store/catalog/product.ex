@@ -16,10 +16,12 @@ defmodule ArmoredStore.Catalog.Product do
     field :price_source, :string
     field :position, :integer, default: 0
     field :active, :boolean, default: true
+    # The collections the product is shown in (see ArmoredStore.Catalog.collections/0); one product can be in several.
+    field :collections, {:array, :string}, default: []
     timestamps(type: :utc_datetime)
   end
 
-  @fields [:slug, :title, :subtitle, :author, :series, :edition, :description, :cover, :cents, :price_source, :position, :active]
+  @fields [:slug, :title, :subtitle, :author, :series, :edition, :description, :cover, :cents, :price_source, :position, :active, :collections]
 
   def changeset(product, attrs) do
     product
