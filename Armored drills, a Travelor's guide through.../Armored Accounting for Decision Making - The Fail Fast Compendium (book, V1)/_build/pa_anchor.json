@@ -1,0 +1,554 @@
+[
+ {
+  "q": 1,
+  "concept": "Purpose of accounting",
+  "rule": "Accounting reports the financial performance of a business.",
+  "trap": "Reputation, environment and customer relations — real business concerns, not accounting.",
+  "tell": "Financial performance is the only financial phrase in the set.",
+  "miss": false
+ },
+ {
+  "q": 2,
+  "concept": "Statement of cash flows",
+  "rule": "It summarises cash from operating, investing and financing activities.",
+  "trap": "Invented report names that sound plausible.",
+  "tell": "Three activity categories name one statement.",
+  "miss": false
+ },
+ {
+  "q": 3,
+  "concept": "Users of financial statements",
+  "rule": "Employees care about the firm's ability to fund benefits.",
+  "trap": "Competitors, vendors, suppliers — external parties with other concerns.",
+  "tell": "Whose benefit is at stake?",
+  "miss": false
+ },
+ {
+  "q": 4,
+  "concept": "GAAP",
+  "rule": "Following GAAP makes a company comparable to others.",
+  "trap": "Tax and income effects. GAAP is about comparability, not reducing tax or income.",
+  "tell": "GAAP standardises so statements can be compared.",
+  "miss": false
+ },
+ {
+  "q": 5,
+  "concept": "PCAOB",
+  "rule": "The PCAOB regulates audits of public companies.",
+  "trap": "FASB sets standards; the IRS collects tax; peer CPA firms do not regulate.",
+  "tell": "Public company audit oversight is one body.",
+  "miss": false
+ },
+ {
+  "q": 6,
+  "concept": "Drivers of change",
+  "rule": "Information technology has changed accounting most.",
+  "trap": "Narrower technology answers, and certification.",
+  "tell": "The broadest technological cause.",
+  "miss": false
+ },
+ {
+  "q": 7,
+  "concept": "Balance sheet",
+  "rule": "It shows ownership (equity) and debt (liabilities).",
+  "trap": "Revenues, expenses and costs — all income statement items.",
+  "tell": "Balance sheet is a position; income statement is a period.",
+  "miss": false
+ },
+ {
+  "q": 8,
+  "concept": "Owners' equity",
+  "rule": "The residual interest in net assets.",
+  "trap": "Liabilities and revenue definitions.",
+  "tell": "Residual means what is left after debts.",
+  "miss": false
+ },
+ {
+  "q": 9,
+  "concept": "Accounting equation",
+  "rule": "Assets = liabilities + owners' equity. $300M + $100M = $400M.",
+  "trap": "Arithmetic near-misses at $50M intervals.",
+  "tell": "Add the two right-hand terms; do not subtract.",
+  "miss": true
+ },
+ {
+  "q": 10,
+  "concept": "Revenue recognition",
+  "rule": "Revenue is recognised when the service is performed, not when cash moves.",
+  "trap": "Cash collected before or after the service, and signed contracts.",
+  "tell": "Find the year the work was done.",
+  "miss": false
+ },
+ {
+  "q": 11,
+  "concept": "Financing activities",
+  "rule": "Cash to and from owners and creditors.",
+  "trap": "Investing and operating categories, plus an invented one.",
+  "tell": "Owners and lenders means financing.",
+  "miss": false
+ },
+ {
+  "q": 12,
+  "concept": "Notes to the statements",
+  "rule": "Significant accounting policies live in the notes.",
+  "trap": "The three statements themselves.",
+  "tell": "Policies are disclosed, not tabulated.",
+  "miss": false
+ },
+ {
+  "q": 13,
+  "concept": "External audit",
+  "rule": "An audit gives assurance that statements fairly present financial position.",
+  "trap": "Predictions about credit, income or cash flow. An audit never predicts.",
+  "tell": "Fairly presents, not will perform.",
+  "miss": false
+ },
+ {
+  "q": 14,
+  "concept": "Qualitative characteristics",
+  "rule": "Verifiability, relevance, materiality and conservatism, matched to their definitions.",
+  "trap": "Definitions that sound alike; each maps to exactly one term.",
+  "tell": "Match on the distinguishing word in each definition.",
+  "miss": false
+ },
+ {
+  "q": 15,
+  "concept": "Decision cycle",
+  "rule": "The scored order: prepare statements, analyse them, gather information, make the decision, implement it.",
+  "trap": "The intuitive order — gather first — which is the trap here.",
+  "tell": "Statements are the starting input, not the output.",
+  "miss": true
+ },
+ {
+  "q": 16,
+  "concept": "Current ratio",
+  "rule": "Current assets divided by current liabilities.",
+  "trap": "Ratios built from total assets or the wrong denominator.",
+  "tell": "Current over current. Both words must match.",
+  "miss": true
+ },
+ {
+  "q": 17,
+  "concept": "Debt ratio",
+  "rule": "Debt ratio over 100% means liabilities exceed total assets.",
+  "trap": "The same number measured against sales, net income, or current assets.",
+  "tell": "Debt ratio is total liabilities over total assets.",
+  "miss": false
+ },
+ {
+  "q": 18,
+  "concept": "Gross profit",
+  "rule": "If COGS is a constant percentage of sales, falling gross profit means falling sales.",
+  "trap": "Expenses below the gross profit line — salaries, interest, tax.",
+  "tell": "Gross profit is only sales minus COGS.",
+  "miss": false
+ },
+ {
+  "q": 19,
+  "concept": "Cash flow adequacy",
+  "rule": "Adequacy above 1 means operating cash covers commitments; a cash cow is well above 1.",
+  "trap": "Ratios below 1, which look similar in size.",
+  "tell": "Divide before comparing. Only two exceed 1 comfortably.",
+  "miss": false
+ },
+ {
+  "q": 20,
+  "concept": "Cash times interest earned",
+  "rule": "Cash before interest and taxes divided by cash paid for interest.",
+  "trap": "The same numerator over taxes, operations or acquisitions.",
+  "tell": "Interest earned means interest in the denominator.",
+  "miss": false
+ },
+ {
+  "q": 21,
+  "concept": "Long-term liabilities",
+  "rule": "Obligations due beyond one year.",
+  "trap": "Items due in weeks or months, which are current.",
+  "tell": "Twelve months is the line.",
+  "miss": false
+ },
+ {
+  "q": 22,
+  "concept": "Transaction analysis",
+  "rule": "Buying equipment with cash: equipment up, cash down.",
+  "trap": "Entries that touch equity or debt when neither changed.",
+  "tell": "One asset up, one asset down. Equity is untouched.",
+  "miss": false
+ },
+ {
+  "q": 23,
+  "concept": "Prepaid expense",
+  "rule": "Paying insurance in advance creates an asset: prepaid insurance up, cash down.",
+  "trap": "Equity or payable entries.",
+  "tell": "Paid in advance means an asset, not an expense yet.",
+  "miss": false
+ },
+ {
+  "q": 24,
+  "concept": "Net income",
+  "rule": "Operating expenses and ordinary gains and losses affect net income.",
+  "trap": "Dividends and stockholder contributions — equity transactions, not income.",
+  "tell": "Owners' transactions never touch net income.",
+  "miss": false
+ },
+ {
+  "q": 25,
+  "concept": "Multi-step income statement",
+  "rule": "It shows gross profit and income from operations as subtotals.",
+  "trap": "Balance sheet lines.",
+  "tell": "Subtotals of a statement of performance, not of position.",
+  "miss": false
+ },
+ {
+  "q": 26,
+  "concept": "Accrual — expense timing",
+  "rule": "Under accrual, cost is recognised when the goods are received, not paid for.",
+  "trap": "The month of payment or of sale.",
+  "tell": "Match the expense to the event, not the cash.",
+  "miss": false
+ },
+ {
+  "q": 27,
+  "concept": "Depreciation",
+  "rule": "Cost less salvage, divided by life, times the months held.",
+  "trap": "Full-year amounts, or the wrong month count.",
+  "tell": "Count the months actually owned.",
+  "miss": false
+ },
+ {
+  "q": 28,
+  "concept": "Revenue on account",
+  "rule": "Services delivered on credit: receivables up, and retained earnings up by the revenue earned.",
+  "trap": "Retained earnings moved by the cash amount rather than the revenue.",
+  "tell": "Revenue earned drives equity; cash timing does not.",
+  "miss": true
+ },
+ {
+  "q": 29,
+  "concept": "Pro-forma growth",
+  "rule": "Divide the projected figure by one plus the growth rate to get the base year.",
+  "trap": "Multiplying instead of dividing, which inflates the base.",
+  "tell": "Work backwards from the projection.",
+  "miss": false
+ },
+ {
+  "q": 30,
+  "concept": "Cash flow categories",
+  "rule": "Operating, investing, financing.",
+  "trap": "Marketing, production and planning — business functions, not cash categories.",
+  "tell": "Only three categories exist.",
+  "miss": false
+ },
+ {
+  "q": 31,
+  "concept": "Financing — investors",
+  "rule": "Cash received from investors is financing.",
+  "trap": "Investing, which is about buying and selling assets.",
+  "tell": "Money from owners is financing, not investing.",
+  "miss": false
+ },
+ {
+  "q": 32,
+  "concept": "Investing activities",
+  "rule": "Buying plant assets is investing.",
+  "trap": "Dividends and stock issuance, which are financing or operating.",
+  "tell": "Investing means long-term assets.",
+  "miss": false
+ },
+ {
+  "q": 33,
+  "concept": "Sale of equipment",
+  "rule": "Selling equipment increases cash from investing.",
+  "trap": "Operating, which is where the gain on sale appears but not the proceeds.",
+  "tell": "The asset sold decides the category, not the profit on it.",
+  "miss": true
+ },
+ {
+  "q": 34,
+  "concept": "Direct vs indirect method",
+  "rule": "The indirect method is more common among large US companies.",
+  "trap": "The direct method, or equal popularity.",
+  "tell": "Indirect starts from net income and is easier to prepare.",
+  "miss": false
+ },
+ {
+  "q": 35,
+  "concept": "Operating cash flow",
+  "rule": "Cash in from customers less cash out for operating items.",
+  "trap": "Totals that include an investing or financing line.",
+  "tell": "Include only operating receipts and payments.",
+  "miss": false
+ },
+ {
+  "q": 36,
+  "concept": "Errors vs fraud",
+  "rule": "An error is unintentional: a miscalculation, or an unintentional misclassification.",
+  "trap": "Theft and auditor disagreement — fraud and judgement, not error.",
+  "tell": "Intent is the dividing line.",
+  "miss": false
+ },
+ {
+  "q": 37,
+  "concept": "Internal control — receiving",
+  "rule": "Counting and inspecting goods on receipt prevents paying for what never arrived.",
+  "trap": "Authorisation, dual signatures and prenumbered checks — real controls, different risks.",
+  "tell": "Match the control to the specific risk named.",
+  "miss": false
+ },
+ {
+  "q": 38,
+  "concept": "Earnings manipulation",
+  "rule": "Pressure to hit internal targets, and preparing to qualify for financing.",
+  "trap": "Complying with auditors or with Sarbanes-Oxley — reasons not to manipulate.",
+  "tell": "Motive must be a pressure to overstate.",
+  "miss": true
+ },
+ {
+  "q": 39,
+  "concept": "SOX — audit firms",
+  "rule": "No certain nonaudit services for audit clients; report to the audit committee, not management.",
+  "trap": "Code-of-ethics enforcement and a five-year firm rotation, which the act does not require of firms.",
+  "tell": "Independence is the theme.",
+  "miss": false
+ },
+ {
+  "q": 40,
+  "concept": "SOX — management",
+  "rule": "Management assesses internal control effectiveness and supports a stronger board and audit committee.",
+  "trap": "Rotation and loan authorisation — those apply to auditors and are prohibited respectively.",
+  "tell": "Management's duties, not the auditor's.",
+  "miss": false
+ },
+ {
+  "q": 41,
+  "concept": "Internal auditors",
+  "rule": "They investigate fraud and review records and controls.",
+  "trap": "Doing the original accounting, or issuing GAAP opinions — that is the external auditor.",
+  "tell": "Internal auditors check work; they do not perform it or opine on it.",
+  "miss": false
+ },
+ {
+  "q": 42,
+  "concept": "SEC",
+  "rule": "It ensures users receive reliable information.",
+  "trap": "Supporting auditors, boards or controllers — other bodies' roles.",
+  "tell": "Protection of the investor is the mandate.",
+  "miss": false
+ },
+ {
+  "q": 43,
+  "concept": "Management accounting",
+  "rule": "Insight for management, and detailed data for internal decisions.",
+  "trap": "Outside stakeholders and the IRS — those are financial and tax accounting.",
+  "tell": "Internal audience, always.",
+  "miss": false
+ },
+ {
+  "q": 44,
+  "concept": "Management vs financial accounting",
+  "rule": "Management accounting is for internal planning, control and decision-making.",
+  "trap": "Claims about being unbiased, financial-only, or not competitive — all describe financial accounting or are false.",
+  "tell": "Who reads it decides the answer.",
+  "miss": true
+ },
+ {
+  "q": 45,
+  "concept": "Manufacturing balance sheet",
+  "rule": "Inventory appears for a manufacturer and not for a service firm.",
+  "trap": "Cash, receivables and equipment, which both have.",
+  "tell": "A service firm has nothing to hold in stock.",
+  "miss": false
+ },
+ {
+  "q": 46,
+  "concept": "Differential cost",
+  "rule": "A cost that changes as a result of the decision.",
+  "trap": "Sunk, opportunity and out-of-pocket costs.",
+  "tell": "Differential means it differs between alternatives.",
+  "miss": false
+ },
+ {
+  "q": 47,
+  "concept": "Period costs",
+  "rule": "Selling and administrative expenses.",
+  "trap": "Direct labour and manufacturing overhead — product costs.",
+  "tell": "Product costs attach to inventory; period costs do not.",
+  "miss": false
+ },
+ {
+  "q": 48,
+  "concept": "Period vs product cost",
+  "rule": "A receptionist's salary and advertising are period costs.",
+  "trap": "Wood and the craftsperson's salary — direct material and direct labour.",
+  "tell": "Anything that touches the product is a product cost.",
+  "miss": true
+ },
+ {
+  "q": 49,
+  "concept": "Ethical standards",
+  "rule": "They guide resolution of ethical dilemmas.",
+  "trap": "Claims that standards prevent behaviour or predict character.",
+  "tell": "A standard guides; it does not enforce or foresee.",
+  "miss": false
+ },
+ {
+  "q": 50,
+  "concept": "Product cost total",
+  "rule": "Direct materials plus direct labour plus manufacturing overhead.",
+  "trap": "Totals that include selling or administrative costs.",
+  "tell": "Include only what happens in the factory.",
+  "miss": false
+ },
+ {
+  "q": 51,
+  "concept": "Product cost total",
+  "rule": "Same computation, different figures.",
+  "trap": "Totals that drop overhead or add a period cost.",
+  "tell": "List the three product-cost buckets before adding.",
+  "miss": true
+ },
+ {
+  "q": 52,
+  "concept": "Inventory cost",
+  "rule": "Direct labour and overhead are inventoried.",
+  "trap": "Selling and legal costs.",
+  "tell": "If it is not incurred to make the unit, it is not in inventory.",
+  "miss": false
+ },
+ {
+  "q": 53,
+  "concept": "When ABC fits",
+  "rule": "Several highly differentiated products with varied overhead consumption.",
+  "trap": "Single product lines, or similar products, where one rate is adequate.",
+  "tell": "Diversity of products is what breaks traditional costing.",
+  "miss": false
+ },
+ {
+  "q": 54,
+  "concept": "ABC hierarchy",
+  "rule": "Setup and material movement are batch-level.",
+  "trap": "Unit, product-line and facility levels.",
+  "tell": "Per batch, not per unit.",
+  "miss": false
+ },
+ {
+  "q": 55,
+  "concept": "Cost driver",
+  "rule": "Police cost is driven by the number of people present.",
+  "trap": "Organiser hours, fees and insurance — costs, not drivers.",
+  "tell": "A driver is what causes the cost to rise.",
+  "miss": true
+ },
+ {
+  "q": 56,
+  "concept": "ABC allocation",
+  "rule": "Rate per activity times that product's activity consumption.",
+  "trap": "Totals that use a single plant-wide rate.",
+  "tell": "Each pool gets its own rate.",
+  "miss": false
+ },
+ {
+  "q": 57,
+  "concept": "ABC allocation",
+  "rule": "Same method, different product.",
+  "trap": "Numbers from the wrong pool or the wrong product.",
+  "tell": "Track which pool and which product before multiplying.",
+  "miss": false
+ },
+ {
+  "q": 58,
+  "concept": "Overhead application",
+  "rule": "Rate times the actual driver volume.",
+  "trap": "Products of the wrong two figures.",
+  "tell": "Rate times base, and check both.",
+  "miss": false
+ },
+ {
+  "q": 59,
+  "concept": "Using ABC results",
+  "rule": "If ABC shows a product costs more than traditional costing suggested, its price should rise.",
+  "trap": "Lowering price, changing batch counts, or reverting to traditional costing.",
+  "tell": "ABC revealed an undercosted product.",
+  "miss": false
+ },
+ {
+  "q": 60,
+  "concept": "Contribution margin",
+  "rule": "Sales less variable costs, then less fixed costs, gives operating income.",
+  "trap": "Totals that stop at contribution margin or drop a cost.",
+  "tell": "Subtract variable first, then fixed.",
+  "miss": true
+ },
+ {
+  "q": 61,
+  "concept": "Cost-volume-profit",
+  "rule": "CVP studies profits across levels of activity.",
+  "trap": "Liabilities and inventory — balance sheet items.",
+  "tell": "Volume and profit are in the name.",
+  "miss": false
+ },
+ {
+  "q": 62,
+  "concept": "Fixed cost behaviour",
+  "rule": "Total fixed cost stays the same; fixed cost per unit falls as volume rises.",
+  "trap": "Both statements reversed, or per-unit fixed cost held constant.",
+  "tell": "Total flat, per-unit falling. Always.",
+  "miss": false
+ },
+ {
+  "q": 63,
+  "concept": "Break-even in units",
+  "rule": "Fixed costs divided by contribution margin per unit.",
+  "trap": "Unit counts from dividing by price or by variable cost.",
+  "tell": "Divide by the margin, not the price.",
+  "miss": false
+ },
+ {
+  "q": 64,
+  "concept": "Break-even in revenue",
+  "rule": "Break-even units multiplied by price.",
+  "trap": "Figures that use total cost or fixed cost alone.",
+  "tell": "Revenue equals total cost at break-even.",
+  "miss": false
+ },
+ {
+  "q": 65,
+  "concept": "Reading a CVP graph",
+  "rule": "Read total cost off the total-cost line at the stated volume.",
+  "trap": "Values read from the revenue line, or from the fixed-cost line.",
+  "tell": "Identify which line before reading a number.",
+  "miss": true
+ },
+ {
+  "q": 66,
+  "concept": "Credit policy and bad debt",
+  "rule": "Raising credit limits for all customers increases bad debt.",
+  "trap": "Tightening policy, or discount terms, which reduce or do not raise risk.",
+  "tell": "Which change lets weaker customers borrow more?",
+  "miss": false
+ },
+ {
+  "q": 67,
+  "concept": "Cash collections budget",
+  "rule": "Apply the collection percentages to each month's sales and sum what lands in the target month.",
+  "trap": "Totals that apply the pattern to the wrong months.",
+  "tell": "Build the collection schedule before adding.",
+  "miss": false
+ },
+ {
+  "q": 68,
+  "concept": "Purchases payment budget",
+  "rule": "Apply the payment pattern across months.",
+  "trap": "Totals from the wrong month's purchases.",
+  "tell": "Which month is being paid, and for what.",
+  "miss": false
+ },
+ {
+  "q": 69,
+  "concept": "Cash disbursements",
+  "rule": "Sum the payments falling in the period under the stated terms.",
+  "trap": "Totals that include or exclude a boundary month.",
+  "tell": "Check the first and last month of the window.",
+  "miss": false
+ }
+]
